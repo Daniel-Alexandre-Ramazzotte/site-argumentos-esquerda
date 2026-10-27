@@ -1,0 +1,6122 @@
+[
+  {
+    "year": 2014,
+    "source": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2014&no_anexo=DCA-Anexo%20I-E&id_ente=1",
+    "functions": [
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Empenhadas",
+        "value": 5881262433.12
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Empenhadas",
+        "value": 25261241134.75
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Empenhadas",
+        "value": 4678386128.35
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Empenhadas",
+        "value": 18952298753.73
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Empenhadas",
+        "value": 39726684222.77
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Empenhadas",
+        "value": 8057404452.89
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Empenhadas",
+        "value": 2304000025.54
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 70412487966.37
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 494408293612.2
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Empenhadas",
+        "value": 92515938123.19
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Empenhadas",
+        "value": 71407339181.36
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Empenhadas",
+        "value": 85425311402.75
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Empenhadas",
+        "value": 1760742587.95
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Empenhadas",
+        "value": 1402319880.33
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Empenhadas",
+        "value": 4098554872.01
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Empenhadas",
+        "value": 47587018.33
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Empenhadas",
+        "value": 1691319422.86
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Empenhadas",
+        "value": 6596943529.82
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Empenhadas",
+        "value": 8034582375.06
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Empenhadas",
+        "value": 18023112942.26
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Empenhadas",
+        "value": 4193071108.98
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Empenhadas",
+        "value": 2108645542.1
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Empenhadas",
+        "value": 4739078356.03
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Empenhadas",
+        "value": 1397889151.77
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Empenhadas",
+        "value": 1056799678.95
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Empenhadas",
+        "value": 20881552483.02
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Empenhadas",
+        "value": 2409804158.14
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Empenhadas",
+        "value": 1271295776486.61
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Liquidadas",
+        "value": 5531037587.21
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Liquidadas",
+        "value": 23519663160.18
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Liquidadas",
+        "value": 4259330917.24
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Liquidadas",
+        "value": 17559737089.57
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Liquidadas",
+        "value": 34435581342.71
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Liquidadas",
+        "value": 6524359553.88
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Liquidadas",
+        "value": 2251312785.08
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 68325795766.9
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 493124789477.39
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Liquidadas",
+        "value": 85130901081.79
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Liquidadas",
+        "value": 69419664361.89
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Liquidadas",
+        "value": 73059804006.14
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Liquidadas",
+        "value": 858875218.64
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Liquidadas",
+        "value": 687780272.51
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Liquidadas",
+        "value": 1486241030.91
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Liquidadas",
+        "value": 7455551.07
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Liquidadas",
+        "value": 483055732.34
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Liquidadas",
+        "value": 3617727332.77
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Liquidadas",
+        "value": 6115849700.31
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Liquidadas",
+        "value": 9833406467.18
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Liquidadas",
+        "value": 2510541619.25
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Liquidadas",
+        "value": 1958764722.67
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Liquidadas",
+        "value": 1359096195.41
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Liquidadas",
+        "value": 1156826767.11
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Liquidadas",
+        "value": 883862548.17
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Liquidadas",
+        "value": 13891667783.58
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Liquidadas",
+        "value": 848433386.3
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Liquidadas",
+        "value": 1230918840421.01
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Pagas",
+        "value": 5525017675.36
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Pagas",
+        "value": 23469327427.95
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Pagas",
+        "value": 4254115744.26
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Pagas",
+        "value": 17294831806.09
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Pagas",
+        "value": 33790597586.49
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Pagas",
+        "value": 6406702675.23
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Pagas",
+        "value": 2251264016.7
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Pagas",
+        "value": 66834865730.53
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Pagas",
+        "value": 470742949551.25
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Pagas",
+        "value": 84800942032.91
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Pagas",
+        "value": 69344514131.67
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Pagas",
+        "value": 72610288258.94
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Pagas",
+        "value": 838642540.89
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Pagas",
+        "value": 675486900.1
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Pagas",
+        "value": 1336566600.14
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Pagas",
+        "value": 7455551.07
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Pagas",
+        "value": 455280845.23
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Pagas",
+        "value": 3287026994.76
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Pagas",
+        "value": 5724530380.86
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Pagas",
+        "value": 9295124869.92
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Pagas",
+        "value": 2424407706.25
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Pagas",
+        "value": 1915569885.62
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Pagas",
+        "value": 1359089355.15
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Pagas",
+        "value": 1137298140.12
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Pagas",
+        "value": 744274415.05
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Pagas",
+        "value": 11986582471.07
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Pagas",
+        "value": 832732607.64
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Pagas",
+        "value": 1230630221762.31
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "source": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2015&no_anexo=DCA-Anexo%20I-E&id_ente=1",
+    "functions": [
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Empenhadas",
+        "value": 6258437365.6
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Empenhadas",
+        "value": 27396723954.05
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Empenhadas",
+        "value": 5474704962.37
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Empenhadas",
+        "value": 19441841065.94
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Empenhadas",
+        "value": 40936712695.8
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Empenhadas",
+        "value": 8116441485.55
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Empenhadas",
+        "value": 3016306315.55
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 73214734049.96
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 540303762133.2
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Empenhadas",
+        "value": 100361849925.1
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Empenhadas",
+        "value": 67095403134.57
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Empenhadas",
+        "value": 90768738571.39
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Empenhadas",
+        "value": 1789928495.8
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Empenhadas",
+        "value": 1228345040.03
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Empenhadas",
+        "value": 4320698280.78
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Empenhadas",
+        "value": 68608429.49
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Empenhadas",
+        "value": 1093551336.56
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Empenhadas",
+        "value": 4629005986.17
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Empenhadas",
+        "value": 8206220573.15
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Empenhadas",
+        "value": 20691275700.02
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Empenhadas",
+        "value": 2985257229.69
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Empenhadas",
+        "value": 2032857146.54
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Empenhadas",
+        "value": 4170049974.66
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Empenhadas",
+        "value": 1305721256.84
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Empenhadas",
+        "value": 1771670540.05
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Empenhadas",
+        "value": 16557606723.9
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Empenhadas",
+        "value": 2038946900.73
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Empenhadas",
+        "value": 1274182301979.8
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Liquidadas",
+        "value": 5920638004.99
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Liquidadas",
+        "value": 25559419053.43
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Liquidadas",
+        "value": 4977704465.47
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Liquidadas",
+        "value": 18385736192.96
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Liquidadas",
+        "value": 35665366624.78
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Liquidadas",
+        "value": 6981461376.76
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Liquidadas",
+        "value": 2961720948.54
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 70704645021.24
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 539707307468.55
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Liquidadas",
+        "value": 92915010748.52
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Liquidadas",
+        "value": 65120049942.9
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Liquidadas",
+        "value": 79997719873.29
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Liquidadas",
+        "value": 824874148.27
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Liquidadas",
+        "value": 663746510.96
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Liquidadas",
+        "value": 1134182290.13
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Liquidadas",
+        "value": 2391943.72
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Liquidadas",
+        "value": 260352595.76
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Liquidadas",
+        "value": 2907705910.82
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Liquidadas",
+        "value": 6248218744.54
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Liquidadas",
+        "value": 17631467295.46
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Liquidadas",
+        "value": 1625504632.46
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Liquidadas",
+        "value": 1817060225.34
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Liquidadas",
+        "value": 1107902116.13
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Liquidadas",
+        "value": 1144630737.12
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Liquidadas",
+        "value": 1491217095.7
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Liquidadas",
+        "value": 11296669572.06
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Liquidadas",
+        "value": 663237359.8
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Liquidadas",
+        "value": 1257017250464.44
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Pagas",
+        "value": 5914445039.23
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Pagas",
+        "value": 25500561021.93
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Pagas",
+        "value": 4944738638.56
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Pagas",
+        "value": 18264588405.24
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Pagas",
+        "value": 32888538143.99
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Pagas",
+        "value": 6865839396.32
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Pagas",
+        "value": 2958007169.19
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Pagas",
+        "value": 69176728067.03
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Pagas",
+        "value": 513582768598.34
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Pagas",
+        "value": 92154111989.26
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Pagas",
+        "value": 65089574582.73
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Pagas",
+        "value": 78288372605.45
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Pagas",
+        "value": 783592370.1
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Pagas",
+        "value": 635295114.25
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Pagas",
+        "value": 1083901568.7
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Pagas",
+        "value": 2391943.72
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Pagas",
+        "value": 259588717.48
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Pagas",
+        "value": 2813691102.5
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Pagas",
+        "value": 5807384531.11
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Pagas",
+        "value": 17132890604.06
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Pagas",
+        "value": 1558020857.25
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Pagas",
+        "value": 1790798543.65
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Pagas",
+        "value": 1102064557.31
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Pagas",
+        "value": 1074339704.96
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Pagas",
+        "value": 1467103038.49
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Pagas",
+        "value": 9521702809.63
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Pagas",
+        "value": 651420843.63
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Pagas",
+        "value": 1256839532339.78
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "source": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2016&no_anexo=DCA-Anexo%20I-E&id_ente=1",
+    "functions": [
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Empenhadas",
+        "value": 6311891263.31
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Empenhadas",
+        "value": 28315755274.42
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Empenhadas",
+        "value": 5621516392.07
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Empenhadas",
+        "value": 21801008784.01
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Empenhadas",
+        "value": 61596446693.9
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Empenhadas",
+        "value": 8816085565.02
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Empenhadas",
+        "value": 2769130841.94
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 79742744575.87
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 594562630895.35
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Empenhadas",
+        "value": 106486647739.12
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Empenhadas",
+        "value": 72398819438.03
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Empenhadas",
+        "value": 94545790452.47
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Empenhadas",
+        "value": 1863805427.35
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Empenhadas",
+        "value": 2323797564.65
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Empenhadas",
+        "value": 3776095410.02
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Empenhadas",
+        "value": 38162826.94
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Empenhadas",
+        "value": 563561554.21
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Empenhadas",
+        "value": 5360809660.95
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Empenhadas",
+        "value": 6975079700.2
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Empenhadas",
+        "value": 25010914406.58
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Empenhadas",
+        "value": 2888265394.76
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Empenhadas",
+        "value": 2156681812.07
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Empenhadas",
+        "value": 3079807058.93
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Empenhadas",
+        "value": 1278972145.37
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Empenhadas",
+        "value": 1790162354.83
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Empenhadas",
+        "value": 13963956269.85
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Empenhadas",
+        "value": 1407915691.11
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Empenhadas",
+        "value": 1459970045514.18
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Liquidadas",
+        "value": 6164091347.22
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Liquidadas",
+        "value": 27580219077.22
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Liquidadas",
+        "value": 5329501805.71
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Liquidadas",
+        "value": 20348746624.97
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Liquidadas",
+        "value": 57006476565.48
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Liquidadas",
+        "value": 7553112036.87
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Liquidadas",
+        "value": 2654188250.35
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 78218493434.14
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 593925112346.16
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Liquidadas",
+        "value": 98773342794.75
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Liquidadas",
+        "value": 70037669515.85
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Liquidadas",
+        "value": 84948819866.92
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Liquidadas",
+        "value": 886166490.35
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Liquidadas",
+        "value": 1801594539.52
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Liquidadas",
+        "value": 1502121820.86
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Liquidadas",
+        "value": 9405847.4
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Liquidadas",
+        "value": 409888056.98
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Liquidadas",
+        "value": 3280417857.5
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Liquidadas",
+        "value": 5907586985.25
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Liquidadas",
+        "value": 18834430134.54
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Liquidadas",
+        "value": 2233245950.48
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Liquidadas",
+        "value": 1906089537.25
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Liquidadas",
+        "value": 2379833518.24
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Liquidadas",
+        "value": 1205155136.55
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Liquidadas",
+        "value": 1610971145.32
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Liquidadas",
+        "value": 10015352883.15
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Liquidadas",
+        "value": 478031327.56
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Liquidadas",
+        "value": 1441280216698.79
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Pagas",
+        "value": 6158384491.1
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Pagas",
+        "value": 27550167503.93
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Pagas",
+        "value": 5317658635.19
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Pagas",
+        "value": 20208811724.83
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Pagas",
+        "value": 56792809375.22
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Pagas",
+        "value": 7529976865.09
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Pagas",
+        "value": 2652616686.52
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Pagas",
+        "value": 77552493368.65
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Pagas",
+        "value": 578960080316.42
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Pagas",
+        "value": 98494822879.19
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Pagas",
+        "value": 70033135978.46
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Pagas",
+        "value": 84634582057.37
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Pagas",
+        "value": 882254840.78
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Pagas",
+        "value": 1754086732.15
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Pagas",
+        "value": 1480438834.84
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Pagas",
+        "value": 9405847.4
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Pagas",
+        "value": 409011116.82
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Pagas",
+        "value": 3206119862.97
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Pagas",
+        "value": 5778860485.6
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Pagas",
+        "value": 18771556760.92
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Pagas",
+        "value": 2203541896.27
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Pagas",
+        "value": 1888785124.69
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Pagas",
+        "value": 2376151684.13
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Pagas",
+        "value": 1191729708.1
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Pagas",
+        "value": 1608618874.14
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Pagas",
+        "value": 9829089355.69
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Pagas",
+        "value": 473368468.77
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Pagas",
+        "value": 1441249899703.57
+      }
+    ]
+  },
+  {
+    "year": 2017,
+    "source": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2017&no_anexo=DCA-Anexo%20I-E&id_ente=1",
+    "functions": [
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Empenhadas",
+        "value": 6367663481.03
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Empenhadas",
+        "value": 30548670414.22
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Empenhadas",
+        "value": 6205909186.72
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Empenhadas",
+        "value": 24617553257.09
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Empenhadas",
+        "value": 68151145514.98
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Empenhadas",
+        "value": 9751647602.65
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Empenhadas",
+        "value": 2847873697.87
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 84700457239.15
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 654798659780
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Empenhadas",
+        "value": 115758088491.46
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Empenhadas",
+        "value": 71481112360.92
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Empenhadas",
+        "value": 97763017230.61
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Empenhadas",
+        "value": 1828642320.27
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Empenhadas",
+        "value": 1685440063.28
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Empenhadas",
+        "value": 6301924521.93
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Empenhadas",
+        "value": 51351554.2
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Empenhadas",
+        "value": 858700550.79
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Empenhadas",
+        "value": 3983580973.99
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Empenhadas",
+        "value": 6999041234.84
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Empenhadas",
+        "value": 22224944957.66
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Empenhadas",
+        "value": 2648846896.93
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Empenhadas",
+        "value": 2077722698.71
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Empenhadas",
+        "value": 2777336933.71
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Empenhadas",
+        "value": 1121565460.67
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Empenhadas",
+        "value": 1805171025.85
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Empenhadas",
+        "value": 15018415434.68
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Empenhadas",
+        "value": 1288536660.88
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Empenhadas",
+        "value": 1295884078145.15
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Liquidadas",
+        "value": 6213442498.39
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Liquidadas",
+        "value": 29404873899.38
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Liquidadas",
+        "value": 5929928575.67
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Liquidadas",
+        "value": 22773146043.8
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Liquidadas",
+        "value": 63156791630.53
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Liquidadas",
+        "value": 8097425367.61
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Liquidadas",
+        "value": 2757857517.5
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 84098780055.42
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 654512233966.45
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Liquidadas",
+        "value": 101423261959.57
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Liquidadas",
+        "value": 69899957634.51
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Liquidadas",
+        "value": 88630962359.37
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Liquidadas",
+        "value": 949695560.21
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Liquidadas",
+        "value": 1343990616.19
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Liquidadas",
+        "value": 1822804834.86
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Liquidadas",
+        "value": 6221014.35
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Liquidadas",
+        "value": 714600576.37
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Liquidadas",
+        "value": 2908606360.59
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Liquidadas",
+        "value": 5904636410.23
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Liquidadas",
+        "value": 14487223236
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Liquidadas",
+        "value": 1735872318.99
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Liquidadas",
+        "value": 1973602130.15
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Liquidadas",
+        "value": 2088873012.07
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Liquidadas",
+        "value": 1030574478.37
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Liquidadas",
+        "value": 1701150790.16
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Liquidadas",
+        "value": 10705476902.08
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Liquidadas",
+        "value": 310351343.85
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Liquidadas",
+        "value": 1278105547427.13
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Pagas",
+        "value": 6210471981.1
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Pagas",
+        "value": 29374113254.37
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Pagas",
+        "value": 5924632464.88
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Pagas",
+        "value": 22656986851.72
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Pagas",
+        "value": 62672221979.65
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Pagas",
+        "value": 8060904863.44
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Pagas",
+        "value": 2754571787.76
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Pagas",
+        "value": 83076945248.21
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Pagas",
+        "value": 636444815480.44
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Pagas",
+        "value": 100890070935.95
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Pagas",
+        "value": 69292385307.26
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Pagas",
+        "value": 88316795687.97
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Pagas",
+        "value": 946437214.46
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Pagas",
+        "value": 1342511735.41
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Pagas",
+        "value": 1791463140.61
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Pagas",
+        "value": 6221014.35
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Pagas",
+        "value": 714600576.37
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Pagas",
+        "value": 2903070944.92
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Pagas",
+        "value": 5859842241.91
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Pagas",
+        "value": 14320417309.17
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Pagas",
+        "value": 1720538695.54
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Pagas",
+        "value": 1956644436.45
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Pagas",
+        "value": 2088629262.07
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Pagas",
+        "value": 1022312766.24
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Pagas",
+        "value": 1697942159.8
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Pagas",
+        "value": 10628651843.14
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Pagas",
+        "value": 307298717.82
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Pagas",
+        "value": 1277879012085.9
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "source": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2018&no_anexo=DCA-Anexo%20I-E&id_ente=1",
+    "functions": [
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Empenhadas",
+        "value": 6522245695.41
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Empenhadas",
+        "value": 31853647001.68
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Empenhadas",
+        "value": 6269870015.73
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Empenhadas",
+        "value": 28432540093.04
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Empenhadas",
+        "value": 76353395575.28
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Empenhadas",
+        "value": 11361983138.16
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Empenhadas",
+        "value": 3105523999.83
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 88659559462.75
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 683312854462.01
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Empenhadas",
+        "value": 119050309189.83
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Empenhadas",
+        "value": 72378099121.72
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Empenhadas",
+        "value": 98040748459.02
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Empenhadas",
+        "value": 1925133171.45
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Empenhadas",
+        "value": 1522914546.57
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Empenhadas",
+        "value": 5327120637.25
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Empenhadas",
+        "value": 18530684.98
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Empenhadas",
+        "value": 921136878.35
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Empenhadas",
+        "value": 4426511498.01
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Empenhadas",
+        "value": 7123693032.63
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Empenhadas",
+        "value": 21723902714.87
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Empenhadas",
+        "value": 2594091107.78
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Empenhadas",
+        "value": 2032279772.54
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Empenhadas",
+        "value": 4607688289.63
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Empenhadas",
+        "value": 1220499173.64
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Empenhadas",
+        "value": 1893095526.11
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Empenhadas",
+        "value": 14874415700.81
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Empenhadas",
+        "value": 1236616298.46
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Empenhadas",
+        "value": 1417220128635.61
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Liquidadas",
+        "value": 6373809191.29
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Liquidadas",
+        "value": 31068724689.55
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Liquidadas",
+        "value": 6040086451.81
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Liquidadas",
+        "value": 25988285093.73
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Liquidadas",
+        "value": 71058688769.37
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Liquidadas",
+        "value": 8216445604.58
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Liquidadas",
+        "value": 3002067227.2
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 87977145705.18
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 681663707485.86
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Liquidadas",
+        "value": 107759496525.77
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Liquidadas",
+        "value": 70861224352.32
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Liquidadas",
+        "value": 90927793133.5
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Liquidadas",
+        "value": 960169632.36
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Liquidadas",
+        "value": 929735748.68
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Liquidadas",
+        "value": 1648091342.91
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Liquidadas",
+        "value": 5675724.39
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Liquidadas",
+        "value": 558626264.47
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Liquidadas",
+        "value": 3470994317
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Liquidadas",
+        "value": 6194519005.55
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Liquidadas",
+        "value": 15151600469.16
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Liquidadas",
+        "value": 1571394663.2
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Liquidadas",
+        "value": 1917492646.18
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Liquidadas",
+        "value": 2645477596.04
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Liquidadas",
+        "value": 1089032375.7
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Liquidadas",
+        "value": 1753068765.99
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Liquidadas",
+        "value": 11352883065.72
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Liquidadas",
+        "value": 286861651.28
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Liquidadas",
+        "value": 1398475554440.63
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Pagas",
+        "value": 6358841286.11
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Pagas",
+        "value": 31037352964.68
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Pagas",
+        "value": 6009344698.31
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Pagas",
+        "value": 24520467001.12
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Pagas",
+        "value": 66952888483.96
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Pagas",
+        "value": 7743881266.36
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Pagas",
+        "value": 2976165531.2
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Pagas",
+        "value": 85879728794.2
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Pagas",
+        "value": 641949448406.09
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Pagas",
+        "value": 106404312407.82
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Pagas",
+        "value": 70276542883.66
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Pagas",
+        "value": 87069531400.8
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Pagas",
+        "value": 916601977.34
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Pagas",
+        "value": 901949167.61
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Pagas",
+        "value": 1546485497.76
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Pagas",
+        "value": 5675724.39
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Pagas",
+        "value": 558405334.54
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Pagas",
+        "value": 3265309013.05
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Pagas",
+        "value": 6009953588.29
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Pagas",
+        "value": 14782768031.31
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Pagas",
+        "value": 1466553374.11
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Pagas",
+        "value": 1824196473.03
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Pagas",
+        "value": 2641726203.45
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Pagas",
+        "value": 1041232086.83
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Pagas",
+        "value": 1718058770.45
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Pagas",
+        "value": 11184549038.7
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Pagas",
+        "value": 260207484.27
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Pagas",
+        "value": 1398306108858.55
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "source": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2019&no_anexo=DCA-Anexo%20I-E&id_ente=1",
+    "functions": [
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Empenhadas",
+        "value": 6745718622.35
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Empenhadas",
+        "value": 33168104591.51
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Empenhadas",
+        "value": 6635418180.81
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Empenhadas",
+        "value": 24856681955.86
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Empenhadas",
+        "value": 83831353509
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Empenhadas",
+        "value": 10233719554.61
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Empenhadas",
+        "value": 3199008543.86
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 95955646296.35
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 726129572146.67
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Empenhadas",
+        "value": 124106684198.84
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Empenhadas",
+        "value": 74289370224.77
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Empenhadas",
+        "value": 101300258785.12
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Empenhadas",
+        "value": 1751079496.97
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Empenhadas",
+        "value": 2303517744.21
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Empenhadas",
+        "value": 7409309968.97
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Empenhadas",
+        "value": 21506500
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Empenhadas",
+        "value": 514804045.16
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Empenhadas",
+        "value": 4573959781.66
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Empenhadas",
+        "value": 6949995604.75
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Empenhadas",
+        "value": 20904721045.82
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Empenhadas",
+        "value": 1860594547.73
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Empenhadas",
+        "value": 1728597255.97
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Empenhadas",
+        "value": 2764516688.56
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Empenhadas",
+        "value": 1271178209.12
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Empenhadas",
+        "value": 2577617486.53
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Empenhadas",
+        "value": 11957542919.38
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Empenhadas",
+        "value": 749470508.98
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Empenhadas",
+        "value": 1450123183557.92
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Liquidadas",
+        "value": 6573132983.27
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Liquidadas",
+        "value": 32621919473.94
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Liquidadas",
+        "value": 6426904188.52
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Liquidadas",
+        "value": 22978833941.02
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Liquidadas",
+        "value": 78465703579.85
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Liquidadas",
+        "value": 8449232569.33
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Liquidadas",
+        "value": 3093703810.28
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 94914669183.01
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 725885589990.67
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Liquidadas",
+        "value": 113907816404.45
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Liquidadas",
+        "value": 72480772246.3
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Liquidadas",
+        "value": 88224813674.89
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Liquidadas",
+        "value": 715685974.85
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Liquidadas",
+        "value": 828918542.74
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Liquidadas",
+        "value": 1383200642.72
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Liquidadas",
+        "value": 11693914.11
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Liquidadas",
+        "value": 454227983.93
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Liquidadas",
+        "value": 3158187082.73
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Liquidadas",
+        "value": 6278760370.28
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Liquidadas",
+        "value": 14355160906.18
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Liquidadas",
+        "value": 1345902895.34
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Liquidadas",
+        "value": 1610134975.39
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Liquidadas",
+        "value": 1782606221.34
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Liquidadas",
+        "value": 1122639423.13
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Liquidadas",
+        "value": 2261545450
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Liquidadas",
+        "value": 8530758056.79
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Liquidadas",
+        "value": 159336724.91
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Liquidadas",
+        "value": 1434204894132.81
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Pagas",
+        "value": 6567225687.64
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Pagas",
+        "value": 32494876621.54
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Pagas",
+        "value": 6394309466.46
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Pagas",
+        "value": 21695208581.66
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Pagas",
+        "value": 74844134913.35
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Pagas",
+        "value": 7933920256.42
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Pagas",
+        "value": 3078578915.67
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Pagas",
+        "value": 92829869122.35
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Pagas",
+        "value": 683781143218.54
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Pagas",
+        "value": 112324927488.77
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Pagas",
+        "value": 72466055875.49
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Pagas",
+        "value": 84255519815.24
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Pagas",
+        "value": 686700048.38
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Pagas",
+        "value": 800360123.93
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Pagas",
+        "value": 1304841210.83
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Pagas",
+        "value": 4925414.11
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Pagas",
+        "value": 450742011.48
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Pagas",
+        "value": 3072542266.08
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Pagas",
+        "value": 6079180800.75
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Pagas",
+        "value": 13789631781.73
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Pagas",
+        "value": 1286642871.82
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Pagas",
+        "value": 1530300329.55
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Pagas",
+        "value": 1777777556.24
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Pagas",
+        "value": 1076015756.1
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Pagas",
+        "value": 2222985559.26
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Pagas",
+        "value": 8411120295.28
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Pagas",
+        "value": 157115769.32
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Pagas",
+        "value": 1433711046523.35
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "source": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2020&no_anexo=DCA-Anexo%20I-E&id_ente=1",
+    "functions": [
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Empenhadas",
+        "value": 6572913890.34
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Empenhadas",
+        "value": 32741416273.39
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Empenhadas",
+        "value": 6923285701.1
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Empenhadas",
+        "value": 24033274236.67
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Empenhadas",
+        "value": 81912969227.94
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Empenhadas",
+        "value": 12482047199.68
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Empenhadas",
+        "value": 3733458084.58
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 423571609597.81
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 766236294050.42
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Empenhadas",
+        "value": 162890195187.81
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Empenhadas",
+        "value": 77204931616.02
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Empenhadas",
+        "value": 95008039152.43
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Empenhadas",
+        "value": 1203219357.88
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Empenhadas",
+        "value": 1367134201.25
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Empenhadas",
+        "value": 8354629394.9
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Empenhadas",
+        "value": 77460407
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Empenhadas",
+        "value": 889681580.99
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Empenhadas",
+        "value": 4562218272.67
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Empenhadas",
+        "value": 6929523385.05
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Empenhadas",
+        "value": 19251624025.76
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Empenhadas",
+        "value": 1899845559.21
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Empenhadas",
+        "value": 1555705857.66
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Empenhadas",
+        "value": 7776880335.21
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Empenhadas",
+        "value": 1699673263.44
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Empenhadas",
+        "value": 1425190145.92
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Empenhadas",
+        "value": 11516435218.3
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Empenhadas",
+        "value": 596541723.03
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Empenhadas",
+        "value": 1918082126335.9
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Liquidadas",
+        "value": 6305415053.91
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Liquidadas",
+        "value": 31447972536.32
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Liquidadas",
+        "value": 6635814651.01
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Liquidadas",
+        "value": 22229041518.14
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Liquidadas",
+        "value": 76588357815.43
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Liquidadas",
+        "value": 9872052789.44
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Liquidadas",
+        "value": 3646965025.35
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 412348756422.22
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 764238674833.46
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Liquidadas",
+        "value": 151122559177.98
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Liquidadas",
+        "value": 75874937354.65
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Liquidadas",
+        "value": 82166227690.7
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Liquidadas",
+        "value": 581183220.13
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Liquidadas",
+        "value": 885798296.82
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Liquidadas",
+        "value": 1270635643.97
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Liquidadas",
+        "value": 1971878.19
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Liquidadas",
+        "value": 825697720.55
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Liquidadas",
+        "value": 3433175867.4
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Liquidadas",
+        "value": 6011271930.08
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Liquidadas",
+        "value": 12438830472.32
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Liquidadas",
+        "value": 1287811378.4
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Liquidadas",
+        "value": 1458421114.3
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Liquidadas",
+        "value": 6908742469.57
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Liquidadas",
+        "value": 1491011080.36
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Liquidadas",
+        "value": 1223863830.42
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Liquidadas",
+        "value": 7756861402.77
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Liquidadas",
+        "value": 101749944.05
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Liquidadas",
+        "value": 1874551284527.04
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Pagas",
+        "value": 6301211717.61
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Pagas",
+        "value": 31404923310.54
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Pagas",
+        "value": 6584621858.58
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Pagas",
+        "value": 21015922162.33
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Pagas",
+        "value": 72801203154.37
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Pagas",
+        "value": 9364240842.84
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Pagas",
+        "value": 3629832774.36
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Pagas",
+        "value": 409935150786.2
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Pagas",
+        "value": 718398761899.15
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Pagas",
+        "value": 148728019136.83
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Pagas",
+        "value": 75851784050.68
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Pagas",
+        "value": 78273941558.82
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Pagas",
+        "value": 552239616.89
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Pagas",
+        "value": 857305911.25
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Pagas",
+        "value": 1195430002.6
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Pagas",
+        "value": 1971878.19
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Pagas",
+        "value": 788948145.46
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Pagas",
+        "value": 3311287380.39
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Pagas",
+        "value": 5830772033.46
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Pagas",
+        "value": 12146062656.88
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Pagas",
+        "value": 1239459008.08
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Pagas",
+        "value": 1384774903.92
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Pagas",
+        "value": 4944489469.78
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Pagas",
+        "value": 1446892468.13
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Pagas",
+        "value": 1187093732.4
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Pagas",
+        "value": 7629355106.44
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Pagas",
+        "value": 98689729.12
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Pagas",
+        "value": 1873815492565.52
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "source": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2021&no_anexo=DCA-Anexo%20I-E&id_ente=1",
+    "functions": [
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Empenhadas",
+        "value": 6689865729.34
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Empenhadas",
+        "value": 33502379917.5
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Empenhadas",
+        "value": 6948718193.86
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Empenhadas",
+        "value": 24654436725.32
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Empenhadas",
+        "value": 84132572551.12
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Empenhadas",
+        "value": 11866094291.79
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Empenhadas",
+        "value": 3795569326.79
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 168632152535.07
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 805816392407.1
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Empenhadas",
+        "value": 180661645376.4
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Empenhadas",
+        "value": 66685339901.39
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Empenhadas",
+        "value": 101885793781.34
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Empenhadas",
+        "value": 1188001406.71
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Empenhadas",
+        "value": 1010487008.51
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Empenhadas",
+        "value": 10735649381.8
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Empenhadas",
+        "value": 90473703.22
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Empenhadas",
+        "value": 480619219.82
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Empenhadas",
+        "value": 3937185144.91
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Empenhadas",
+        "value": 5637722456.04
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Empenhadas",
+        "value": 24243428947.12
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Empenhadas",
+        "value": 1353013764.54
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Empenhadas",
+        "value": 1576985546.02
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Empenhadas",
+        "value": 3301046737.15
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Empenhadas",
+        "value": 2444840600.99
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Empenhadas",
+        "value": 1710247140.12
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Empenhadas",
+        "value": 10068320098.63
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Empenhadas",
+        "value": 872112479.36
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Empenhadas",
+        "value": 2447042129408.39
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Liquidadas",
+        "value": 6428474728.42
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Liquidadas",
+        "value": 31549353410.91
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Liquidadas",
+        "value": 6663208110.26
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Liquidadas",
+        "value": 22503589637.41
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Liquidadas",
+        "value": 78191740430.29
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Liquidadas",
+        "value": 9613511895.83
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Liquidadas",
+        "value": 3652304039.07
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 161127020465.56
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 804532026133.82
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Liquidadas",
+        "value": 161392816853.01
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Liquidadas",
+        "value": 65833213424.61
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Liquidadas",
+        "value": 90093920516.67
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Liquidadas",
+        "value": 584942655.39
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Liquidadas",
+        "value": 597587536.84
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Liquidadas",
+        "value": 1123457904.05
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Liquidadas",
+        "value": 2106963.46
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Liquidadas",
+        "value": 445532323.72
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Liquidadas",
+        "value": 2894104690.9
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Liquidadas",
+        "value": 4728738243.21
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Liquidadas",
+        "value": 16036730530.03
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Liquidadas",
+        "value": 983281607.23
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Liquidadas",
+        "value": 1471094330.69
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Liquidadas",
+        "value": 1683337880.5
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Liquidadas",
+        "value": 1961185196.51
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Liquidadas",
+        "value": 1568076203.42
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Liquidadas",
+        "value": 6432248309.9
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Liquidadas",
+        "value": 213857519.45
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Liquidadas",
+        "value": 2408954593800.73
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Pagas",
+        "value": 6424969280.43
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Pagas",
+        "value": 31505896497.4
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Pagas",
+        "value": 6631393495.27
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Pagas",
+        "value": 21262503382.78
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Pagas",
+        "value": 74345500398.47
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Pagas",
+        "value": 9039800746.36
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Pagas",
+        "value": 3635316761.9
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Pagas",
+        "value": 158601245525.94
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Pagas",
+        "value": 755375392912.57
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Pagas",
+        "value": 159594570009.8
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Pagas",
+        "value": 65828229760.13
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Pagas",
+        "value": 85893515556.91
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Pagas",
+        "value": 561617053.42
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Pagas",
+        "value": 568702987.28
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Pagas",
+        "value": 1037915158.43
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Pagas",
+        "value": 2106963.46
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Pagas",
+        "value": 445521729.77
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Pagas",
+        "value": 2789556424.05
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Pagas",
+        "value": 4335151455.74
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Pagas",
+        "value": 15722968411.36
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Pagas",
+        "value": 931533556.89
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Pagas",
+        "value": 1383836768.61
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Pagas",
+        "value": 1675982856.82
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Pagas",
+        "value": 1890059683.71
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Pagas",
+        "value": 1526416812.61
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Pagas",
+        "value": 6300296188.55
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Pagas",
+        "value": 213785619.09
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Pagas",
+        "value": 2408289042128.63
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "source": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2022&no_anexo=DCA-Anexo%20I-E&id_ente=1",
+    "functions": [
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Empenhadas",
+        "value": 7007103634.6
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Empenhadas",
+        "value": 36409584832.19
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Empenhadas",
+        "value": 7361634213.89
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Empenhadas",
+        "value": 26187198979.13
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Empenhadas",
+        "value": 89729294696.34
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Empenhadas",
+        "value": 13056762015.02
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Empenhadas",
+        "value": 3871110621.67
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 198326175737.98
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 897147980017.97
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Empenhadas",
+        "value": 153230637549.52
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Empenhadas",
+        "value": 97032184712.87
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Empenhadas",
+        "value": 117752504318.65
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Empenhadas",
+        "value": 1177631387.79
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Empenhadas",
+        "value": 972003977.73
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Empenhadas",
+        "value": 7622921837.58
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Empenhadas",
+        "value": 33501766.55
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Empenhadas",
+        "value": 762638560.86
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Empenhadas",
+        "value": 4136911102.62
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Empenhadas",
+        "value": 9273298215.59
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Empenhadas",
+        "value": 29092555457.69
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Empenhadas",
+        "value": 1746185142.18
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Empenhadas",
+        "value": 1646470177.12
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Empenhadas",
+        "value": 2530885454.28
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Empenhadas",
+        "value": 3574075389.3
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Empenhadas",
+        "value": 1329271684.66
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Empenhadas",
+        "value": 12846525031.11
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Empenhadas",
+        "value": 848054966.73
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Empenhadas",
+        "value": 2500360016506.46
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Liquidadas",
+        "value": 6633805982.19
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Liquidadas",
+        "value": 34872322104.35
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Liquidadas",
+        "value": 7091901482.34
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Liquidadas",
+        "value": 23632630684.35
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Liquidadas",
+        "value": 81277190998.3
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Liquidadas",
+        "value": 10981940050.14
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Liquidadas",
+        "value": 3725860224.81
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 196869642206.52
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 894750236765.18
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Liquidadas",
+        "value": 136174067359.32
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Liquidadas",
+        "value": 92364150346.33
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Liquidadas",
+        "value": 104466684071.45
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Liquidadas",
+        "value": 591371410.71
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Liquidadas",
+        "value": 662265542.82
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Liquidadas",
+        "value": 1407048722.25
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Liquidadas",
+        "value": 2550528.55
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Liquidadas",
+        "value": 316893223.51
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Liquidadas",
+        "value": 2851627027.77
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Liquidadas",
+        "value": 8111646949.39
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Liquidadas",
+        "value": 21496405867.57
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Liquidadas",
+        "value": 1403208506.47
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Liquidadas",
+        "value": 1560204095.73
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Liquidadas",
+        "value": 1574505708.06
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Liquidadas",
+        "value": 3023764463.48
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Liquidadas",
+        "value": 1241058086.89
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Liquidadas",
+        "value": 7625885852.23
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Liquidadas",
+        "value": 292958638.86
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Liquidadas",
+        "value": 2455824414635.25
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Pagas",
+        "value": 6609124632.74
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Pagas",
+        "value": 34769982258.82
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Pagas",
+        "value": 7050161707.75
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Pagas",
+        "value": 22170353017.66
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Pagas",
+        "value": 77624566386.55
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Pagas",
+        "value": 10303996332.21
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Pagas",
+        "value": 3703522954.36
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Pagas",
+        "value": 193496667118.5
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Pagas",
+        "value": 839889127981.75
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Pagas",
+        "value": 135143349302.6
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Pagas",
+        "value": 92179016701.15
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Pagas",
+        "value": 99714274443.74
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Pagas",
+        "value": 543543789.3
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Pagas",
+        "value": 636812223.94
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Pagas",
+        "value": 1302345356.65
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Pagas",
+        "value": 2549748.96
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Pagas",
+        "value": 290903224.4
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Pagas",
+        "value": 2742255532.81
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Pagas",
+        "value": 7957758206.49
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Pagas",
+        "value": 21131214990.37
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Pagas",
+        "value": 1349588387.92
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Pagas",
+        "value": 1476038788.73
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Pagas",
+        "value": 1500315476.08
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Pagas",
+        "value": 2922396606.88
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Pagas",
+        "value": 1193793756.78
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Pagas",
+        "value": 7487160619.84
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Pagas",
+        "value": 288901936.5
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Pagas",
+        "value": 2455424208443.34
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "source": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2023&no_anexo=DCA-Anexo%20I-E&id_ente=1",
+    "functions": [
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Empenhadas",
+        "value": 7776062401.4
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Empenhadas",
+        "value": 39502613169.28
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Empenhadas",
+        "value": 8299612053.15
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Empenhadas",
+        "value": 27396242614.95
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Empenhadas",
+        "value": 89495425022.34
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Empenhadas",
+        "value": 15000536301.31
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Empenhadas",
+        "value": 3907043588.98
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 268328121416.91
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 975640267223.54
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Empenhadas",
+        "value": 183218457077.43
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Empenhadas",
+        "value": 98006571626.85
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Empenhadas",
+        "value": 140074425238.9
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Empenhadas",
+        "value": 2879241783.04
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Empenhadas",
+        "value": 1438636359.79
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Empenhadas",
+        "value": 8177591118.69
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Empenhadas",
+        "value": 22462014.34
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Empenhadas",
+        "value": 744229833.38
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Empenhadas",
+        "value": 5219659615.4
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Empenhadas",
+        "value": 14296472970.56
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Empenhadas",
+        "value": 33578426555.62
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Empenhadas",
+        "value": 3142289235.88
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Empenhadas",
+        "value": 1941842215.88
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Empenhadas",
+        "value": 4180755107.28
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Empenhadas",
+        "value": 2578634611.68
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Empenhadas",
+        "value": 1132834845.21
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Empenhadas",
+        "value": 19377175764.84
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Empenhadas",
+        "value": 981638074.73
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Empenhadas",
+        "value": 2607945816612.69
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Liquidadas",
+        "value": 7365919110.97
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Liquidadas",
+        "value": 37498906081.34
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Liquidadas",
+        "value": 7997296716.72
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Liquidadas",
+        "value": 24683586387.41
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Liquidadas",
+        "value": 82384193685.14
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Liquidadas",
+        "value": 12396574410.46
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Liquidadas",
+        "value": 3735087919.8
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 265421364461.85
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 973468875639.89
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Liquidadas",
+        "value": 160708457465.12
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Liquidadas",
+        "value": 95331575774.23
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Liquidadas",
+        "value": 125343336867.07
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Liquidadas",
+        "value": 2287317111.85
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Liquidadas",
+        "value": 792226875.52
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Liquidadas",
+        "value": 1194443819.55
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Liquidadas",
+        "value": 13333.34
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Liquidadas",
+        "value": 150018510.97
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Liquidadas",
+        "value": 3826500138.2
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Liquidadas",
+        "value": 12482162673.42
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Liquidadas",
+        "value": 21063515747.56
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Liquidadas",
+        "value": 2493668756.79
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Liquidadas",
+        "value": 1838294841.04
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Liquidadas",
+        "value": 2084563771.93
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Liquidadas",
+        "value": 2371206088.25
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Liquidadas",
+        "value": 1019393999.3
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Liquidadas",
+        "value": 12739417044.4
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Liquidadas",
+        "value": 350661477.98
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Liquidadas",
+        "value": 2558469035325.16
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Pagas",
+        "value": 7197538381.92
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Pagas",
+        "value": 37018392926.19
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Pagas",
+        "value": 7939776312.27
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Pagas",
+        "value": 22921036457.13
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Pagas",
+        "value": 78586129940.82
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Pagas",
+        "value": 11734527779.82
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Pagas",
+        "value": 3713373304.84
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Pagas",
+        "value": 261277170731.53
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Pagas",
+        "value": 913052215877.52
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Pagas",
+        "value": 159522106878.39
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Pagas",
+        "value": 95098695256.17
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Pagas",
+        "value": 118790094054.43
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Pagas",
+        "value": 2216030278.47
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Pagas",
+        "value": 748696111.65
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Pagas",
+        "value": 1123526254.37
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Pagas",
+        "value": 13333.34
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Pagas",
+        "value": 149964399.97
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Pagas",
+        "value": 3690394823.38
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Pagas",
+        "value": 12239839378.69
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Pagas",
+        "value": 20563926705.46
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Pagas",
+        "value": 2359264220.26
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Pagas",
+        "value": 1736689293.42
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Pagas",
+        "value": 2081911519.93
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Pagas",
+        "value": 2309122471.12
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Pagas",
+        "value": 959667059.94
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Pagas",
+        "value": 12315082315.94
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Pagas",
+        "value": 347658858.45
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Pagas",
+        "value": 2557437483554.47
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "source": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2024&no_anexo=DCA-Anexo%20I-E&id_ente=1",
+    "functions": [
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Empenhadas",
+        "value": 8605265402.57
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Empenhadas",
+        "value": 44483601229.3
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Empenhadas",
+        "value": 8826844532.77
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Empenhadas",
+        "value": 26393746331.54
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Empenhadas",
+        "value": 94316994935.21
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Empenhadas",
+        "value": 19575453654.86
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Empenhadas",
+        "value": 4723699544.5
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 284496965719.69
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 1048663836704.87
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Empenhadas",
+        "value": 218852530637.4
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Empenhadas",
+        "value": 112254659824.14
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Empenhadas",
+        "value": 151673854339.14
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Empenhadas",
+        "value": 2628045583.01
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Empenhadas",
+        "value": 2353123991.69
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Empenhadas",
+        "value": 5740991269.86
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Empenhadas",
+        "value": 448691396.35
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Empenhadas",
+        "value": 1698517259.38
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Empenhadas",
+        "value": 18416807199.74
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Empenhadas",
+        "value": 16875609217.28
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Empenhadas",
+        "value": 30457478587.99
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Empenhadas",
+        "value": 3910837636.6
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Empenhadas",
+        "value": 2055797040.09
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Empenhadas",
+        "value": 7419908269.13
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Empenhadas",
+        "value": 2489366199.35
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Empenhadas",
+        "value": 1064521957.24
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Empenhadas",
+        "value": 19063021179.05
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Empenhadas",
+        "value": 1750308705.19
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Empenhadas",
+        "value": 2729362583566.54
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Liquidadas",
+        "value": 8178991878.97
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Liquidadas",
+        "value": 42933162422.86
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Liquidadas",
+        "value": 8608048088.81
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Liquidadas",
+        "value": 24607858581.18
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Liquidadas",
+        "value": 87214770427.39
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Liquidadas",
+        "value": 16048872521.62
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Liquidadas",
+        "value": 4617569597.71
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 283135479748.49
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 1046815954954.8
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Liquidadas",
+        "value": 194760685717.97
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Liquidadas",
+        "value": 108934063605.78
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Liquidadas",
+        "value": 132550503564.8
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Liquidadas",
+        "value": 2017287001.62
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Liquidadas",
+        "value": 1231333400.69
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Liquidadas",
+        "value": 1686223193.06
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Liquidadas",
+        "value": 13502908.46
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Liquidadas",
+        "value": 249591490.11
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Liquidadas",
+        "value": 14151913604.63
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Liquidadas",
+        "value": 14758895062.3
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Liquidadas",
+        "value": 20355544889.64
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Liquidadas",
+        "value": 2612525828.81
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Liquidadas",
+        "value": 1928364887.02
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Liquidadas",
+        "value": 3030040906.7
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Liquidadas",
+        "value": 2266372800.34
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Liquidadas",
+        "value": 988778059.88
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Liquidadas",
+        "value": 14897674234.24
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Liquidadas",
+        "value": 267665661.29
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Liquidadas",
+        "value": 2671337475529.25
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Pagas",
+        "value": 7937117546.22
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Pagas",
+        "value": 42257949261.75
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Pagas",
+        "value": 8514736455.35
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Pagas",
+        "value": 22566524386.86
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Pagas",
+        "value": 83269168461.84
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Pagas",
+        "value": 15179229546.34
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Pagas",
+        "value": 4575494924.39
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Pagas",
+        "value": 278158056852.86
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Pagas",
+        "value": 982444874012.15
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Pagas",
+        "value": 192090154326.94
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Pagas",
+        "value": 108698688398.97
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Pagas",
+        "value": 125581237648.3
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Pagas",
+        "value": 1929574789
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Pagas",
+        "value": 1159544163.72
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Pagas",
+        "value": 1555185421.45
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Pagas",
+        "value": 13502908.46
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Pagas",
+        "value": 241649960.89
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Pagas",
+        "value": 13951495538.3
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Pagas",
+        "value": 14475393007.33
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Pagas",
+        "value": 19482509935.71
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Pagas",
+        "value": 2475172834.71
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Pagas",
+        "value": 1820495069.74
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Pagas",
+        "value": 2911563774.33
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Pagas",
+        "value": 2189416046.91
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Pagas",
+        "value": 907818002.89
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Pagas",
+        "value": 14014389449.12
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Pagas",
+        "value": 266614074.89
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Pagas",
+        "value": 2670211099708.93
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "source": "https://apidatalake.tesouro.gov.br/ords/cdwhprd/siconfi/tt/dca?an_exercicio=2025&no_anexo=DCA-Anexo%20I-E&id_ente=1",
+    "functions": [
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Empenhadas",
+        "value": 9707489731.8
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Empenhadas",
+        "value": 46507051062.07
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Empenhadas",
+        "value": 9407624888.91
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Empenhadas",
+        "value": 31657269901.54
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Empenhadas",
+        "value": 98781239333.5
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Empenhadas",
+        "value": 16581328418.5
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Empenhadas",
+        "value": 4625562679.98
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 290711239424.89
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Empenhadas",
+        "value": 1103106494655.41
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Empenhadas",
+        "value": 238636220496.76
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Empenhadas",
+        "value": 121278436087.23
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Empenhadas",
+        "value": 176011768984.98
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Empenhadas",
+        "value": 2790719552.91
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Empenhadas",
+        "value": 2260127836.27
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Empenhadas",
+        "value": 8900203836.92
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Empenhadas",
+        "value": 846303459.28
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Empenhadas",
+        "value": 787270030.86
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Empenhadas",
+        "value": 32114196331.84
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Empenhadas",
+        "value": 35009486426.37
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Empenhadas",
+        "value": 46777565774.56
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Empenhadas",
+        "value": 4814157614.3
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Empenhadas",
+        "value": 2231953674.01
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Empenhadas",
+        "value": 4907755003.62
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Empenhadas",
+        "value": 2912903591.59
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Empenhadas",
+        "value": 1228673269.43
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Empenhadas",
+        "value": 17241390331.62
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Empenhadas",
+        "value": 2517822458.59
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Empenhadas",
+        "value": 3034578493964.56
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Liquidadas",
+        "value": 9087468482.21
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Liquidadas",
+        "value": 45122845308.36
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Liquidadas",
+        "value": 9214785553.79
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Liquidadas",
+        "value": 29386621883.39
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Liquidadas",
+        "value": 91610839896.52
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Liquidadas",
+        "value": 13893085286.47
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Liquidadas",
+        "value": 4494917291.73
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 289214723819.35
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Liquidadas",
+        "value": 1101481486049.03
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Liquidadas",
+        "value": 217074077120.24
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Liquidadas",
+        "value": 115796522387.42
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Liquidadas",
+        "value": 156969408083.35
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Liquidadas",
+        "value": 2335393115.27
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Liquidadas",
+        "value": 1354041157.67
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Liquidadas",
+        "value": 1922939085.94
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Liquidadas",
+        "value": 424906391.58
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Liquidadas",
+        "value": 260496677.09
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Liquidadas",
+        "value": 20109849588.19
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Liquidadas",
+        "value": 19213181028.22
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Liquidadas",
+        "value": 40467051594.54
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Liquidadas",
+        "value": 4104447069.58
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Liquidadas",
+        "value": 2151930269.51
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Liquidadas",
+        "value": 1599108845.01
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Liquidadas",
+        "value": 2390124690.54
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Liquidadas",
+        "value": 1153163658.2
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Liquidadas",
+        "value": 12970246170.32
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Liquidadas",
+        "value": 524963650.13
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Liquidadas",
+        "value": 2928730119149.17
+      },
+      {
+        "code": "01",
+        "name": "Legislativa",
+        "stage": "Despesas Pagas",
+        "value": 8867254718.6
+      },
+      {
+        "code": "02",
+        "name": "Judiciária",
+        "stage": "Despesas Pagas",
+        "value": 44533136232.73
+      },
+      {
+        "code": "03",
+        "name": "Essencial à Justiça",
+        "stage": "Despesas Pagas",
+        "value": 9112788170.09
+      },
+      {
+        "code": "04",
+        "name": "Administração",
+        "stage": "Despesas Pagas",
+        "value": 26871872779.91
+      },
+      {
+        "code": "05",
+        "name": "Defesa Nacional",
+        "stage": "Despesas Pagas",
+        "value": 87532918392.27
+      },
+      {
+        "code": "06",
+        "name": "Segurança Pública",
+        "stage": "Despesas Pagas",
+        "value": 13012313276.06
+      },
+      {
+        "code": "07",
+        "name": "Relações Exteriores",
+        "stage": "Despesas Pagas",
+        "value": 4455990664.73
+      },
+      {
+        "code": "08",
+        "name": "Assistência Social",
+        "stage": "Despesas Pagas",
+        "value": 283838762398.84
+      },
+      {
+        "code": "09",
+        "name": "Previdência Social",
+        "stage": "Despesas Pagas",
+        "value": 1034146294499.6
+      },
+      {
+        "code": "10",
+        "name": "Saúde",
+        "stage": "Despesas Pagas",
+        "value": 214550261964.44
+      },
+      {
+        "code": "11",
+        "name": "Trabalho",
+        "stage": "Despesas Pagas",
+        "value": 115603788563.35
+      },
+      {
+        "code": "12",
+        "name": "Educação",
+        "stage": "Despesas Pagas",
+        "value": 148508798794.76
+      },
+      {
+        "code": "13",
+        "name": "Cultura",
+        "stage": "Despesas Pagas",
+        "value": 2256907482.79
+      },
+      {
+        "code": "14",
+        "name": "Direitos da Cidadania",
+        "stage": "Despesas Pagas",
+        "value": 1271506928.82
+      },
+      {
+        "code": "15",
+        "name": "Urbanismo",
+        "stage": "Despesas Pagas",
+        "value": 1803362117.62
+      },
+      {
+        "code": "16",
+        "name": "Habitação",
+        "stage": "Despesas Pagas",
+        "value": 424016467.44
+      },
+      {
+        "code": "17",
+        "name": "Saneamento",
+        "stage": "Despesas Pagas",
+        "value": 236117295.14
+      },
+      {
+        "code": "18",
+        "name": "Gestão Ambiental",
+        "stage": "Despesas Pagas",
+        "value": 19852874248.9
+      },
+      {
+        "code": "19",
+        "name": "Ciência e Tecnologia",
+        "stage": "Despesas Pagas",
+        "value": 18391828010.83
+      },
+      {
+        "code": "20",
+        "name": "Agricultura",
+        "stage": "Despesas Pagas",
+        "value": 39463557220.71
+      },
+      {
+        "code": "21",
+        "name": "Organização Agrária",
+        "stage": "Despesas Pagas",
+        "value": 3944907515.02
+      },
+      {
+        "code": "22",
+        "name": "Indústria",
+        "stage": "Despesas Pagas",
+        "value": 1989287562.03
+      },
+      {
+        "code": "23",
+        "name": "Comércio e Serviços",
+        "stage": "Despesas Pagas",
+        "value": 1586174700.25
+      },
+      {
+        "code": "24",
+        "name": "Comunicações",
+        "stage": "Despesas Pagas",
+        "value": 2326154111.16
+      },
+      {
+        "code": "25",
+        "name": "Energia",
+        "stage": "Despesas Pagas",
+        "value": 1066265083
+      },
+      {
+        "code": "26",
+        "name": "Transporte",
+        "stage": "Despesas Pagas",
+        "value": 12645262337.27
+      },
+      {
+        "code": "27",
+        "name": "Desporto e Lazer",
+        "stage": "Despesas Pagas",
+        "value": 521089482.26
+      },
+      {
+        "code": "28",
+        "name": "Encargos Especiais",
+        "stage": "Despesas Pagas",
+        "value": 2925335366764.51
+      }
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+PAGE 1
+Eleições Presidenciais 
+Brasil 2026
+PESQUISA ATLAS/BLOOMBERG
+13-18/10/2026
+
+
+PAGE 2
+PESQUISA ATLAS/BLOOMBERG
+Sumário
+SUMÁRIO
+2
+0
+Metodologia e Perﬁl da Amostra
+1
+Cenário de 2º turno
+2
+Aprovação e Avaliação de Governo
+3
+Avaliação de Medidas Recentes do Governo
+
+
+PAGE 3
+PESQUISA ATLAS/BLOOMBERG
+13-18/10/2026
+Metodologia e
+Perﬁl da amostra
+0
+
+
+PAGE 4
+PESQUISA ATLAS/BLOOMBERG
+Em comparação com pesquisas 
+baseadas em painéis de respondentes, o 
+RDR tem a vantagem de eliminar desaﬁos 
+à representatividade resultantes da fadiga 
+do respondente e a mortalidade do 
+painel, bem como evitar fenômenos ainda 
+mais difíceis de controlar, como efeitos 
+de painel, resultantes de níveis crescentes 
+de atenção e engajamento político entre 
+os entrevistados.
+Para garantir a representatividade em 
+nível nacional, as amostras da AtlasIntel 
+são pós-estratiﬁcadas usando um 
+algoritmo iterativo em um conjunto 
+mínimo de variáveis de destino: sexo, faixa 
+etária, nível educacional, nível de renda, 
+região e comportamento eleitoral 
+anterior. As amostras resultantes do 
+processo de pós-estratiﬁcação se 
+assemelham ao perﬁl da população 
+adulta do Brasil, inclusive da população 
+que possui um acesso mais limitado à 
+tecnologia.
+Metodologia: Atlas RDR
+BRASIL > METODOLOGIA
+4
+Os entrevistados são recrutados 
+organicamente durante a navegação de 
+rotina na web em territórios 
+geolocalizados em qualquer dispositivo 
+(smartphones, tablets, laptops ou PCs).
+Em comparação com pesquisas 
+presenciais domiciliares ou em pontos de 
+ﬂuxo, RDR evita o eventual impacto 
+psicológico da interação humana sobre o 
+respondente na hora da entrevista. O 
+entrevistado pode responder o 
+questionário em plena anonimidade, sem 
+temer causar impressões negativa ao 
+entrevistador ou pessoas que possam 
+ouvir a entrevista.
+Comparado com pesquisas telefônicas 
+baseadas na discagem de dígitos 
+aleatórios (Random Digit Dialing - RDD), o 
+RDR permite um mapeamento granular de 
+padrões de não-resposta, de modo que 
+os vieses possam ser adequadamente 
+tratados a construção de cada amostra.
+Atlas Random Digital Recruitment
+ [RDR] conta 
+com procedimentos estatísticos complexos 
+para calibrar amostras robustas, 
+representativas da população-alvo. 
+
+
+PAGE 5
+PESQUISA ATLAS/BLOOMBERG
+Perﬁl da amostra
+POPULAÇÃO ALVO
+População adulta brasileira
+AMOSTRA
+4.998 respondentes
+METODOLOGIA
+Recrutamento digital aleatório (Atlas RDR)
+MARGEM DE ERRO
+±1 p.p.
+NÍVEL DE CONFIANÇA DA MARGEM DE ERRO
+95%
+PERÍODO DE COLETA
+13/10/2026-18/10/2026
+REGISTRO TSE
+BR-02418/2026
+BRASIL > PERFIL DA AMOSTRA
+
+
+PAGE 6
+PESQUISA ATLAS/BLOOMBERG
+13-18/10/2026
+Cenário de 2º turno
+1
+
+
+PAGE 7
+PESQUISA ATLAS/BLOOMBERG
+7
+BRASIL > CENÁRIO DE 2º TURNO
+Em quem você votaria no segundo turno das eleições presidenciais se as 
+eleições fossem hoje?
+
+
+PAGE 8
+PESQUISA ATLAS/BLOOMBERG
+8
+BRASIL > CENÁRIO DE 2º TURNO
+Em quem você votaria no segundo turno das eleições presidenciais se as 
+eleições fossem hoje? [Votos válidos]
+
+
+PAGE 9
+PESQUISA ATLAS/BLOOMBERG
+BRASIL > CENÁRIO DE 2º TURNO
+Em quem você votaria no segundo turno das eleições presidenciais se as 
+eleições fossem hoje? [cruzamentos demográﬁcos]
+
+
+PAGE 10
+PESQUISA ATLAS/BLOOMBERG
+10
+BRASIL > CENÁRIO DE 2º TURNO
+Intenção de voto para Presidente - 2º Turno 
+Em quem você votaria no segundo turno das eleições presidenciais se as eleições fossem hoje?
+[Lula vs Flávio Bolsonaro]
+
+
+PAGE 11
+PESQUISA ATLAS/BLOOMBERG
+13-18/10/2026
+Aprovação Presidencial e 
+Avaliação de Governo 
+2
+
+
+PAGE 12
+PESQUISA ATLAS/BLOOMBERG
+12
+BRASIL > APROVAÇÃO PRESIDENCIAL E AVALIAÇÃO DE GOVERNO
+Aprovação do Presidente Lula
+Você aprova ou desaprova o desempenho do presidente Lula?
+
+
+PAGE 13
+PESQUISA ATLAS/BLOOMBERG
+13
+BRASIL > APROVAÇÃO PRESIDENCIAL E AVALIAÇÃO DE GOVERNO
+Aprovação do Presidente Lula
+[Série Temporal]
+1,5%
+
+
+PAGE 14
+PESQUISA ATLAS/BLOOMBERG
+BRASIL > APROVAÇÃO PRESIDENCIAL E AVALIAÇÃO DE GOVERNO
+Aprovação do Presidente Lula
+[cruzamentos demográﬁcos]
+
+
+PAGE 15
+PESQUISA ATLAS/BLOOMBERG
+15
+BRASIL > APROVAÇÃO PRESIDENCIAL E AVALIAÇÃO DE GOVERNO
+Avaliação do Governo Lula
+Como você avalia o governo do presidente Lula?
+
+
+PAGE 16
+PESQUISA ATLAS/BLOOMBERG
+16
+BRASIL > APROVAÇÃO PRESIDENCIAL E AVALIAÇÃO DE GOVERNO
+Avaliação do Governo Lula
+[Série Temporal]
+
+
+PAGE 17
+PESQUISA ATLAS/BLOOMBERG
+BRASIL > APROVAÇÃO PRESIDENCIAL E AVALIAÇÃO DE GOVERNO
+Avaliação do Governo Lula
+[cruzamentos demográﬁcos]
+
+
+PAGE 18
+PESQUISA ATLAS/BLOOMBERG
+13-18/10/2026
+Avaliação de Medidas 
+Recentes do Governo 
+3
+
+
+PAGE 19
+PESQUISA ATLAS/BLOOMBERG
+19
+BRASIL > AVALIAÇÃO DE MEDIDAS RECENTES DO GOVERNO
+Avaliação de Medidas Recentes do Governo Lula
+Como você avalia as seguintes propostas anunciadas pelo presidente Lula recentemente?
+
+
+PAGE 20

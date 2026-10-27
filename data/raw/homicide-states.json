@@ -1,0 +1,5402 @@
+[
+  {
+    "id": 562684,
+    "valor": 33.85,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 562685,
+    "valor": 18.05,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 562686,
+    "valor": 19.36,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 562687,
+    "valor": 38.26,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 562688,
+    "valor": 12.41,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 562689,
+    "valor": 31.14,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 562690,
+    "valor": 14.77,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 562691,
+    "valor": 5.96,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 562692,
+    "valor": 7.85,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 562693,
+    "valor": 16.05,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 562694,
+    "valor": 9.03,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 562695,
+    "valor": 14.48,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 562696,
+    "valor": 52.64,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 562697,
+    "valor": 25.22,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 562698,
+    "valor": 22.45,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 562699,
+    "valor": 9.39,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 562700,
+    "valor": 11.58,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 562701,
+    "valor": 45.11,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 562702,
+    "valor": 47.88,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 562703,
+    "valor": 41.01,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 562704,
+    "valor": 18.42,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 562705,
+    "valor": 7.84,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 562706,
+    "valor": 16.24,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 562707,
+    "valor": 30.1,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 562708,
+    "valor": 37.67,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 562709,
+    "valor": 21.1,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 562710,
+    "valor": 31.43,
+    "periodo": "2000-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 562711,
+    "valor": 41.01,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 562712,
+    "valor": 19.99,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 562713,
+    "valor": 16.6,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 562714,
+    "valor": 30.47,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 562715,
+    "valor": 14.59,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 562716,
+    "valor": 34.82,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 562717,
+    "valor": 17.44,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 562718,
+    "valor": 9.41,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 562719,
+    "valor": 8.84,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 562720,
+    "valor": 16.43,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 562721,
+    "valor": 11.16,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 562722,
+    "valor": 13.69,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 562723,
+    "valor": 57.19,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 562724,
+    "valor": 28.44,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 562725,
+    "valor": 27.93,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 562726,
+    "valor": 12.16,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 562727,
+    "valor": 12.84,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 562728,
+    "valor": 44.96,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 562729,
+    "valor": 47.43,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 562730,
+    "valor": 40.97,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 562731,
+    "valor": 20.9,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 562732,
+    "valor": 8.51,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 562733,
+    "valor": 17.91,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 562734,
+    "valor": 28.29,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 562735,
+    "valor": 36.28,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 562736,
+    "valor": 22.21,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 562737,
+    "valor": 30.84,
+    "periodo": "2001-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 562738,
+    "valor": 43.37,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 562739,
+    "valor": 24.22,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 562740,
+    "valor": 17.15,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 562741,
+    "valor": 33.08,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 562742,
+    "valor": 17.67,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 562743,
+    "valor": 33.29,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 562744,
+    "valor": 13.73,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 562745,
+    "valor": 10,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 562746,
+    "valor": 10.29,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 562747,
+    "valor": 18.27,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 562748,
+    "valor": 10.22,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 562749,
+    "valor": 17.01,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 562750,
+    "valor": 52.83,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 562751,
+    "valor": 33.58,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 562752,
+    "valor": 29.55,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 562753,
+    "valor": 13.08,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 562754,
+    "valor": 16.08,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 562755,
+    "valor": 50.16,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 562756,
+    "valor": 53.17,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 562757,
+    "valor": 37.27,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 562758,
+    "valor": 22.84,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 562759,
+    "valor": 10.28,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 562760,
+    "valor": 18.33,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 562761,
+    "valor": 30.71,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 562762,
+    "valor": 34.68,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 562763,
+    "valor": 25.54,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 562764,
+    "valor": 27.82,
+    "periodo": "2002-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 562765,
+    "valor": 39.33,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 562766,
+    "valor": 22.9,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 562767,
+    "valor": 18.24,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 562768,
+    "valor": 27.69,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 562769,
+    "valor": 20.44,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 562770,
+    "valor": 32.8,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 562771,
+    "valor": 16.19,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 562772,
+    "valor": 12.96,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 562773,
+    "valor": 9.86,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 562774,
+    "valor": 19.54,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 562775,
+    "valor": 13.67,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 562776,
+    "valor": 17.1,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 562777,
+    "valor": 53.74,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 562778,
+    "valor": 34.85,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 562779,
+    "valor": 24.57,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 562780,
+    "valor": 15.97,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 562781,
+    "valor": 20.56,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 562782,
+    "valor": 48.98,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 562783,
+    "valor": 51.3,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 562784,
+    "valor": 35.61,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 562785,
+    "valor": 25.49,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 562786,
+    "valor": 11.61,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 562787,
+    "valor": 18.16,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 562788,
+    "valor": 31.19,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 562789,
+    "valor": 32.63,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 562790,
+    "valor": 24.6,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 562791,
+    "valor": 31.46,
+    "periodo": "2003-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 562792,
+    "valor": 38.54,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 562793,
+    "valor": 17.26,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 562794,
+    "valor": 16.81,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 562795,
+    "valor": 21.44,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 562796,
+    "valor": 21.71,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 562797,
+    "valor": 29.45,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 562798,
+    "valor": 15.45,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 562799,
+    "valor": 11.8,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 562800,
+    "valor": 10.73,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 562801,
+    "valor": 19.57,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 562802,
+    "valor": 11.47,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 562803,
+    "valor": 18.57,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 562804,
+    "valor": 49.18,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 562805,
+    "valor": 34.39,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 562806,
+    "valor": 23.46,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 562807,
+    "valor": 16.55,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 562808,
+    "valor": 22.56,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 562809,
+    "valor": 48,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 562810,
+    "valor": 48.47,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 562811,
+    "valor": 28.41,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 562812,
+    "valor": 27.92,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 562813,
+    "valor": 10.9,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 562814,
+    "valor": 18.74,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 562815,
+    "valor": 28.61,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 562816,
+    "valor": 30.14,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 562817,
+    "valor": 27.31,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 562818,
+    "valor": 28.9,
+    "periodo": "2004-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 562819,
+    "valor": 37.43,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 562820,
+    "valor": 18.26,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 562821,
+    "valor": 18.72,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 562822,
+    "valor": 23.18,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 562823,
+    "valor": 27.05,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 562824,
+    "valor": 32.49,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 562825,
+    "valor": 14.59,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 562826,
+    "valor": 14.89,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 562827,
+    "valor": 11.97,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 562828,
+    "valor": 20.8,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 562829,
+    "valor": 13.38,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 562830,
+    "valor": 20.31,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 562831,
+    "valor": 50.54,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 562832,
+    "valor": 39.62,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 562833,
+    "valor": 24.83,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 562834,
+    "valor": 20.93,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 562835,
+    "valor": 22.03,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 562836,
+    "valor": 46.83,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 562837,
+    "valor": 46.09,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 562838,
+    "valor": 21.97,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 562839,
+    "valor": 29.13,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 562840,
+    "valor": 10.67,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 562841,
+    "valor": 19,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 562842,
+    "valor": 27.13,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 562843,
+    "valor": 31.54,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 562844,
+    "valor": 25.82,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 562845,
+    "valor": 26.75,
+    "periodo": "2005-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 562846,
+    "valor": 38.88,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 562847,
+    "valor": 22.66,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 562848,
+    "valor": 21.37,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 562849,
+    "valor": 26.27,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 562850,
+    "valor": 28.62,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 562851,
+    "valor": 32.51,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 562852,
+    "valor": 17.3,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 562853,
+    "valor": 15.25,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 562854,
+    "valor": 13.48,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 562855,
+    "valor": 21.72,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 562856,
+    "valor": 14.81,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 562857,
+    "valor": 22.3,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 562858,
+    "valor": 51.72,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 562859,
+    "valor": 52.94,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 562860,
+    "valor": 29.42,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 562861,
+    "valor": 23.89,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 562862,
+    "valor": 21.6,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 562863,
+    "valor": 50.83,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 562864,
+    "valor": 45.64,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 562865,
+    "valor": 20.52,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 562866,
+    "valor": 30.03,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 562867,
+    "valor": 11.07,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 562868,
+    "valor": 18.53,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 562869,
+    "valor": 28.94,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 562870,
+    "valor": 30.64,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 562871,
+    "valor": 26.05,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 562872,
+    "valor": 26.4,
+    "periodo": "2006-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 562873,
+    "valor": 28.3,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 562874,
+    "valor": 19.15,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 562875,
+    "valor": 21.39,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 562876,
+    "valor": 26.68,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 562877,
+    "valor": 29.78,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 562878,
+    "valor": 26.92,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 562879,
+    "valor": 16.82,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 562880,
+    "valor": 17.53,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 562881,
+    "valor": 12.26,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 562882,
+    "valor": 23.21,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 562883,
+    "valor": 18.96,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 562884,
+    "valor": 23.17,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 562885,
+    "valor": 52.25,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 562886,
+    "valor": 59.59,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 562887,
+    "valor": 25.91,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 562888,
+    "valor": 26.23,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 562889,
+    "valor": 21.17,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 562890,
+    "valor": 53.45,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 562891,
+    "valor": 40.2,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 562892,
+    "valor": 15.6,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 562893,
+    "valor": 29.83,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 562894,
+    "valor": 10.35,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 562895,
+    "valor": 20.45,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 562896,
+    "valor": 29.68,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 562897,
+    "valor": 29.96,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 562898,
+    "valor": 25.79,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 562899,
+    "valor": 27.99,
+    "periodo": "2007-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 562900,
+    "valor": 31.01,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 562901,
+    "valor": 18.13,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 562902,
+    "valor": 24.31,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 562903,
+    "valor": 23.49,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 562904,
+    "valor": 38.2,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 562905,
+    "valor": 32.03,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 562906,
+    "valor": 17.39,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 562907,
+    "valor": 19.65,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 562908,
+    "valor": 11.48,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 562909,
+    "valor": 24.03,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 562910,
+    "valor": 22.73,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 562911,
+    "valor": 27.38,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 562912,
+    "valor": 50.55,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 562913,
+    "valor": 60.86,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 562914,
+    "valor": 27.2,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 562915,
+    "valor": 34.33,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 562916,
+    "valor": 19.81,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 562917,
+    "valor": 54.73,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 562918,
+    "valor": 34.53,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 562919,
+    "valor": 15.19,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 562920,
+    "valor": 32.81,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 562921,
+    "valor": 12.96,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 562922,
+    "valor": 22.04,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 562923,
+    "valor": 28.82,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 562924,
+    "valor": 31.13,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 562925,
+    "valor": 29.87,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 562926,
+    "valor": 31.51,
+    "periodo": "2008-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 562927,
+    "valor": 34.27,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 562928,
+    "valor": 20.38,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 562929,
+    "valor": 26.28,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 562930,
+    "valor": 25.72,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 562931,
+    "valor": 39.32,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 562932,
+    "valor": 28.26,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 562933,
+    "valor": 20.93,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 562934,
+    "valor": 21.29,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 562935,
+    "valor": 12.17,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 562936,
+    "valor": 25.55,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 562937,
+    "valor": 25.2,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 562938,
+    "valor": 33.36,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 562939,
+    "valor": 44.69,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 562940,
+    "valor": 60.07,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 562941,
+    "valor": 31.61,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 562942,
+    "valor": 38.47,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 562943,
+    "valor": 18.92,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 562944,
+    "valor": 55.1,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 562945,
+    "valor": 32.52,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 562946,
+    "valor": 15.57,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 562947,
+    "valor": 34.92,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 562948,
+    "valor": 13.06,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 562949,
+    "valor": 20.67,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 562950,
+    "valor": 29.48,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 562951,
+    "valor": 32.75,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 562952,
+    "valor": 31.18,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 562953,
+    "valor": 33.76,
+    "periodo": "2009-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 562954,
+    "valor": 34.39,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 562955,
+    "valor": 21.57,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 562956,
+    "valor": 30.47,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 562957,
+    "valor": 25.75,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 562958,
+    "valor": 45.72,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 562959,
+    "valor": 37.85,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 562960,
+    "valor": 23.42,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 562961,
+    "valor": 22.94,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 562962,
+    "valor": 12.92,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 562963,
+    "valor": 31.48,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 562964,
+    "valor": 25.29,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 562965,
+    "valor": 38.16,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 562966,
+    "valor": 38.89,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 562967,
+    "valor": 66.64,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 562968,
+    "valor": 32.38,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 562969,
+    "valor": 41.19,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 562970,
+    "valor": 18.33,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 562971,
+    "valor": 49.22,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 562972,
+    "valor": 34.19,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 562973,
+    "valor": 14.22,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 562974,
+    "valor": 33.62,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 562975,
+    "valor": 12.93,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 562976,
+    "valor": 19.16,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 562977,
+    "valor": 26.34,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 562978,
+    "valor": 31.42,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 562979,
+    "valor": 32,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 562980,
+    "valor": 29.73,
+    "periodo": "2010-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 562981,
+    "valor": 28.07,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 562982,
+    "valor": 21.07,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 562983,
+    "valor": 35.77,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 562984,
+    "valor": 19.73,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 562985,
+    "valor": 39.46,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 562986,
+    "valor": 29.87,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 562987,
+    "valor": 25.59,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 562988,
+    "valor": 23.86,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 562989,
+    "valor": 13.76,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 562990,
+    "valor": 32.5,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 562991,
+    "valor": 32.66,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 562992,
+    "valor": 42.08,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 562993,
+    "valor": 38.64,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 562994,
+    "valor": 71.42,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 562995,
+    "valor": 34.69,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 562996,
+    "valor": 38.97,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 562997,
+    "valor": 21.33,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 562998,
+    "valor": 45.48,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 562999,
+    "valor": 28.73,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563000,
+    "valor": 13.65,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563001,
+    "valor": 31.45,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563002,
+    "valor": 12.56,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563003,
+    "valor": 19.04,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563004,
+    "valor": 26.71,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563005,
+    "valor": 32.2,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563006,
+    "valor": 36.27,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563007,
+    "valor": 33.74,
+    "periodo": "2011-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563008,
+    "valor": 32.47,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563009,
+    "valor": 26.27,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563010,
+    "valor": 36.59,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563011,
+    "valor": 29.16,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563012,
+    "valor": 41.09,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563013,
+    "valor": 35.54,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563014,
+    "valor": 26.58,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563015,
+    "valor": 26.48,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563016,
+    "valor": 16.35,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563017,
+    "valor": 44.43,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563018,
+    "valor": 34.57,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563019,
+    "valor": 39.52,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563020,
+    "valor": 36.81,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563021,
+    "valor": 64.9,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563022,
+    "valor": 41.33,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563023,
+    "valor": 43.01,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563024,
+    "valor": 22.7,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563025,
+    "valor": 44.88,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563026,
+    "valor": 28.54,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563027,
+    "valor": 15.21,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563028,
+    "valor": 32.25,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563029,
+    "valor": 12.53,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563030,
+    "valor": 21.76,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563031,
+    "valor": 26.76,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563032,
+    "valor": 33.81,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563033,
+    "valor": 43.98,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563034,
+    "valor": 35.29,
+    "periodo": "2012-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563035,
+    "valor": 29.52,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563036,
+    "valor": 29.11,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563037,
+    "valor": 31.89,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563038,
+    "valor": 42.21,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563039,
+    "valor": 42.77,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563040,
+    "valor": 31.08,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563041,
+    "valor": 24.22,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563042,
+    "valor": 32.03,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563043,
+    "valor": 18.54,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563044,
+    "valor": 51.41,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563045,
+    "valor": 44.18,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563046,
+    "valor": 39.96,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563047,
+    "valor": 34.34,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563048,
+    "valor": 67.92,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563049,
+    "valor": 44.98,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563050,
+    "valor": 39.68,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563051,
+    "valor": 23.33,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563052,
+    "valor": 43.21,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563053,
+    "valor": 30.42,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563054,
+    "valor": 13.87,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563055,
+    "valor": 26.92,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563056,
+    "valor": 11.85,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563057,
+    "valor": 21.14,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563058,
+    "valor": 24.37,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563059,
+    "valor": 35.92,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563060,
+    "valor": 46.18,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563061,
+    "valor": 30.62,
+    "periodo": "2013-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563062,
+    "valor": 34.99,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563063,
+    "valor": 28.45,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563064,
+    "valor": 32.65,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563065,
+    "valor": 30.35,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563066,
+    "valor": 42.82,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563067,
+    "valor": 34.79,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563068,
+    "valor": 26.16,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563069,
+    "valor": 36.24,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563070,
+    "valor": 22.13,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563071,
+    "valor": 52.83,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563072,
+    "valor": 48.56,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563073,
+    "valor": 39.71,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563074,
+    "valor": 36.68,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563075,
+    "valor": 65.72,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563076,
+    "valor": 50.69,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563077,
+    "valor": 42,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563078,
+    "valor": 23.22,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563079,
+    "valor": 42.41,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563080,
+    "valor": 33.86,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563081,
+    "valor": 14.1,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563082,
+    "valor": 27.08,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563083,
+    "valor": 13.36,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563084,
+    "valor": 24.7,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563085,
+    "valor": 26.73,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563086,
+    "valor": 41.48,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563087,
+    "valor": 44.17,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563088,
+    "valor": 30.5,
+    "periodo": "2014-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563089,
+    "valor": 35.99,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563090,
+    "valor": 26.25,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563091,
+    "valor": 38.14,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563092,
+    "valor": 37.99,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563093,
+    "valor": 45.2,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563094,
+    "valor": 39.22,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563095,
+    "valor": 34.18,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563096,
+    "valor": 35.69,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563097,
+    "valor": 19.96,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563098,
+    "valor": 47.22,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563099,
+    "valor": 46.51,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563100,
+    "valor": 38.71,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563101,
+    "valor": 41.76,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563102,
+    "valor": 54.95,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563103,
+    "valor": 59.71,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563104,
+    "valor": 41.55,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563105,
+    "valor": 22.14,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563106,
+    "valor": 37.82,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563107,
+    "valor": 29.86,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563108,
+    "valor": 12.27,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563109,
+    "valor": 26.45,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563110,
+    "valor": 13.89,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563111,
+    "valor": 26.59,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563112,
+    "valor": 23.9,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563113,
+    "valor": 36.15,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563114,
+    "valor": 45.2,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563115,
+    "valor": 26.55,
+    "periodo": "2015-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563116,
+    "valor": 41.84,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563117,
+    "valor": 43.41,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563118,
+    "valor": 37.09,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563119,
+    "valor": 37.21,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563120,
+    "valor": 51.45,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563121,
+    "valor": 50.33,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563122,
+    "valor": 38.84,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563123,
+    "valor": 35.08,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563124,
+    "valor": 21.43,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563125,
+    "valor": 41.05,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563126,
+    "valor": 55.47,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563127,
+    "valor": 34.24,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563128,
+    "valor": 48.01,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563129,
+    "valor": 57.09,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563130,
+    "valor": 66.64,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563131,
+    "valor": 49.36,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563132,
+    "valor": 22.45,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563133,
+    "valor": 32.81,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563134,
+    "valor": 35.51,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563135,
+    "valor": 10.94,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563136,
+    "valor": 27.51,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563137,
+    "valor": 14.03,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563138,
+    "valor": 29.03,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563139,
+    "valor": 24.99,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563140,
+    "valor": 34.91,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563141,
+    "valor": 45.18,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563142,
+    "valor": 26.92,
+    "periodo": "2016-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563143,
+    "valor": 32.75,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563144,
+    "valor": 61.1,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563145,
+    "valor": 42.21,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563146,
+    "valor": 43.97,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563147,
+    "valor": 55.28,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563148,
+    "valor": 50.03,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563149,
+    "valor": 37.17,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563150,
+    "valor": 31.64,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563151,
+    "valor": 19.05,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563152,
+    "valor": 60.88,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563153,
+    "valor": 65.58,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563154,
+    "valor": 33.68,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563155,
+    "valor": 58.24,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563156,
+    "valor": 56.78,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563157,
+    "valor": 59.34,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563158,
+    "valor": 51.36,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563159,
+    "valor": 20.77,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563160,
+    "valor": 38.95,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563161,
+    "valor": 37.52,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563162,
+    "valor": 10.33,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563163,
+    "valor": 24.45,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563164,
+    "valor": 14.94,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563165,
+    "valor": 29.76,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563166,
+    "valor": 24.27,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563167,
+    "valor": 32.1,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563168,
+    "valor": 42.63,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563169,
+    "valor": 21.4,
+    "periodo": "2017-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563170,
+    "valor": 27.97,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563171,
+    "valor": 48.03,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563172,
+    "valor": 38.37,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563173,
+    "valor": 70.47,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563174,
+    "valor": 54.3,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563175,
+    "valor": 55.13,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563176,
+    "valor": 37.71,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563177,
+    "valor": 28.65,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563178,
+    "valor": 18.74,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563179,
+    "valor": 54.59,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563180,
+    "valor": 54.07,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563181,
+    "valor": 31.03,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563182,
+    "valor": 44.82,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563183,
+    "valor": 45.03,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563184,
+    "valor": 50.87,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563185,
+    "valor": 46.38,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563186,
+    "valor": 16.21,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563187,
+    "valor": 29.59,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563188,
+    "valor": 37.64,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563189,
+    "valor": 8.27,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563190,
+    "valor": 21.48,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563191,
+    "valor": 11.6,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563192,
+    "valor": 24.17,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563193,
+    "valor": 20.83,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563194,
+    "valor": 28.33,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563195,
+    "valor": 38.83,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563196,
+    "valor": 18.43,
+    "periodo": "2018-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563197,
+    "valor": 26.1,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563198,
+    "valor": 37.88,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563199,
+    "valor": 39.08,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563200,
+    "valor": 37.86,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563201,
+    "valor": 40.51,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563202,
+    "valor": 46.31,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563203,
+    "valor": 29.9,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563204,
+    "valor": 24.53,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563205,
+    "valor": 17.14,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563206,
+    "valor": 26.75,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563207,
+    "valor": 39.68,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563208,
+    "valor": 23.6,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563209,
+    "valor": 36.97,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563210,
+    "valor": 34.75,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563211,
+    "valor": 43.41,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563212,
+    "valor": 41.64,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563213,
+    "valor": 13.83,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563214,
+    "valor": 26.27,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563215,
+    "valor": 20.66,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563216,
+    "valor": 7.42,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563217,
+    "valor": 18.27,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563218,
+    "valor": 10.36,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563219,
+    "valor": 19.51,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563220,
+    "valor": 17.68,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563221,
+    "valor": 25.2,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563222,
+    "valor": 32.3,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563223,
+    "valor": 16.55,
+    "periodo": "2019-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563224,
+    "valor": 26.47,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563225,
+    "valor": 35.2,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563226,
+    "valor": 32.17,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563227,
+    "valor": 36.97,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563228,
+    "valor": 33.18,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563229,
+    "valor": 49.27,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563230,
+    "valor": 31.47,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563231,
+    "valor": 30.17,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563232,
+    "valor": 20.2,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563233,
+    "valor": 43.92,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563234,
+    "valor": 41.26,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563235,
+    "valor": 28.07,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563236,
+    "valor": 40.11,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563237,
+    "valor": 40.19,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563238,
+    "valor": 43.52,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563239,
+    "valor": 47.98,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563240,
+    "valor": 13.04,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563241,
+    "valor": 30.71,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563242,
+    "valor": 28.05,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563243,
+    "valor": 7.46,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563244,
+    "valor": 19.73,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563245,
+    "valor": 9.71,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563246,
+    "valor": 18.66,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563247,
+    "valor": 17.49,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563248,
+    "valor": 27.33,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563249,
+    "valor": 30.83,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563250,
+    "valor": 15.51,
+    "periodo": "2020-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563251,
+    "valor": 30.99,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563252,
+    "valor": 23.61,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563253,
+    "valor": 43.65,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563254,
+    "valor": 39.39,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563255,
+    "valor": 33.41,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563256,
+    "valor": 58.42,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563257,
+    "valor": 28.48,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563258,
+    "valor": 28.61,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563259,
+    "valor": 22.88,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563260,
+    "valor": 38.02,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563261,
+    "valor": 34.48,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563262,
+    "valor": 27.99,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563263,
+    "valor": 36.31,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563264,
+    "valor": 33.25,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563265,
+    "valor": 34.88,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563266,
+    "valor": 48.73,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563267,
+    "valor": 12.2,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563268,
+    "valor": 31.11,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563269,
+    "valor": 27.25,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563270,
+    "valor": 6.78,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563271,
+    "valor": 20.19,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563272,
+    "valor": 9.28,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563273,
+    "valor": 16.82,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563274,
+    "valor": 19.46,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563275,
+    "valor": 24.22,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563276,
+    "valor": 25.4,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563277,
+    "valor": 13.65,
+    "periodo": "2021-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563278,
+    "valor": 34.65,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563279,
+    "valor": 27.28,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563280,
+    "valor": 42.17,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563281,
+    "valor": 34.3,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563282,
+    "valor": 33.85,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563283,
+    "valor": 45.01,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563284,
+    "valor": 29.15,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563285,
+    "valor": 27.75,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563286,
+    "valor": 23.65,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563287,
+    "valor": 33.07,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563288,
+    "valor": 34.04,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563289,
+    "valor": 26.91,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563290,
+    "valor": 35.91,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563291,
+    "valor": 35.3,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563292,
+    "valor": 33.87,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563293,
+    "valor": 45.75,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563294,
+    "valor": 12.74,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563295,
+    "valor": 28.31,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563296,
+    "valor": 21.86,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563297,
+    "valor": 7.02,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563298,
+    "valor": 22.25,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563299,
+    "valor": 8.61,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563300,
+    "valor": 17.5,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563301,
+    "valor": 19.27,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563302,
+    "valor": 28.94,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563303,
+    "valor": 23.43,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563304,
+    "valor": 12.09,
+    "periodo": "2022-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563305,
+    "valor": 31.72,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563306,
+    "valor": 24.76,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563307,
+    "valor": 36.67,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563308,
+    "valor": 31.5,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563309,
+    "valor": 29.5,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563310,
+    "valor": 64.57,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563311,
+    "valor": 26.74,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563312,
+    "valor": 28.67,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563313,
+    "valor": 21.54,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563314,
+    "valor": 32.53,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563315,
+    "valor": 27.79,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563316,
+    "valor": 26.16,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563317,
+    "valor": 38.86,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563318,
+    "valor": 37.1,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563319,
+    "valor": 30.59,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563320,
+    "valor": 44.62,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563321,
+    "valor": 13.15,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563322,
+    "valor": 28.48,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563323,
+    "valor": 24.93,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563324,
+    "valor": 6.64,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563325,
+    "valor": 18.84,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563326,
+    "valor": 8.3,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563327,
+    "valor": 17.65,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563328,
+    "valor": 20.29,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563329,
+    "valor": 29.25,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563330,
+    "valor": 21.76,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563331,
+    "valor": 11.69,
+    "periodo": "2023-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  },
+  {
+    "id": 563332,
+    "valor": 30.06,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 11
+  },
+  {
+    "id": 563333,
+    "valor": 19.76,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 12
+  },
+  {
+    "id": 563334,
+    "valor": 30.97,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 13
+  },
+  {
+    "id": 563335,
+    "valor": 24.27,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 14
+  },
+  {
+    "id": 563336,
+    "valor": 27.28,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 15
+  },
+  {
+    "id": 563337,
+    "valor": 45.21,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 16
+  },
+  {
+    "id": 563338,
+    "valor": 19.59,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 17
+  },
+  {
+    "id": 563339,
+    "valor": 30.91,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 21
+  },
+  {
+    "id": 563340,
+    "valor": 20.65,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 22
+  },
+  {
+    "id": 563341,
+    "valor": 34.26,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 23
+  },
+  {
+    "id": 563342,
+    "valor": 23.48,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 24
+  },
+  {
+    "id": 563343,
+    "valor": 25.52,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 25
+  },
+  {
+    "id": 563344,
+    "valor": 37.05,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 26
+  },
+  {
+    "id": 563345,
+    "valor": 35.78,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 27
+  },
+  {
+    "id": 563346,
+    "valor": 22.96,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 28
+  },
+  {
+    "id": 563347,
+    "valor": 40.81,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 29
+  },
+  {
+    "id": 563348,
+    "valor": 12.81,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 31
+  },
+  {
+    "id": 563349,
+    "valor": 25.94,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 32
+  },
+  {
+    "id": 563350,
+    "valor": 20.44,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 33
+  },
+  {
+    "id": 563351,
+    "valor": 6.61,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 35
+  },
+  {
+    "id": 563352,
+    "valor": 18.55,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 41
+  },
+  {
+    "id": 563353,
+    "valor": 8.12,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 42
+  },
+  {
+    "id": 563354,
+    "valor": 15.15,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 43
+  },
+  {
+    "id": 563355,
+    "valor": 17.88,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 50
+  },
+  {
+    "id": 563356,
+    "valor": 28.72,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 51
+  },
+  {
+    "id": 563357,
+    "valor": 18.42,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 52
+  },
+  {
+    "id": 563358,
+    "valor": 10.33,
+    "periodo": "2024-01-15T00:00:00.000Z",
+    "serie_id": 20,
+    "tipo_regiao": 3,
+    "regiao_id": 53
+  }
+]

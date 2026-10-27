@@ -1,0 +1,4340 @@
+{
+  "NY.GDP.MKTP.KD": {
+    "points": [
+      {
+        "year": 1960,
+        "value": 188463862170.398
+      },
+      {
+        "year": 1961,
+        "value": 204671754317.052
+      },
+      {
+        "year": 1962,
+        "value": 218180090101.977
+      },
+      {
+        "year": 1963,
+        "value": 219489170642.589
+      },
+      {
+        "year": 1964,
+        "value": 226951802444.437
+      },
+      {
+        "year": 1965,
+        "value": 232398645703.104
+      },
+      {
+        "year": 1966,
+        "value": 247969354965.212
+      },
+      {
+        "year": 1967,
+        "value": 258384067873.751
+      },
+      {
+        "year": 1968,
+        "value": 283705706525.378
+      },
+      {
+        "year": 1969,
+        "value": 310657748645.289
+      },
+      {
+        "year": 1970,
+        "value": 342966154504.399
+      },
+      {
+        "year": 1971,
+        "value": 381868537872.879
+      },
+      {
+        "year": 1972,
+        "value": 427464970641.338
+      },
+      {
+        "year": 1973,
+        "value": 487176363095.81
+      },
+      {
+        "year": 1974,
+        "value": 526900425028.37
+      },
+      {
+        "year": 1975,
+        "value": 554123521012.024
+      },
+      {
+        "year": 1976,
+        "value": 610960688344.948
+      },
+      {
+        "year": 1977,
+        "value": 641107493085.333
+      },
+      {
+        "year": 1978,
+        "value": 672969879569.773
+      },
+      {
+        "year": 1979,
+        "value": 718459683182.517
+      },
+      {
+        "year": 1980,
+        "value": 784557974035.307
+      },
+      {
+        "year": 1981,
+        "value": 751214260138.81
+      },
+      {
+        "year": 1982,
+        "value": 757449338497.958
+      },
+      {
+        "year": 1983,
+        "value": 735256072879.968
+      },
+      {
+        "year": 1984,
+        "value": 774959900815.486
+      },
+      {
+        "year": 1985,
+        "value": 835794253029.505
+      },
+      {
+        "year": 1986,
+        "value": 898395242581.413
+      },
+      {
+        "year": 1987,
+        "value": 930108594644.536
+      },
+      {
+        "year": 1988,
+        "value": 929550529487.75
+      },
+      {
+        "year": 1989,
+        "value": 958924326219.565
+      },
+      {
+        "year": 1990,
+        "value": 917211118029.012
+      },
+      {
+        "year": 1991,
+        "value": 926678475666.292
+      },
+      {
+        "year": 1992,
+        "value": 921636677088.89
+      },
+      {
+        "year": 1993,
+        "value": 967024426395.984
+      },
+      {
+        "year": 1994,
+        "value": 1023623112443.65
+      },
+      {
+        "year": 1995,
+        "value": 1066858840298.13
+      },
+      {
+        "year": 1996,
+        "value": 1090424301689.88
+      },
+      {
+        "year": 1997,
+        "value": 1127442527329.51
+      },
+      {
+        "year": 1998,
+        "value": 1131254386851.73
+      },
+      {
+        "year": 1999,
+        "value": 1136547951100.23
+      },
+      {
+        "year": 2000,
+        "value": 1186419100640.61
+      },
+      {
+        "year": 2001,
+        "value": 1202909097020.67
+      },
+      {
+        "year": 2002,
+        "value": 1239639467497.76
+      },
+      {
+        "year": 2003,
+        "value": 1253781634016.71
+      },
+      {
+        "year": 2004,
+        "value": 1325999012757.63
+      },
+      {
+        "year": 2005,
+        "value": 1368459252277.73
+      },
+      {
+        "year": 2006,
+        "value": 1422677453370.7
+      },
+      {
+        "year": 2007,
+        "value": 1509032133942.18
+      },
+      {
+        "year": 2008,
+        "value": 1585905180197.0
+      },
+      {
+        "year": 2009,
+        "value": 1583909921137.42
+      },
+      {
+        "year": 2010,
+        "value": 1703150236756.78
+      },
+      {
+        "year": 2011,
+        "value": 1770840632844.1
+      },
+      {
+        "year": 2012,
+        "value": 1804861597828.48
+      },
+      {
+        "year": 2013,
+        "value": 1859094488272.12
+      },
+      {
+        "year": 2014,
+        "value": 1868463501662.3
+      },
+      {
+        "year": 2015,
+        "value": 1802212206814.5
+      },
+      {
+        "year": 2016,
+        "value": 1743173232416.64
+      },
+      {
+        "year": 2017,
+        "value": 1766233131666.66
+      },
+      {
+        "year": 2018,
+        "value": 1797736844969.16
+      },
+      {
+        "year": 2019,
+        "value": 1819683217699.38
+      },
+      {
+        "year": 2020,
+        "value": 1760056587795.46
+      },
+      {
+        "year": 2021,
+        "value": 1843881119920.2
+      },
+      {
+        "year": 2022,
+        "value": 1899505377558.02
+      },
+      {
+        "year": 2023,
+        "value": 1961080794855.6
+      },
+      {
+        "year": 2024,
+        "value": 2028136327872.37
+      },
+      {
+        "year": 2025,
+        "value": 2074494382804.15
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.MKTP.KD?format=json&per_page=1000",
+    "metadata": {
+      "id": "NY.GDP.MKTP.KD",
+      "name": "GDP (constant 2015 US$)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Gross domestic product is the total income earned through the production of goods and services in an economic territory during an accounting period. It can be measured in three different ways: using either the expenditure approach, the income approach, or the production approach. This indicator is expressed in constant prices, meaning the series has been adjusted to account for price changes over time. The reference year for this adjustment is 2015. This indicator is expressed in United States dollars.",
+      "sourceOrganization": "Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+      "topics": [
+        {
+          "id": "3",
+          "value": "Economy & Growth"
+        }
+      ]
+    }
+  },
+  "NY.GDP.PCAP.KD": {
+    "points": [
+      {
+        "year": 1960,
+        "value": 2603.51901042994
+      },
+      {
+        "year": 1961,
+        "value": 2743.38888844205
+      },
+      {
+        "year": 1962,
+        "value": 2838.47229916639
+      },
+      {
+        "year": 1963,
+        "value": 2772.5799490463
+      },
+      {
+        "year": 1964,
+        "value": 2785.07443212682
+      },
+      {
+        "year": 1965,
+        "value": 2772.67176390786
+      },
+      {
+        "year": 1966,
+        "value": 2878.69979349639
+      },
+      {
+        "year": 1967,
+        "value": 2921.3724263796
+      },
+      {
+        "year": 1968,
+        "value": 3126.53548183139
+      },
+      {
+        "year": 1969,
+        "value": 3338.76247436022
+      },
+      {
+        "year": 1970,
+        "value": 3595.95086280878
+      },
+      {
+        "year": 1971,
+        "value": 3907.01225977893
+      },
+      {
+        "year": 1972,
+        "value": 4268.38384697753
+      },
+      {
+        "year": 1973,
+        "value": 4748.26246385619
+      },
+      {
+        "year": 1974,
+        "value": 5013.81724730208
+      },
+      {
+        "year": 1975,
+        "value": 5148.9106187339
+      },
+      {
+        "year": 1976,
+        "value": 5543.43637942576
+      },
+      {
+        "year": 1977,
+        "value": 5679.78590996985
+      },
+      {
+        "year": 1978,
+        "value": 5821.49131249962
+      },
+      {
+        "year": 1979,
+        "value": 6069.05474310333
+      },
+      {
+        "year": 1980,
+        "value": 6472.85214591952
+      },
+      {
+        "year": 1981,
+        "value": 6055.09781428103
+      },
+      {
+        "year": 1982,
+        "value": 5967.77899586532
+      },
+      {
+        "year": 1983,
+        "value": 5664.96368501244
+      },
+      {
+        "year": 1984,
+        "value": 5841.74986464143
+      },
+      {
+        "year": 1985,
+        "value": 6167.51343658643
+      },
+      {
+        "year": 1986,
+        "value": 6494.28087914562
+      },
+      {
+        "year": 1987,
+        "value": 6591.60882870649
+      },
+      {
+        "year": 1988,
+        "value": 6463.00545238554
+      },
+      {
+        "year": 1989,
+        "value": 6545.42575572846
+      },
+      {
+        "year": 1990,
+        "value": 6149.86788926381
+      },
+      {
+        "year": 1991,
+        "value": 6107.64883675747
+      },
+      {
+        "year": 1992,
+        "value": 5973.98285622586
+      },
+      {
+        "year": 1993,
+        "value": 6167.46092178931
+      },
+      {
+        "year": 1994,
+        "value": 6427.16901943704
+      },
+      {
+        "year": 1995,
+        "value": 6596.33572674819
+      },
+      {
+        "year": 1996,
+        "value": 6640.7270065575
+      },
+      {
+        "year": 1997,
+        "value": 6764.85842091319
+      },
+      {
+        "year": 1998,
+        "value": 6687.49523550242
+      },
+      {
+        "year": 1999,
+        "value": 6621.63676249539
+      },
+      {
+        "year": 2000,
+        "value": 6817.784240857
+      },
+      {
+        "year": 2001,
+        "value": 6823.03396999891
+      },
+      {
+        "year": 2002,
+        "value": 6944.62337495755
+      },
+      {
+        "year": 2003,
+        "value": 6941.4404574508
+      },
+      {
+        "year": 2004,
+        "value": 7258.78185165912
+      },
+      {
+        "year": 2005,
+        "value": 7409.56913232718
+      },
+      {
+        "year": 2006,
+        "value": 7622.04007133264
+      },
+      {
+        "year": 2007,
+        "value": 8003.25413096047
+      },
+      {
+        "year": 2008,
+        "value": 8330.76459841304
+      },
+      {
+        "year": 2009,
+        "value": 8246.09706995094
+      },
+      {
+        "year": 2010,
+        "value": 8792.63436120342
+      },
+      {
+        "year": 2011,
+        "value": 9067.99316348047
+      },
+      {
+        "year": 2012,
+        "value": 9167.49923929815
+      },
+      {
+        "year": 2013,
+        "value": 9366.73932434359
+      },
+      {
+        "year": 2014,
+        "value": 9338.34278278114
+      },
+      {
+        "year": 2015,
+        "value": 8936.19661712113
+      },
+      {
+        "year": 2016,
+        "value": 8577.84376650911
+      },
+      {
+        "year": 2017,
+        "value": 8628.25308908043
+      },
+      {
+        "year": 2018,
+        "value": 8722.33630317935
+      },
+      {
+        "year": 2019,
+        "value": 8771.44051292177
+      },
+      {
+        "year": 2020,
+        "value": 8435.01143254978
+      },
+      {
+        "year": 2021,
+        "value": 8799.22945810901
+      },
+      {
+        "year": 2022,
+        "value": 9032.08481566299
+      },
+      {
+        "year": 2023,
+        "value": 9288.02701470069
+      },
+      {
+        "year": 2024,
+        "value": 9566.74518687619
+      },
+      {
+        "year": 2025,
+        "value": 9747.99557762692
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.KD?format=json&per_page=1000",
+    "metadata": {
+      "id": "NY.GDP.PCAP.KD",
+      "name": "GDP per capita (constant 2015 US$)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Gross domestic product is the total income earned through the production of goods and services in an economic territory during an accounting period. It can be measured in three different ways: using either the expenditure approach, the income approach, or the production approach. The core indicator has been divided by the general population to achieve a per capita estimate.This indicator is expressed in constant prices, meaning the series has been adjusted to account for price changes over time. The reference year for this adjustment is 2015. This indicator is expressed in United States dollars.",
+      "sourceOrganization": "Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+      "topics": [
+        {
+          "id": "3",
+          "value": "Economy & Growth"
+        }
+      ]
+    }
+  },
+  "NY.GDP.MKTP.KD.ZG": {
+    "points": [
+      {
+        "year": 1961,
+        "value": 8.60000000000014
+      },
+      {
+        "year": 1962,
+        "value": 6.59999999999992
+      },
+      {
+        "year": 1963,
+        "value": 0.600000000000065
+      },
+      {
+        "year": 1964,
+        "value": 3.39999999999985
+      },
+      {
+        "year": 1965,
+        "value": 2.40000000000001
+      },
+      {
+        "year": 1966,
+        "value": 6.7000000000001
+      },
+      {
+        "year": 1967,
+        "value": 4.2
+      },
+      {
+        "year": 1968,
+        "value": 9.79999999999998
+      },
+      {
+        "year": 1969,
+        "value": 9.49999999999993
+      },
+      {
+        "year": 1970,
+        "value": 10.4
+      },
+      {
+        "year": 1971,
+        "value": 11.3429219931908
+      },
+      {
+        "year": 1972,
+        "value": 11.9403481162508
+      },
+      {
+        "year": 1973,
+        "value": 13.9687217796782
+      },
+      {
+        "year": 1974,
+        "value": 8.15393868457201
+      },
+      {
+        "year": 1975,
+        "value": 5.16664908406321
+      },
+      {
+        "year": 1976,
+        "value": 10.2571295347867
+      },
+      {
+        "year": 1977,
+        "value": 4.93432806978961
+      },
+      {
+        "year": 1978,
+        "value": 4.96989768924738
+      },
+      {
+        "year": 1979,
+        "value": 6.7595601220408
+      },
+      {
+        "year": 1980,
+        "value": 9.19999999999976
+      },
+      {
+        "year": 1981,
+        "value": -4.24999999999956
+      },
+      {
+        "year": 1982,
+        "value": 0.829999999999529
+      },
+      {
+        "year": 1983,
+        "value": -2.92999999999996
+      },
+      {
+        "year": 1984,
+        "value": 5.39999999999988
+      },
+      {
+        "year": 1985,
+        "value": 7.85000000000042
+      },
+      {
+        "year": 1986,
+        "value": 7.48999999999982
+      },
+      {
+        "year": 1987,
+        "value": 3.52999999999983
+      },
+      {
+        "year": 1988,
+        "value": -0.059999999999917
+      },
+      {
+        "year": 1989,
+        "value": 3.16000000000032
+      },
+      {
+        "year": 1990,
+        "value": -4.35000000000022
+      },
+      {
+        "year": 1991,
+        "value": 1.03218958549303
+      },
+      {
+        "year": 1992,
+        "value": -0.54407204977727
+      },
+      {
+        "year": 1993,
+        "value": 4.9246900037071
+      },
+      {
+        "year": 1994,
+        "value": 5.85287036219013
+      },
+      {
+        "year": 1995,
+        "value": 4.22379363350413
+      },
+      {
+        "year": 1996,
+        "value": 2.20886405039022
+      },
+      {
+        "year": 1997,
+        "value": 3.39484598630671
+      },
+      {
+        "year": 1998,
+        "value": 0.338097901207306
+      },
+      {
+        "year": 1999,
+        "value": 0.467937566477133
+      },
+      {
+        "year": 2000,
+        "value": 4.38794944745618
+      },
+      {
+        "year": 2001,
+        "value": 1.38989640095637
+      },
+      {
+        "year": 2002,
+        "value": 3.05346185909312
+      },
+      {
+        "year": 2003,
+        "value": 1.14082899824888
+      },
+      {
+        "year": 2004,
+        "value": 5.75996463670954
+      },
+      {
+        "year": 2005,
+        "value": 3.20213206130431
+      },
+      {
+        "year": 2006,
+        "value": 3.96198871122617
+      },
+      {
+        "year": 2007,
+        "value": 6.06987060678338
+      },
+      {
+        "year": 2008,
+        "value": 5.09419544658736
+      },
+      {
+        "year": 2009,
+        "value": -0.125812002161169
+      },
+      {
+        "year": 2010,
+        "value": 7.52822581815364
+      },
+      {
+        "year": 2011,
+        "value": 3.97442307944702
+      },
+      {
+        "year": 2012,
+        "value": 1.92117598576537
+      },
+      {
+        "year": 2013,
+        "value": 3.00482266944432
+      },
+      {
+        "year": 2014,
+        "value": 0.503955740242247
+      },
+      {
+        "year": 2015,
+        "value": -3.54576339269425
+      },
+      {
+        "year": 2016,
+        "value": -3.27591690782192
+      },
+      {
+        "year": 2017,
+        "value": 1.32286905404399
+      },
+      {
+        "year": 2018,
+        "value": 1.783666761634
+      },
+      {
+        "year": 2019,
+        "value": 1.22077782360842
+      },
+      {
+        "year": 2020,
+        "value": -3.2767587964736
+      },
+      {
+        "year": 2021,
+        "value": 4.76260437908608
+      },
+      {
+        "year": 2022,
+        "value": 3.01669435393015
+      },
+      {
+        "year": 2023,
+        "value": 3.24165532906981
+      },
+      {
+        "year": 2024,
+        "value": 3.41931516501906
+      },
+      {
+        "year": 2025,
+        "value": 2.2857464902475
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.MKTP.KD.ZG?format=json&per_page=1000",
+    "metadata": {
+      "id": "NY.GDP.MKTP.KD.ZG",
+      "name": "GDP growth (annual %)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Gross domestic product is the total income earned through the production of goods and services in an economic territory during an accounting period. It can be measured in three different ways: using either the expenditure approach, the income approach, or the production approach. This indicator denotes the percentage change over each previous year of the constant price (base year 2015) series in United States dollars.",
+      "sourceOrganization": "Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+      "topics": [
+        {
+          "id": "3",
+          "value": "Economy & Growth"
+        }
+      ]
+    }
+  },
+  "NY.GDP.MKTP.CN": {
+    "points": [
+      {
+        "year": 1960,
+        "value": 0.0011573091
+      },
+      {
+        "year": 1961,
+        "value": 0.0016919273
+      },
+      {
+        "year": 1962,
+        "value": 0.0027098909
+      },
+      {
+        "year": 1963,
+        "value": 0.0048639273
+      },
+      {
+        "year": 1964,
+        "value": 0.0095322182
+      },
+      {
+        "year": 1965,
+        "value": 0.0155134545
+      },
+      {
+        "year": 1966,
+        "value": 0.0228323636
+      },
+      {
+        "year": 1967,
+        "value": 0.0301029091
+      },
+      {
+        "year": 1968,
+        "value": 0.0418803636
+      },
+      {
+        "year": 1969,
+        "value": 0.0550545455
+      },
+      {
+        "year": 1970,
+        "value": 0.0706601105
+      },
+      {
+        "year": 1971,
+        "value": 0.0939258602
+      },
+      {
+        "year": 1972,
+        "value": 0.1260293808
+      },
+      {
+        "year": 1973,
+        "value": 0.1861215459
+      },
+      {
+        "year": 1974,
+        "value": 0.2709586014
+      },
+      {
+        "year": 1975,
+        "value": 0.3816427535
+      },
+      {
+        "year": 1976,
+        "value": 0.5941683927
+      },
+      {
+        "year": 1977,
+        "value": 0.9065374124
+      },
+      {
+        "year": 1978,
+        "value": 1.315362053
+      },
+      {
+        "year": 1979,
+        "value": 2.1677221866
+      },
+      {
+        "year": 1980,
+        "value": 4.5482930909
+      },
+      {
+        "year": 1981,
+        "value": 8.7330138182
+      },
+      {
+        "year": 1982,
+        "value": 17.7020792727
+      },
+      {
+        "year": 1983,
+        "value": 39.7768487273
+      },
+      {
+        "year": 1984,
+        "value": 126.5040054545
+      },
+      {
+        "year": 1985,
+        "value": 475.5340421818
+      },
+      {
+        "year": 1986,
+        "value": 1273.6839276364
+      },
+      {
+        "year": 1987,
+        "value": 4037.8057352727
+      },
+      {
+        "year": 1988,
+        "value": 29375.6302541818
+      },
+      {
+        "year": 1989,
+        "value": 425595.310393455
+      },
+      {
+        "year": 1990,
+        "value": 11548794.5454545
+      },
+      {
+        "year": 1991,
+        "value": 60286000.0
+      },
+      {
+        "year": 1992,
+        "value": 640958800.0
+      },
+      {
+        "year": 1993,
+        "value": 14097114200.0
+      },
+      {
+        "year": 1994,
+        "value": 349204679000.0
+      },
+      {
+        "year": 1995,
+        "value": 705991552900.0
+      },
+      {
+        "year": 1996,
+        "value": 854763607800.0
+      },
+      {
+        "year": 1997,
+        "value": 952089196100.0
+      },
+      {
+        "year": 1998,
+        "value": 1002351019200.0
+      },
+      {
+        "year": 1999,
+        "value": 1087710456100.0
+      },
+      {
+        "year": 2000,
+        "value": 1199092070900.0
+      },
+      {
+        "year": 2001,
+        "value": 1315755467800.0
+      },
+      {
+        "year": 2002,
+        "value": 1488787255200.0
+      },
+      {
+        "year": 2003,
+        "value": 1717950396400.0
+      },
+      {
+        "year": 2004,
+        "value": 1957751213000.0
+      },
+      {
+        "year": 2005,
+        "value": 2170584503500.0
+      },
+      {
+        "year": 2006,
+        "value": 2409449921500.0
+      },
+      {
+        "year": 2007,
+        "value": 2720262937600.0
+      },
+      {
+        "year": 2008,
+        "value": 3109803088900.0
+      },
+      {
+        "year": 2009,
+        "value": 3333039355200.0
+      },
+      {
+        "year": 2010,
+        "value": 3885846999800.0
+      },
+      {
+        "year": 2011,
+        "value": 4376381999900.0
+      },
+      {
+        "year": 2012,
+        "value": 4814759999600.0
+      },
+      {
+        "year": 2013,
+        "value": 5331618999600.0
+      },
+      {
+        "year": 2014,
+        "value": 5778953000000.0
+      },
+      {
+        "year": 2015,
+        "value": 5995786999700.0
+      },
+      {
+        "year": 2016,
+        "value": 6269328000700.0
+      },
+      {
+        "year": 2017,
+        "value": 6585479000100.0
+      },
+      {
+        "year": 2018,
+        "value": 7004140999900.0
+      },
+      {
+        "year": 2019,
+        "value": 7389130999500.0
+      },
+      {
+        "year": 2020,
+        "value": 7609597000600.0
+      },
+      {
+        "year": 2021,
+        "value": 9012141999300.0
+      },
+      {
+        "year": 2022,
+        "value": 10079676679200.0
+      },
+      {
+        "year": 2023,
+        "value": 10943344667900.0
+      },
+      {
+        "year": 2024,
+        "value": 11779250581600.0
+      },
+      {
+        "year": 2025,
+        "value": 12738565613900.0
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.MKTP.CN?format=json&per_page=1000",
+    "metadata": {
+      "id": "NY.GDP.MKTP.CN",
+      "name": "GDP (current LCU)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Gross domestic product is the total income earned through the production of goods and services in an economic territory during an accounting period. It can be measured in three different ways: using either the expenditure approach, the income approach, or the production approach. This indicator is expressed in current prices, meaning no adjustment has been made to account for price changes over time. This series is expressed in local currency units.",
+      "sourceOrganization": "Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+      "topics": [
+        {
+          "id": "3",
+          "value": "Economy & Growth"
+        }
+      ]
+    }
+  },
+  "SP.POP.TOTL": {
+    "points": [
+      {
+        "year": 1960,
+        "value": 72388126.0
+      },
+      {
+        "year": 1961,
+        "value": 74605447.0
+      },
+      {
+        "year": 1962,
+        "value": 76865323.0
+      },
+      {
+        "year": 1963,
+        "value": 79164235.0
+      },
+      {
+        "year": 1964,
+        "value": 81488595.0
+      },
+      {
+        "year": 1965,
+        "value": 83817583.0
+      },
+      {
+        "year": 1966,
+        "value": 86139359.0
+      },
+      {
+        "year": 1967,
+        "value": 88446124.0
+      },
+      {
+        "year": 1968,
+        "value": 90741240.0
+      },
+      {
+        "year": 1969,
+        "value": 93045777.0
+      },
+      {
+        "year": 1970,
+        "value": 95375651.0
+      },
+      {
+        "year": 1971,
+        "value": 97739273.0
+      },
+      {
+        "year": 1972,
+        "value": 100146797.0
+      },
+      {
+        "year": 1973,
+        "value": 102600976.0
+      },
+      {
+        "year": 1974,
+        "value": 105089675.0
+      },
+      {
+        "year": 1975,
+        "value": 107619565.0
+      },
+      {
+        "year": 1976,
+        "value": 110213349.0
+      },
+      {
+        "year": 1977,
+        "value": 112875292.0
+      },
+      {
+        "year": 1978,
+        "value": 115600942.0
+      },
+      {
+        "year": 1979,
+        "value": 118380821.0
+      },
+      {
+        "year": 1980,
+        "value": 121207461.0
+      },
+      {
+        "year": 1981,
+        "value": 124063109.0
+      },
+      {
+        "year": 1982,
+        "value": 126923155.0
+      },
+      {
+        "year": 1983,
+        "value": 129790077.0
+      },
+      {
+        "year": 1984,
+        "value": 132658864.0
+      },
+      {
+        "year": 1985,
+        "value": 135515595.0
+      },
+      {
+        "year": 1986,
+        "value": 138336370.0
+      },
+      {
+        "year": 1987,
+        "value": 141104944.0
+      },
+      {
+        "year": 1988,
+        "value": 143826357.0
+      },
+      {
+        "year": 1989,
+        "value": 146502972.0
+      },
+      {
+        "year": 1990,
+        "value": 149143223.0
+      },
+      {
+        "year": 1991,
+        "value": 151724256.0
+      },
+      {
+        "year": 1992,
+        "value": 154275079.0
+      },
+      {
+        "year": 1993,
+        "value": 156794577.0
+      },
+      {
+        "year": 1994,
+        "value": 159265006.0
+      },
+      {
+        "year": 1995,
+        "value": 161735073.0
+      },
+      {
+        "year": 1996,
+        "value": 164202549.0
+      },
+      {
+        "year": 1997,
+        "value": 166661659.0
+      },
+      {
+        "year": 1998,
+        "value": 169159655.0
+      },
+      {
+        "year": 1999,
+        "value": 171641543.0
+      },
+      {
+        "year": 2000,
+        "value": 174018282.0
+      },
+      {
+        "year": 2001,
+        "value": 176301203.0
+      },
+      {
+        "year": 2002,
+        "value": 178503484.0
+      },
+      {
+        "year": 2003,
+        "value": 180622688.0
+      },
+      {
+        "year": 2004,
+        "value": 182675143.0
+      },
+      {
+        "year": 2005,
+        "value": 184688101.0
+      },
+      {
+        "year": 2006,
+        "value": 186653106.0
+      },
+      {
+        "year": 2007,
+        "value": 188552320.0
+      },
+      {
+        "year": 2008,
+        "value": 190367302.0
+      },
+      {
+        "year": 2009,
+        "value": 192079951.0
+      },
+      {
+        "year": 2010,
+        "value": 193701929.0
+      },
+      {
+        "year": 2011,
+        "value": 195284734.0
+      },
+      {
+        "year": 2012,
+        "value": 196876111.0
+      },
+      {
+        "year": 2013,
+        "value": 198478299.0
+      },
+      {
+        "year": 2014,
+        "value": 200085127.0
+      },
+      {
+        "year": 2015,
+        "value": 201675532.0
+      },
+      {
+        "year": 2016,
+        "value": 203218114.0
+      },
+      {
+        "year": 2017,
+        "value": 204703445.0
+      },
+      {
+        "year": 2018,
+        "value": 206107261.0
+      },
+      {
+        "year": 2019,
+        "value": 207455459.0
+      },
+      {
+        "year": 2020,
+        "value": 208660842.0
+      },
+      {
+        "year": 2021,
+        "value": 209550294.0
+      },
+      {
+        "year": 2022,
+        "value": 210306415.0
+      },
+      {
+        "year": 2023,
+        "value": 211140729.0
+      },
+      {
+        "year": 2024,
+        "value": 211998573.0
+      },
+      {
+        "year": 2025,
+        "value": 212812405.0
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=1000",
+    "metadata": {
+      "id": "SP.POP.TOTL",
+      "name": "Population, total",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.",
+      "sourceOrganization": "World Population Prospects, United Nations (UN), uri: https://population.un.org/wpp/, publisher: UN Population Division;\nStatistical databases and publications from national statistical offices, National Statistical Offices (NSOs), uri: https://unstats.un.org/home/nso_sites/, publisher: National Statistical Offices;\nEurostat: Demographic Statistics, Eurostat (ESTAT), uri: https://ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly, publisher: Eurostat;\nPopulation and Vital Statistics Report (various years), United Nations (UN), uri: https://unstats.un.org, publisher: UN Statistics Division",
+      "topics": [
+        {
+          "id": "19",
+          "value": "Climate Change"
+        },
+        {
+          "id": "8",
+          "value": "Health "
+        }
+      ]
+    }
+  },
+  "SP.POP.GROW": {
+    "points": [
+      {
+        "year": 1961,
+        "value": 3.01712402135294
+      },
+      {
+        "year": 1962,
+        "value": 2.98413178984127
+      },
+      {
+        "year": 1963,
+        "value": 2.94697800169989
+      },
+      {
+        "year": 1964,
+        "value": 2.89384532588109
+      },
+      {
+        "year": 1965,
+        "value": 2.81797346768923
+      },
+      {
+        "year": 1966,
+        "value": 2.73236317426946
+      },
+      {
+        "year": 1967,
+        "value": 2.64271600538347
+      },
+      {
+        "year": 1968,
+        "value": 2.56183412825181
+      },
+      {
+        "year": 1969,
+        "value": 2.50796582962001
+      },
+      {
+        "year": 1970,
+        "value": 2.47317174130758
+      },
+      {
+        "year": 1971,
+        "value": 2.44801384438618
+      },
+      {
+        "year": 1972,
+        "value": 2.43336258601704
+      },
+      {
+        "year": 1973,
+        "value": 2.42103657885576
+      },
+      {
+        "year": 1974,
+        "value": 2.39665879234277
+      },
+      {
+        "year": 1975,
+        "value": 2.37884287680594
+      },
+      {
+        "year": 1976,
+        "value": 2.38155616304412
+      },
+      {
+        "year": 1977,
+        "value": 2.38655749823333
+      },
+      {
+        "year": 1978,
+        "value": 2.38605063277526
+      },
+      {
+        "year": 1979,
+        "value": 2.37626195376506
+      },
+      {
+        "year": 1980,
+        "value": 2.35969066147983
+      },
+      {
+        "year": 1981,
+        "value": 2.328674853913
+      },
+      {
+        "year": 1982,
+        "value": 2.27914448988333
+      },
+      {
+        "year": 1983,
+        "value": 2.23365283811212
+      },
+      {
+        "year": 1984,
+        "value": 2.18625478508242
+      },
+      {
+        "year": 1985,
+        "value": 2.13058251317121
+      },
+      {
+        "year": 1986,
+        "value": 2.0601457180807
+      },
+      {
+        "year": 1987,
+        "value": 1.98157140954846
+      },
+      {
+        "year": 1988,
+        "value": 1.91028205578332
+      },
+      {
+        "year": 1989,
+        "value": 1.84389971585717
+      },
+      {
+        "year": 1990,
+        "value": 1.78613575086263
+      },
+      {
+        "year": 1991,
+        "value": 1.71576956519978
+      },
+      {
+        "year": 1992,
+        "value": 1.66724681782032
+      },
+      {
+        "year": 1993,
+        "value": 1.61992855794359
+      },
+      {
+        "year": 1994,
+        "value": 1.56329973533197
+      },
+      {
+        "year": 1995,
+        "value": 1.53901255207011
+      },
+      {
+        "year": 1996,
+        "value": 1.51410759163045
+      },
+      {
+        "year": 1997,
+        "value": 1.48650426533337
+      },
+      {
+        "year": 1998,
+        "value": 1.48772098102752
+      },
+      {
+        "year": 1999,
+        "value": 1.45652767159292
+      },
+      {
+        "year": 2000,
+        "value": 1.37521128317928
+      },
+      {
+        "year": 2001,
+        "value": 1.30335503159977
+      },
+      {
+        "year": 2002,
+        "value": 1.24142062598122
+      },
+      {
+        "year": 2003,
+        "value": 1.18021395482771
+      },
+      {
+        "year": 2004,
+        "value": 1.12991417032023
+      },
+      {
+        "year": 2005,
+        "value": 1.09590612526605
+      },
+      {
+        "year": 2006,
+        "value": 1.05833842529955
+      },
+      {
+        "year": 2007,
+        "value": 1.01236820635667
+      },
+      {
+        "year": 2008,
+        "value": 0.957984635895359
+      },
+      {
+        "year": 2009,
+        "value": 0.895632239477021
+      },
+      {
+        "year": 2010,
+        "value": 0.84088322514573
+      },
+      {
+        "year": 2011,
+        "value": 0.81381388423754
+      },
+      {
+        "year": 2012,
+        "value": 0.811598483382088
+      },
+      {
+        "year": 2013,
+        "value": 0.810511647523289
+      },
+      {
+        "year": 2014,
+        "value": 0.806314177734439
+      },
+      {
+        "year": 2015,
+        "value": 0.791721773592796
+      },
+      {
+        "year": 2016,
+        "value": 0.761972670496742
+      },
+      {
+        "year": 2017,
+        "value": 0.72824666001736
+      },
+      {
+        "year": 2018,
+        "value": 0.683439571425594
+      },
+      {
+        "year": 2019,
+        "value": 0.651994346081362
+      },
+      {
+        "year": 2020,
+        "value": 0.579350709708032
+      },
+      {
+        "year": 2021,
+        "value": 0.425360907216456
+      },
+      {
+        "year": 2022,
+        "value": 0.360180890872169
+      },
+      {
+        "year": 2023,
+        "value": 0.395928695574996
+      },
+      {
+        "year": 2024,
+        "value": 0.405467027627251
+      },
+      {
+        "year": 2025,
+        "value": 0.383150642409967
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.GROW?format=json&per_page=1000",
+    "metadata": {
+      "id": "SP.POP.GROW",
+      "name": "Population growth (annual %)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Annual population growth rate for year t is the exponential rate of growth of midyear population from year t-1 to t, expressed as a percentage. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship.",
+      "sourceOrganization": "World Population Prospects, United Nations (UN), note: Derived from total population, publisher: UN Population Division;\nStatistical databases and publications from national statistical offices, National Statistical Offices (NSOs), note: Derived from total population;\nDemographic Statistics, Eurostat (ESTAT), note: Derived from total population;\nPopulation and Vital Statistics Report (various years), United Nations (UN), note: Derived from total population, publisher: UN Statistical Division",
+      "topics": [
+        {
+          "id": "19",
+          "value": "Climate Change"
+        },
+        {
+          "id": "8",
+          "value": "Health "
+        }
+      ]
+    }
+  },
+  "SP.DYN.CBRT.IN": {
+    "points": [
+      {
+        "year": 1960,
+        "value": 43.85
+      },
+      {
+        "year": 1961,
+        "value": 43.292
+      },
+      {
+        "year": 1962,
+        "value": 42.698
+      },
+      {
+        "year": 1963,
+        "value": 42.014
+      },
+      {
+        "year": 1964,
+        "value": 41.001
+      },
+      {
+        "year": 1965,
+        "value": 39.844
+      },
+      {
+        "year": 1966,
+        "value": 38.638
+      },
+      {
+        "year": 1967,
+        "value": 37.409
+      },
+      {
+        "year": 1968,
+        "value": 36.345
+      },
+      {
+        "year": 1969,
+        "value": 35.685
+      },
+      {
+        "year": 1970,
+        "value": 35.231
+      },
+      {
+        "year": 1971,
+        "value": 34.875
+      },
+      {
+        "year": 1972,
+        "value": 34.541
+      },
+      {
+        "year": 1973,
+        "value": 34.223
+      },
+      {
+        "year": 1974,
+        "value": 33.682
+      },
+      {
+        "year": 1975,
+        "value": 33.484
+      },
+      {
+        "year": 1976,
+        "value": 33.32
+      },
+      {
+        "year": 1977,
+        "value": 33.173
+      },
+      {
+        "year": 1978,
+        "value": 32.979
+      },
+      {
+        "year": 1979,
+        "value": 32.734
+      },
+      {
+        "year": 1980,
+        "value": 32.417
+      },
+      {
+        "year": 1981,
+        "value": 32.017
+      },
+      {
+        "year": 1982,
+        "value": 31.463
+      },
+      {
+        "year": 1983,
+        "value": 30.8
+      },
+      {
+        "year": 1984,
+        "value": 29.967
+      },
+      {
+        "year": 1985,
+        "value": 29.184
+      },
+      {
+        "year": 1986,
+        "value": 28.343
+      },
+      {
+        "year": 1987,
+        "value": 27.383
+      },
+      {
+        "year": 1988,
+        "value": 26.459
+      },
+      {
+        "year": 1989,
+        "value": 25.644
+      },
+      {
+        "year": 1990,
+        "value": 24.765
+      },
+      {
+        "year": 1991,
+        "value": 24.056
+      },
+      {
+        "year": 1992,
+        "value": 23.302
+      },
+      {
+        "year": 1993,
+        "value": 22.95
+      },
+      {
+        "year": 1994,
+        "value": 22.525
+      },
+      {
+        "year": 1995,
+        "value": 22.283
+      },
+      {
+        "year": 1996,
+        "value": 21.872
+      },
+      {
+        "year": 1997,
+        "value": 21.584
+      },
+      {
+        "year": 1998,
+        "value": 21.221
+      },
+      {
+        "year": 1999,
+        "value": 20.581
+      },
+      {
+        "year": 2000,
+        "value": 19.879
+      },
+      {
+        "year": 2001,
+        "value": 19.185
+      },
+      {
+        "year": 2002,
+        "value": 18.49
+      },
+      {
+        "year": 2003,
+        "value": 17.819
+      },
+      {
+        "year": 2004,
+        "value": 17.5
+      },
+      {
+        "year": 2005,
+        "value": 17.176
+      },
+      {
+        "year": 2006,
+        "value": 16.691
+      },
+      {
+        "year": 2007,
+        "value": 16.243
+      },
+      {
+        "year": 2008,
+        "value": 15.801
+      },
+      {
+        "year": 2009,
+        "value": 15.564
+      },
+      {
+        "year": 2010,
+        "value": 15.338
+      },
+      {
+        "year": 2011,
+        "value": 15.141
+      },
+      {
+        "year": 2012,
+        "value": 14.935
+      },
+      {
+        "year": 2013,
+        "value": 14.785
+      },
+      {
+        "year": 2014,
+        "value": 14.784
+      },
+      {
+        "year": 2015,
+        "value": 14.684
+      },
+      {
+        "year": 2016,
+        "value": 14.146
+      },
+      {
+        "year": 2017,
+        "value": 14.123
+      },
+      {
+        "year": 2018,
+        "value": 14.022
+      },
+      {
+        "year": 2019,
+        "value": 13.548
+      },
+      {
+        "year": 2020,
+        "value": 12.995
+      },
+      {
+        "year": 2021,
+        "value": 12.754
+      },
+      {
+        "year": 2022,
+        "value": 12.555
+      },
+      {
+        "year": 2023,
+        "value": 12.322
+      },
+      {
+        "year": 2024,
+        "value": 12.133
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.CBRT.IN?format=json&per_page=1000",
+    "metadata": {
+      "id": "SP.DYN.CBRT.IN",
+      "name": "Birth rate, crude (per 1,000 people)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Crude birth rate indicates the number of live births occurring during the year, per 1,000 population estimated at midyear. Subtracting the crude death rate from the crude birth rate provides the rate of natural increase, which is equal to the rate of population change in the absence of migration.",
+      "sourceOrganization": "World Population Prospects, United Nations (UN), publisher: UN Population Division;\nStatistical databases and publications from national statistical offices, National Statistical Offices (NSOs);\nDemographic Statistics, Eurostat (ESTAT);\nPopulation and Vital Statistics Report (various years), United Nations (UN), publisher: UN Statistical Division",
+      "topics": [
+        {
+          "id": "8",
+          "value": "Health "
+        }
+      ]
+    }
+  },
+  "SP.DYN.CDRT.IN": {
+    "points": [
+      {
+        "year": 1960,
+        "value": 13.591
+      },
+      {
+        "year": 1961,
+        "value": 13.265
+      },
+      {
+        "year": 1962,
+        "value": 12.949
+      },
+      {
+        "year": 1963,
+        "value": 12.627
+      },
+      {
+        "year": 1964,
+        "value": 12.304
+      },
+      {
+        "year": 1965,
+        "value": 11.969
+      },
+      {
+        "year": 1966,
+        "value": 11.643
+      },
+      {
+        "year": 1967,
+        "value": 11.319
+      },
+      {
+        "year": 1968,
+        "value": 10.981
+      },
+      {
+        "year": 1969,
+        "value": 10.706
+      },
+      {
+        "year": 1970,
+        "value": 10.465
+      },
+      {
+        "year": 1971,
+        "value": 10.245
+      },
+      {
+        "year": 1972,
+        "value": 10.03
+      },
+      {
+        "year": 1973,
+        "value": 9.844
+      },
+      {
+        "year": 1974,
+        "value": 9.662
+      },
+      {
+        "year": 1975,
+        "value": 9.463
+      },
+      {
+        "year": 1976,
+        "value": 9.288
+      },
+      {
+        "year": 1977,
+        "value": 9.117
+      },
+      {
+        "year": 1978,
+        "value": 8.941
+      },
+      {
+        "year": 1979,
+        "value": 8.771
+      },
+      {
+        "year": 1980,
+        "value": 8.592
+      },
+      {
+        "year": 1981,
+        "value": 8.414
+      },
+      {
+        "year": 1982,
+        "value": 8.232
+      },
+      {
+        "year": 1983,
+        "value": 8.053
+      },
+      {
+        "year": 1984,
+        "value": 7.869
+      },
+      {
+        "year": 1985,
+        "value": 7.689
+      },
+      {
+        "year": 1986,
+        "value": 7.521
+      },
+      {
+        "year": 1987,
+        "value": 7.359
+      },
+      {
+        "year": 1988,
+        "value": 7.213
+      },
+      {
+        "year": 1989,
+        "value": 7.092
+      },
+      {
+        "year": 1990,
+        "value": 6.977
+      },
+      {
+        "year": 1991,
+        "value": 6.879
+      },
+      {
+        "year": 1992,
+        "value": 6.788
+      },
+      {
+        "year": 1993,
+        "value": 6.713
+      },
+      {
+        "year": 1994,
+        "value": 6.621
+      },
+      {
+        "year": 1995,
+        "value": 6.54
+      },
+      {
+        "year": 1996,
+        "value": 6.46
+      },
+      {
+        "year": 1997,
+        "value": 6.393
+      },
+      {
+        "year": 1998,
+        "value": 6.355
+      },
+      {
+        "year": 1999,
+        "value": 6.302
+      },
+      {
+        "year": 2000,
+        "value": 6.248
+      },
+      {
+        "year": 2001,
+        "value": 6.189
+      },
+      {
+        "year": 2002,
+        "value": 6.126
+      },
+      {
+        "year": 2003,
+        "value": 6.033
+      },
+      {
+        "year": 2004,
+        "value": 5.96
+      },
+      {
+        "year": 2005,
+        "value": 5.896
+      },
+      {
+        "year": 2006,
+        "value": 5.836
+      },
+      {
+        "year": 2007,
+        "value": 5.793
+      },
+      {
+        "year": 2008,
+        "value": 5.778
+      },
+      {
+        "year": 2009,
+        "value": 5.784
+      },
+      {
+        "year": 2010,
+        "value": 5.801
+      },
+      {
+        "year": 2011,
+        "value": 5.843
+      },
+      {
+        "year": 2012,
+        "value": 5.881
+      },
+      {
+        "year": 2013,
+        "value": 5.924
+      },
+      {
+        "year": 2014,
+        "value": 5.998
+      },
+      {
+        "year": 2015,
+        "value": 6.045
+      },
+      {
+        "year": 2016,
+        "value": 6.226
+      },
+      {
+        "year": 2017,
+        "value": 6.256
+      },
+      {
+        "year": 2018,
+        "value": 6.337
+      },
+      {
+        "year": 2019,
+        "value": 6.452
+      },
+      {
+        "year": 2020,
+        "value": 7.502
+      },
+      {
+        "year": 2021,
+        "value": 8.366
+      },
+      {
+        "year": 2022,
+        "value": 7.539
+      },
+      {
+        "year": 2023,
+        "value": 7.077
+      },
+      {
+        "year": 2024,
+        "value": 7.068
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.CDRT.IN?format=json&per_page=1000",
+    "metadata": {
+      "id": "SP.DYN.CDRT.IN",
+      "name": "Death rate, crude (per 1,000 people)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Crude death rate indicates the number of deaths occurring during the year, per 1,000 population estimated at midyear. Subtracting the crude death rate from the crude birth rate provides the rate of natural increase, which is equal to the rate of population change in the absence of migration.",
+      "sourceOrganization": "World Population Prospects, United Nations (UN), publisher: UN Population Division;\nStatistical databases and publications from national statistical offices, National Statistical Offices (NSOs);\nDemographic Statistics, Eurostat (ESTAT);\nPopulation and Vital Statistics Report (various years), United Nations (UN), publisher: UN Statistical Division",
+      "topics": [
+        {
+          "id": "8",
+          "value": "Health "
+        }
+      ]
+    }
+  },
+  "SP.DYN.TFRT.IN": {
+    "points": [
+      {
+        "year": 1960,
+        "value": 6.051
+      },
+      {
+        "year": 1961,
+        "value": 6.022
+      },
+      {
+        "year": 1962,
+        "value": 5.984
+      },
+      {
+        "year": 1963,
+        "value": 5.93
+      },
+      {
+        "year": 1964,
+        "value": 5.818
+      },
+      {
+        "year": 1965,
+        "value": 5.677
+      },
+      {
+        "year": 1966,
+        "value": 5.516
+      },
+      {
+        "year": 1967,
+        "value": 5.336
+      },
+      {
+        "year": 1968,
+        "value": 5.165
+      },
+      {
+        "year": 1969,
+        "value": 5.041
+      },
+      {
+        "year": 1970,
+        "value": 4.934
+      },
+      {
+        "year": 1971,
+        "value": 4.838
+      },
+      {
+        "year": 1972,
+        "value": 4.735
+      },
+      {
+        "year": 1973,
+        "value": 4.638
+      },
+      {
+        "year": 1974,
+        "value": 4.502
+      },
+      {
+        "year": 1975,
+        "value": 4.415
+      },
+      {
+        "year": 1976,
+        "value": 4.339
+      },
+      {
+        "year": 1977,
+        "value": 4.267
+      },
+      {
+        "year": 1978,
+        "value": 4.195
+      },
+      {
+        "year": 1979,
+        "value": 4.12
+      },
+      {
+        "year": 1980,
+        "value": 4.037
+      },
+      {
+        "year": 1981,
+        "value": 3.943
+      },
+      {
+        "year": 1982,
+        "value": 3.838
+      },
+      {
+        "year": 1983,
+        "value": 3.723
+      },
+      {
+        "year": 1984,
+        "value": 3.6
+      },
+      {
+        "year": 1985,
+        "value": 3.48
+      },
+      {
+        "year": 1986,
+        "value": 3.361
+      },
+      {
+        "year": 1987,
+        "value": 3.232
+      },
+      {
+        "year": 1988,
+        "value": 3.112
+      },
+      {
+        "year": 1989,
+        "value": 3.007
+      },
+      {
+        "year": 1990,
+        "value": 2.896
+      },
+      {
+        "year": 1991,
+        "value": 2.805
+      },
+      {
+        "year": 1992,
+        "value": 2.71
+      },
+      {
+        "year": 1993,
+        "value": 2.66
+      },
+      {
+        "year": 1994,
+        "value": 2.603
+      },
+      {
+        "year": 1995,
+        "value": 2.567
+      },
+      {
+        "year": 1996,
+        "value": 2.511
+      },
+      {
+        "year": 1997,
+        "value": 2.468
+      },
+      {
+        "year": 1998,
+        "value": 2.418
+      },
+      {
+        "year": 1999,
+        "value": 2.335
+      },
+      {
+        "year": 2000,
+        "value": 2.247
+      },
+      {
+        "year": 2001,
+        "value": 2.162
+      },
+      {
+        "year": 2002,
+        "value": 2.081
+      },
+      {
+        "year": 2003,
+        "value": 2.006
+      },
+      {
+        "year": 2004,
+        "value": 1.973
+      },
+      {
+        "year": 2005,
+        "value": 1.942
+      },
+      {
+        "year": 2006,
+        "value": 1.896
+      },
+      {
+        "year": 2007,
+        "value": 1.854
+      },
+      {
+        "year": 2008,
+        "value": 1.815
+      },
+      {
+        "year": 2009,
+        "value": 1.799
+      },
+      {
+        "year": 2010,
+        "value": 1.786
+      },
+      {
+        "year": 2011,
+        "value": 1.777
+      },
+      {
+        "year": 2012,
+        "value": 1.766
+      },
+      {
+        "year": 2013,
+        "value": 1.761
+      },
+      {
+        "year": 2014,
+        "value": 1.775
+      },
+      {
+        "year": 2015,
+        "value": 1.777
+      },
+      {
+        "year": 2016,
+        "value": 1.727
+      },
+      {
+        "year": 2017,
+        "value": 1.74
+      },
+      {
+        "year": 2018,
+        "value": 1.744
+      },
+      {
+        "year": 2019,
+        "value": 1.705
+      },
+      {
+        "year": 2020,
+        "value": 1.653
+      },
+      {
+        "year": 2021,
+        "value": 1.638
+      },
+      {
+        "year": 2022,
+        "value": 1.629
+      },
+      {
+        "year": 2023,
+        "value": 1.619
+      },
+      {
+        "year": 2024,
+        "value": 1.614
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.TFRT.IN?format=json&per_page=1000",
+    "metadata": {
+      "id": "SP.DYN.TFRT.IN",
+      "name": "Fertility rate, total (births per woman)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Total fertility rate represents the number of children that would be born to a woman if she were to live to the end of her childbearing years and bear children in accordance with age-specific fertility rates of the specified year.",
+      "sourceOrganization": "World Population Prospects, United Nations (UN), publisher: UN Population Division;\nStatistical databases and publications from national statistical offices, National Statistical Offices (NSOs);\nDemographic Statistics, Eurostat (ESTAT)",
+      "topics": [
+        {
+          "id": "8",
+          "value": "Health "
+        },
+        {
+          "id": "17",
+          "value": "Gender"
+        }
+      ]
+    }
+  },
+  "SP.POP.65UP.TO.ZS": {
+    "points": [
+      {
+        "year": 1960,
+        "value": 2.52800644039323
+      },
+      {
+        "year": 1961,
+        "value": 2.557614844412
+      },
+      {
+        "year": 1962,
+        "value": 2.59346205704839
+      },
+      {
+        "year": 1963,
+        "value": 2.63222655175173
+      },
+      {
+        "year": 1964,
+        "value": 2.6718806642321
+      },
+      {
+        "year": 1965,
+        "value": 2.71392938349182
+      },
+      {
+        "year": 1966,
+        "value": 2.75937044504458
+      },
+      {
+        "year": 1967,
+        "value": 2.80638133337749
+      },
+      {
+        "year": 1968,
+        "value": 2.85492957777522
+      },
+      {
+        "year": 1969,
+        "value": 2.90545052305518
+      },
+      {
+        "year": 1970,
+        "value": 2.95745189723528
+      },
+      {
+        "year": 1971,
+        "value": 3.0110930791807
+      },
+      {
+        "year": 1972,
+        "value": 3.06677706327442
+      },
+      {
+        "year": 1973,
+        "value": 3.124369416936
+      },
+      {
+        "year": 1974,
+        "value": 3.18377565072984
+      },
+      {
+        "year": 1975,
+        "value": 3.24459822895586
+      },
+      {
+        "year": 1976,
+        "value": 3.30470449636731
+      },
+      {
+        "year": 1977,
+        "value": 3.36216493082399
+      },
+      {
+        "year": 1978,
+        "value": 3.4168324510712
+      },
+      {
+        "year": 1979,
+        "value": 3.46899732799199
+      },
+      {
+        "year": 1980,
+        "value": 3.51769518345779
+      },
+      {
+        "year": 1981,
+        "value": 3.56255057254772
+      },
+      {
+        "year": 1982,
+        "value": 3.60540122247433
+      },
+      {
+        "year": 1983,
+        "value": 3.64859364402719
+      },
+      {
+        "year": 1984,
+        "value": 3.6943773455439
+      },
+      {
+        "year": 1985,
+        "value": 3.74469409316067
+      },
+      {
+        "year": 1986,
+        "value": 3.8020749713181
+      },
+      {
+        "year": 1987,
+        "value": 3.86908271619455
+      },
+      {
+        "year": 1988,
+        "value": 3.94631284445312
+      },
+      {
+        "year": 1989,
+        "value": 4.03139365674914
+      },
+      {
+        "year": 1990,
+        "value": 4.12069578246945
+      },
+      {
+        "year": 1991,
+        "value": 4.21419301604616
+      },
+      {
+        "year": 1992,
+        "value": 4.31257145657521
+      },
+      {
+        "year": 1993,
+        "value": 4.41565335515399
+      },
+      {
+        "year": 1994,
+        "value": 4.52241812617644
+      },
+      {
+        "year": 1995,
+        "value": 4.62992339135395
+      },
+      {
+        "year": 1996,
+        "value": 4.73799770306854
+      },
+      {
+        "year": 1997,
+        "value": 4.8469255307245
+      },
+      {
+        "year": 1998,
+        "value": 4.95216929828806
+      },
+      {
+        "year": 1999,
+        "value": 5.05291571516576
+      },
+      {
+        "year": 2000,
+        "value": 5.15305600233732
+      },
+      {
+        "year": 2001,
+        "value": 5.25788953351612
+      },
+      {
+        "year": 2002,
+        "value": 5.37057950468513
+      },
+      {
+        "year": 2003,
+        "value": 5.49377715635099
+      },
+      {
+        "year": 2004,
+        "value": 5.62981083857698
+      },
+      {
+        "year": 2005,
+        "value": 5.77510511688269
+      },
+      {
+        "year": 2006,
+        "value": 5.93003018639837
+      },
+      {
+        "year": 2007,
+        "value": 6.09660384979617
+      },
+      {
+        "year": 2008,
+        "value": 6.27423008357346
+      },
+      {
+        "year": 2009,
+        "value": 6.46425536224823
+      },
+      {
+        "year": 2010,
+        "value": 6.66688609315066
+      },
+      {
+        "year": 2011,
+        "value": 6.88200029275714
+      },
+      {
+        "year": 2012,
+        "value": 7.11476668920292
+      },
+      {
+        "year": 2013,
+        "value": 7.37028483055902
+      },
+      {
+        "year": 2014,
+        "value": 7.65357587023447
+      },
+      {
+        "year": 2015,
+        "value": 7.95680732355772
+      },
+      {
+        "year": 2016,
+        "value": 8.26857395268557
+      },
+      {
+        "year": 2017,
+        "value": 8.5916529152697
+      },
+      {
+        "year": 2018,
+        "value": 8.92785021515533
+      },
+      {
+        "year": 2019,
+        "value": 9.27307434876159
+      },
+      {
+        "year": 2020,
+        "value": 9.59866487647293
+      },
+      {
+        "year": 2021,
+        "value": 9.91109990998152
+      },
+      {
+        "year": 2022,
+        "value": 10.251784783293
+      },
+      {
+        "year": 2023,
+        "value": 10.6336314676644
+      },
+      {
+        "year": 2024,
+        "value": 11.0491844889702
+      },
+      {
+        "year": 2025,
+        "value": 11.4803394567154
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.65UP.TO.ZS?format=json&per_page=1000",
+    "metadata": {
+      "id": "SP.POP.65UP.TO.ZS",
+      "name": "Population ages 65 and above (% of total population)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Population ages 65 and above as a percentage of the total population. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship.",
+      "sourceOrganization": "World Population Prospects, United Nations (UN), publisher: UN Population Division",
+      "topics": [
+        {
+          "id": "8",
+          "value": "Health "
+        }
+      ]
+    }
+  },
+  "SH.MED.PHYS.ZS": {
+    "points": [
+      {
+        "year": 1960,
+        "value": 0.374
+      },
+      {
+        "year": 1965,
+        "value": 0.4
+      },
+      {
+        "year": 1970,
+        "value": 0.492
+      },
+      {
+        "year": 1975,
+        "value": 0.624
+      },
+      {
+        "year": 1981,
+        "value": 0.767
+      },
+      {
+        "year": 1984,
+        "value": 0.927
+      },
+      {
+        "year": 1985,
+        "value": 1.467
+      },
+      {
+        "year": 1988,
+        "value": 1.185
+      },
+      {
+        "year": 1990,
+        "value": 1.085
+      },
+      {
+        "year": 1992,
+        "value": 1.14
+      },
+      {
+        "year": 1993,
+        "value": 1.168
+      },
+      {
+        "year": 1994,
+        "value": 1.197
+      },
+      {
+        "year": 1995,
+        "value": 1.227
+      },
+      {
+        "year": 1996,
+        "value": 1.259
+      },
+      {
+        "year": 1997,
+        "value": 1.295
+      },
+      {
+        "year": 1998,
+        "value": 1.281
+      },
+      {
+        "year": 1999,
+        "value": 1.379
+      },
+      {
+        "year": 2011,
+        "value": 1.87
+      },
+      {
+        "year": 2013,
+        "value": 1.906
+      },
+      {
+        "year": 2017,
+        "value": 2.198
+      },
+      {
+        "year": 2019,
+        "value": 2.351
+      },
+      {
+        "year": 2021,
+        "value": 2.191
+      },
+      {
+        "year": 2023,
+        "value": 2.357
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/SH.MED.PHYS.ZS?format=json&per_page=1000",
+    "metadata": {
+      "id": "SH.MED.PHYS.ZS",
+      "name": "Physicians (per 1,000 people)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Physicians include generalist and specialist medical practitioners.",
+      "sourceOrganization": "Global Health Workforce Statistics, World Health Organization (WHO);\nOrganisation for Economic Co-operation and Development (OECD);\nCountry data",
+      "topics": [
+        {
+          "id": "8",
+          "value": "Health "
+        }
+      ]
+    }
+  },
+  "SP.DYN.LE00.IN": {
+    "points": [
+      {
+        "year": 1960,
+        "value": 53.162
+      },
+      {
+        "year": 1961,
+        "value": 53.594
+      },
+      {
+        "year": 1962,
+        "value": 54.017
+      },
+      {
+        "year": 1963,
+        "value": 54.452
+      },
+      {
+        "year": 1964,
+        "value": 54.848
+      },
+      {
+        "year": 1965,
+        "value": 55.243
+      },
+      {
+        "year": 1966,
+        "value": 55.625
+      },
+      {
+        "year": 1967,
+        "value": 56.016
+      },
+      {
+        "year": 1968,
+        "value": 56.47
+      },
+      {
+        "year": 1969,
+        "value": 56.898
+      },
+      {
+        "year": 1970,
+        "value": 57.338
+      },
+      {
+        "year": 1971,
+        "value": 57.786
+      },
+      {
+        "year": 1972,
+        "value": 58.255
+      },
+      {
+        "year": 1973,
+        "value": 58.681
+      },
+      {
+        "year": 1974,
+        "value": 59.081
+      },
+      {
+        "year": 1975,
+        "value": 59.556
+      },
+      {
+        "year": 1976,
+        "value": 60.007
+      },
+      {
+        "year": 1977,
+        "value": 60.461
+      },
+      {
+        "year": 1978,
+        "value": 60.922
+      },
+      {
+        "year": 1979,
+        "value": 61.365
+      },
+      {
+        "year": 1980,
+        "value": 61.819
+      },
+      {
+        "year": 1981,
+        "value": 62.267
+      },
+      {
+        "year": 1982,
+        "value": 62.708
+      },
+      {
+        "year": 1983,
+        "value": 63.133
+      },
+      {
+        "year": 1984,
+        "value": 63.553
+      },
+      {
+        "year": 1985,
+        "value": 63.98
+      },
+      {
+        "year": 1986,
+        "value": 64.389
+      },
+      {
+        "year": 1987,
+        "value": 64.785
+      },
+      {
+        "year": 1988,
+        "value": 65.161
+      },
+      {
+        "year": 1989,
+        "value": 65.514
+      },
+      {
+        "year": 1990,
+        "value": 65.862
+      },
+      {
+        "year": 1991,
+        "value": 66.203
+      },
+      {
+        "year": 1992,
+        "value": 66.539
+      },
+      {
+        "year": 1993,
+        "value": 66.892
+      },
+      {
+        "year": 1994,
+        "value": 67.293
+      },
+      {
+        "year": 1995,
+        "value": 67.701
+      },
+      {
+        "year": 1996,
+        "value": 68.108
+      },
+      {
+        "year": 1997,
+        "value": 68.505
+      },
+      {
+        "year": 1998,
+        "value": 68.848
+      },
+      {
+        "year": 1999,
+        "value": 69.211
+      },
+      {
+        "year": 2000,
+        "value": 69.584
+      },
+      {
+        "year": 2001,
+        "value": 69.98
+      },
+      {
+        "year": 2002,
+        "value": 70.396
+      },
+      {
+        "year": 2003,
+        "value": 70.884
+      },
+      {
+        "year": 2004,
+        "value": 71.361
+      },
+      {
+        "year": 2005,
+        "value": 71.832
+      },
+      {
+        "year": 2006,
+        "value": 72.296
+      },
+      {
+        "year": 2007,
+        "value": 72.73
+      },
+      {
+        "year": 2008,
+        "value": 73.111
+      },
+      {
+        "year": 2009,
+        "value": 73.457
+      },
+      {
+        "year": 2010,
+        "value": 73.779
+      },
+      {
+        "year": 2011,
+        "value": 74.047
+      },
+      {
+        "year": 2012,
+        "value": 74.335
+      },
+      {
+        "year": 2013,
+        "value": 74.609
+      },
+      {
+        "year": 2014,
+        "value": 74.823
+      },
+      {
+        "year": 2015,
+        "value": 75.106
+      },
+      {
+        "year": 2016,
+        "value": 75.081
+      },
+      {
+        "year": 2017,
+        "value": 75.383
+      },
+      {
+        "year": 2018,
+        "value": 75.633
+      },
+      {
+        "year": 2019,
+        "value": 75.809
+      },
+      {
+        "year": 2020,
+        "value": 74.506
+      },
+      {
+        "year": 2021,
+        "value": 73.038
+      },
+      {
+        "year": 2022,
+        "value": 74.872
+      },
+      {
+        "year": 2023,
+        "value": 75.848
+      },
+      {
+        "year": 2024,
+        "value": 76.023
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=1000",
+    "metadata": {
+      "id": "SP.DYN.LE00.IN",
+      "name": "Life expectancy at birth, total (years)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Life expectancy at birth indicates the number of years a newborn infant would live if prevailing patterns of mortality at the time of its birth were to stay the same throughout its life.",
+      "sourceOrganization": "World Population Prospects, United Nations (UN), uri: UN Population Division;\nStatistical databases and publications from national statistical offices, National Statistical Offices (NSOs), note: Derived from male and female life expectancy at birth from sources such as statistical databases and publications from national statistical offices.;\nDemographic Statistics, Eurostat (ESTAT), note: Derived from male and female life expectancy at birth from sources such as Eurostat: Demographic Statistics.",
+      "topics": [
+        {
+          "id": "8",
+          "value": "Health "
+        }
+      ]
+    }
+  },
+  "SP.DYN.IMRT.IN": {
+    "points": [
+      {
+        "year": 1960,
+        "value": 127.2
+      },
+      {
+        "year": 1961,
+        "value": 124.0
+      },
+      {
+        "year": 1962,
+        "value": 120.8
+      },
+      {
+        "year": 1963,
+        "value": 118.0
+      },
+      {
+        "year": 1964,
+        "value": 115.4
+      },
+      {
+        "year": 1965,
+        "value": 113.0
+      },
+      {
+        "year": 1966,
+        "value": 110.7
+      },
+      {
+        "year": 1967,
+        "value": 108.5
+      },
+      {
+        "year": 1968,
+        "value": 106.4
+      },
+      {
+        "year": 1969,
+        "value": 104.3
+      },
+      {
+        "year": 1970,
+        "value": 102.2
+      },
+      {
+        "year": 1971,
+        "value": 100.1
+      },
+      {
+        "year": 1972,
+        "value": 97.9
+      },
+      {
+        "year": 1973,
+        "value": 95.6
+      },
+      {
+        "year": 1974,
+        "value": 93.3
+      },
+      {
+        "year": 1975,
+        "value": 90.9
+      },
+      {
+        "year": 1976,
+        "value": 88.4
+      },
+      {
+        "year": 1977,
+        "value": 85.7
+      },
+      {
+        "year": 1978,
+        "value": 82.9
+      },
+      {
+        "year": 1979,
+        "value": 79.9
+      },
+      {
+        "year": 1980,
+        "value": 76.7
+      },
+      {
+        "year": 1981,
+        "value": 73.6
+      },
+      {
+        "year": 1982,
+        "value": 70.4
+      },
+      {
+        "year": 1983,
+        "value": 67.4
+      },
+      {
+        "year": 1984,
+        "value": 64.8
+      },
+      {
+        "year": 1985,
+        "value": 62.3
+      },
+      {
+        "year": 1986,
+        "value": 60.1
+      },
+      {
+        "year": 1987,
+        "value": 58.1
+      },
+      {
+        "year": 1988,
+        "value": 56.0
+      },
+      {
+        "year": 1989,
+        "value": 54.0
+      },
+      {
+        "year": 1990,
+        "value": 51.9
+      },
+      {
+        "year": 1991,
+        "value": 49.8
+      },
+      {
+        "year": 1992,
+        "value": 47.4
+      },
+      {
+        "year": 1993,
+        "value": 44.9
+      },
+      {
+        "year": 1994,
+        "value": 42.4
+      },
+      {
+        "year": 1995,
+        "value": 39.9
+      },
+      {
+        "year": 1996,
+        "value": 37.5
+      },
+      {
+        "year": 1997,
+        "value": 35.2
+      },
+      {
+        "year": 1998,
+        "value": 33.1
+      },
+      {
+        "year": 1999,
+        "value": 31.1
+      },
+      {
+        "year": 2000,
+        "value": 29.1
+      },
+      {
+        "year": 2001,
+        "value": 27.3
+      },
+      {
+        "year": 2002,
+        "value": 25.6
+      },
+      {
+        "year": 2003,
+        "value": 24.0
+      },
+      {
+        "year": 2004,
+        "value": 22.4
+      },
+      {
+        "year": 2005,
+        "value": 21.0
+      },
+      {
+        "year": 2006,
+        "value": 19.7
+      },
+      {
+        "year": 2007,
+        "value": 18.6
+      },
+      {
+        "year": 2008,
+        "value": 17.6
+      },
+      {
+        "year": 2009,
+        "value": 16.7
+      },
+      {
+        "year": 2010,
+        "value": 16.0
+      },
+      {
+        "year": 2011,
+        "value": 15.3
+      },
+      {
+        "year": 2012,
+        "value": 14.8
+      },
+      {
+        "year": 2013,
+        "value": 14.4
+      },
+      {
+        "year": 2014,
+        "value": 14.0
+      },
+      {
+        "year": 2015,
+        "value": 13.7
+      },
+      {
+        "year": 2016,
+        "value": 14.6
+      },
+      {
+        "year": 2017,
+        "value": 13.3
+      },
+      {
+        "year": 2018,
+        "value": 13.1
+      },
+      {
+        "year": 2019,
+        "value": 12.9
+      },
+      {
+        "year": 2020,
+        "value": 12.8
+      },
+      {
+        "year": 2021,
+        "value": 12.7
+      },
+      {
+        "year": 2022,
+        "value": 12.6
+      },
+      {
+        "year": 2023,
+        "value": 12.4
+      },
+      {
+        "year": 2024,
+        "value": 12.3
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.IMRT.IN?format=json&per_page=1000",
+    "metadata": {
+      "id": "SP.DYN.IMRT.IN",
+      "name": "Mortality rate, infant (per 1,000 live births)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year.",
+      "sourceOrganization": "UN Inter-agency Group for Child Mortality Estimation, UN Children's Fund (UNICEF), uri: www.childmortality.org;\nWorld Health Organization (WHO), uri: www.childmortality.org, note: UN Inter-agency Group for Child Mortality Estimation;\nWorld Bank (WB), uri: www.childmortality.org, note: UN Inter-agency Group for Child Mortality Estimation;\nUnited Nations (UN), uri: www.childmortality.org, note: UN Inter-agency Group for Child Mortality Estimation, publisher: UN Population Division",
+      "topics": [
+        {
+          "id": "8",
+          "value": "Health "
+        }
+      ]
+    }
+  },
+  "SH.IMM.MEAS": {
+    "points": [
+      {
+        "year": 1980,
+        "value": 57.0
+      },
+      {
+        "year": 1981,
+        "value": 73.0
+      },
+      {
+        "year": 1982,
+        "value": 66.0
+      },
+      {
+        "year": 1983,
+        "value": 68.0
+      },
+      {
+        "year": 1984,
+        "value": 73.0
+      },
+      {
+        "year": 1985,
+        "value": 67.0
+      },
+      {
+        "year": 1986,
+        "value": 67.0
+      },
+      {
+        "year": 1987,
+        "value": 64.0
+      },
+      {
+        "year": 1988,
+        "value": 62.0
+      },
+      {
+        "year": 1989,
+        "value": 60.0
+      },
+      {
+        "year": 1990,
+        "value": 78.0
+      },
+      {
+        "year": 1991,
+        "value": 85.0
+      },
+      {
+        "year": 1992,
+        "value": 91.0
+      },
+      {
+        "year": 1993,
+        "value": 85.0
+      },
+      {
+        "year": 1994,
+        "value": 77.0
+      },
+      {
+        "year": 1995,
+        "value": 87.0
+      },
+      {
+        "year": 1996,
+        "value": 80.0
+      },
+      {
+        "year": 1997,
+        "value": 99.0
+      },
+      {
+        "year": 1998,
+        "value": 95.0
+      },
+      {
+        "year": 1999,
+        "value": 99.0
+      },
+      {
+        "year": 2000,
+        "value": 99.0
+      },
+      {
+        "year": 2001,
+        "value": 99.0
+      },
+      {
+        "year": 2002,
+        "value": 96.0
+      },
+      {
+        "year": 2003,
+        "value": 97.0
+      },
+      {
+        "year": 2004,
+        "value": 97.0
+      },
+      {
+        "year": 2005,
+        "value": 98.0
+      },
+      {
+        "year": 2006,
+        "value": 99.0
+      },
+      {
+        "year": 2007,
+        "value": 99.0
+      },
+      {
+        "year": 2008,
+        "value": 99.0
+      },
+      {
+        "year": 2009,
+        "value": 99.0
+      },
+      {
+        "year": 2010,
+        "value": 99.0
+      },
+      {
+        "year": 2011,
+        "value": 99.0
+      },
+      {
+        "year": 2012,
+        "value": 99.0
+      },
+      {
+        "year": 2013,
+        "value": 98.0
+      },
+      {
+        "year": 2014,
+        "value": 97.0
+      },
+      {
+        "year": 2015,
+        "value": 96.0
+      },
+      {
+        "year": 2016,
+        "value": 95.0
+      },
+      {
+        "year": 2017,
+        "value": 87.0
+      },
+      {
+        "year": 2018,
+        "value": 92.0
+      },
+      {
+        "year": 2019,
+        "value": 91.0
+      },
+      {
+        "year": 2020,
+        "value": 79.0
+      },
+      {
+        "year": 2021,
+        "value": 73.0
+      },
+      {
+        "year": 2022,
+        "value": 81.0
+      },
+      {
+        "year": 2023,
+        "value": 87.0
+      },
+      {
+        "year": 2024,
+        "value": 93.0
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/SH.IMM.MEAS?format=json&per_page=1000",
+    "metadata": {
+      "id": "SH.IMM.MEAS",
+      "name": "Immunization, measles (% of children ages 12-23 months)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Child immunization, measles, measures the percentage of children ages 12-23 months who received the measles vaccination before 12 months or at any time before the survey. A child is considered adequately immunized against measles after receiving one dose of vaccine.",
+      "sourceOrganization": "World Health Organization (WHO), uri: http://www.who.int/immunization/monitoring_surveillance/en/;\nUN Children's Fund (UNICEF), uri: https://data.unicef.org/topic/child-health/immunization/",
+      "topics": [
+        {
+          "id": "8",
+          "value": "Health "
+        }
+      ]
+    }
+  },
+  "SH.MED.BEDS.ZS": {
+    "points": [
+      {
+        "year": 1960,
+        "value": 3.20179533958435
+      },
+      {
+        "year": 1970,
+        "value": 3.69180011749268
+      },
+      {
+        "year": 1975,
+        "value": 4.9951000213623
+      },
+      {
+        "year": 1987,
+        "value": 3.56030011177063
+      },
+      {
+        "year": 1990,
+        "value": 3.3452999592
+      },
+      {
+        "year": 1993,
+        "value": 3.5
+      },
+      {
+        "year": 1996,
+        "value": 3.1099998951
+      },
+      {
+        "year": 2000,
+        "value": 2.81
+      },
+      {
+        "year": 2001,
+        "value": 2.78
+      },
+      {
+        "year": 2002,
+        "value": 2.59
+      },
+      {
+        "year": 2003,
+        "value": 2.42
+      },
+      {
+        "year": 2005,
+        "value": 2.52
+      },
+      {
+        "year": 2006,
+        "value": 2.48
+      },
+      {
+        "year": 2007,
+        "value": 2.5
+      },
+      {
+        "year": 2008,
+        "value": 2.6
+      },
+      {
+        "year": 2009,
+        "value": 2.58
+      },
+      {
+        "year": 2010,
+        "value": 2.59
+      },
+      {
+        "year": 2011,
+        "value": 2.55
+      },
+      {
+        "year": 2012,
+        "value": 2.51
+      },
+      {
+        "year": 2013,
+        "value": 2.49
+      },
+      {
+        "year": 2014,
+        "value": 2.48
+      },
+      {
+        "year": 2015,
+        "value": 2.39
+      },
+      {
+        "year": 2016,
+        "value": 2.36
+      },
+      {
+        "year": 2017,
+        "value": 2.34
+      },
+      {
+        "year": 2018,
+        "value": 2.3
+      },
+      {
+        "year": 2019,
+        "value": 2.29
+      },
+      {
+        "year": 2020,
+        "value": 2.49
+      },
+      {
+        "year": 2021,
+        "value": 2.52
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/SH.MED.BEDS.ZS?format=json&per_page=1000",
+    "metadata": {
+      "id": "SH.MED.BEDS.ZS",
+      "name": "Hospital beds (per 1,000 people)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Hospital beds include inpatient beds available in public, private, general, and specialized hospitals and rehabilitation centers. In most cases beds for both acute and chronic care are included.",
+      "sourceOrganization": "WHO data, supplemented by country data, World Health Organization (WHO)",
+      "topics": [
+        {
+          "id": "8",
+          "value": "Health "
+        }
+      ]
+    }
+  },
+  "DT.DOD.DECT.CD": {
+    "points": [
+      {
+        "year": 1970,
+        "value": 5984162468.6
+      },
+      {
+        "year": 1971,
+        "value": 7726273573.1
+      },
+      {
+        "year": 1972,
+        "value": 11863655548.9
+      },
+      {
+        "year": 1973,
+        "value": 15066000213.8
+      },
+      {
+        "year": 1974,
+        "value": 22464958636.0
+      },
+      {
+        "year": 1975,
+        "value": 27781563139.4
+      },
+      {
+        "year": 1976,
+        "value": 33801318618.9
+      },
+      {
+        "year": 1977,
+        "value": 42500176105.4
+      },
+      {
+        "year": 1978,
+        "value": 55032094032.5
+      },
+      {
+        "year": 1979,
+        "value": 61795286977.7
+      },
+      {
+        "year": 1980,
+        "value": 71983934096.8
+      },
+      {
+        "year": 1981,
+        "value": 81914155928.9
+      },
+      {
+        "year": 1982,
+        "value": 94428719113.5
+      },
+      {
+        "year": 1983,
+        "value": 99022210538.2
+      },
+      {
+        "year": 1984,
+        "value": 104364922436.4
+      },
+      {
+        "year": 1985,
+        "value": 104173244270.1
+      },
+      {
+        "year": 1986,
+        "value": 109645181057.1
+      },
+      {
+        "year": 1987,
+        "value": 120476573202.5
+      },
+      {
+        "year": 1988,
+        "value": 118039405885.0
+      },
+      {
+        "year": 1989,
+        "value": 114930095027.7
+      },
+      {
+        "year": 1990,
+        "value": 120311895094.7
+      },
+      {
+        "year": 1991,
+        "value": 121336709129.8
+      },
+      {
+        "year": 1992,
+        "value": 129535948557.2
+      },
+      {
+        "year": 1993,
+        "value": 144599577124.3
+      },
+      {
+        "year": 1994,
+        "value": 152903103557.7
+      },
+      {
+        "year": 1995,
+        "value": 160964228343.5
+      },
+      {
+        "year": 1996,
+        "value": 181793526989.2
+      },
+      {
+        "year": 1997,
+        "value": 198980293495.1
+      },
+      {
+        "year": 1998,
+        "value": 241998415763.8
+      },
+      {
+        "year": 1999,
+        "value": 245114967226.0
+      },
+      {
+        "year": 2000,
+        "value": 242511685521.8
+      },
+      {
+        "year": 2001,
+        "value": 229959717402.1
+      },
+      {
+        "year": 2002,
+        "value": 231944181034.5
+      },
+      {
+        "year": 2003,
+        "value": 235907984168.4
+      },
+      {
+        "year": 2004,
+        "value": 220693592600.6
+      },
+      {
+        "year": 2005,
+        "value": 188364545589.9
+      },
+      {
+        "year": 2006,
+        "value": 194303018016.9
+      },
+      {
+        "year": 2007,
+        "value": 238444452622.6
+      },
+      {
+        "year": 2008,
+        "value": 262957236462.6
+      },
+      {
+        "year": 2009,
+        "value": 281651138432.4
+      },
+      {
+        "year": 2010,
+        "value": 352364412862.6
+      },
+      {
+        "year": 2011,
+        "value": 404046105342.1
+      },
+      {
+        "year": 2012,
+        "value": 440496598192.8
+      },
+      {
+        "year": 2013,
+        "value": 483734834011.9
+      },
+      {
+        "year": 2014,
+        "value": 556919631071.7
+      },
+      {
+        "year": 2015,
+        "value": 543397356309.8
+      },
+      {
+        "year": 2016,
+        "value": 543257228545.3
+      },
+      {
+        "year": 2017,
+        "value": 543000470110.9
+      },
+      {
+        "year": 2018,
+        "value": 557765380774.6
+      },
+      {
+        "year": 2019,
+        "value": 568708887352.2
+      },
+      {
+        "year": 2020,
+        "value": 549329010779.0
+      },
+      {
+        "year": 2021,
+        "value": 571193915507.8
+      },
+      {
+        "year": 2022,
+        "value": 579257850288.2
+      },
+      {
+        "year": 2023,
+        "value": 607387151485.1
+      },
+      {
+        "year": 2024,
+        "value": 605463780812.8
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/DT.DOD.DECT.CD?format=json&per_page=1000",
+    "metadata": {
+      "id": "DT.DOD.DECT.CD",
+      "name": "External debt stocks, total (DOD, current US$)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Total external debt is debt owed to nonresidents repayable in currency, goods, or services. Total external debt is the sum of public, publicly guaranteed, and private nonguaranteed long-term debt, use of IMF credit, and short-term debt. Short-term debt includes all debt having an original maturity of one year or less and interest in arrears on long-term debt. Data are in current U.S. dollars.",
+      "sourceOrganization": "International Debt Statistics, World Bank (WB)",
+      "topics": [
+        {
+          "id": "3",
+          "value": "Economy & Growth"
+        },
+        {
+          "id": "20",
+          "value": "External Debt"
+        }
+      ]
+    }
+  },
+  "BN.CAB.XOKA.GD.ZS": {
+    "points": [
+      {
+        "year": 1975,
+        "value": -5.39304045242405
+      },
+      {
+        "year": 1976,
+        "value": -4.25673743516852
+      },
+      {
+        "year": 1977,
+        "value": -2.86315218930506
+      },
+      {
+        "year": 1978,
+        "value": -3.49313325979003
+      },
+      {
+        "year": 1979,
+        "value": -4.75110025614202
+      },
+      {
+        "year": 1980,
+        "value": -5.40495023928538
+      },
+      {
+        "year": 1981,
+        "value": -4.55942175163155
+      },
+      {
+        "year": 1982,
+        "value": -6.01406236239061
+      },
+      {
+        "year": 1983,
+        "value": -3.60335647458237
+      },
+      {
+        "year": 1984,
+        "value": 0.017521506074345
+      },
+      {
+        "year": 1985,
+        "value": -0.132777032570129
+      },
+      {
+        "year": 1986,
+        "value": -2.07071987979993
+      },
+      {
+        "year": 1987,
+        "value": -0.512971181312458
+      },
+      {
+        "year": 1988,
+        "value": 1.34986811010486
+      },
+      {
+        "year": 1989,
+        "value": 0.242620404807705
+      },
+      {
+        "year": 1990,
+        "value": -0.993090660229478
+      },
+      {
+        "year": 1991,
+        "value": -0.423315529310288
+      },
+      {
+        "year": 1992,
+        "value": 1.8553169096048
+      },
+      {
+        "year": 1993,
+        "value": 0.00543047313896343
+      },
+      {
+        "year": 1994,
+        "value": -0.219464600014709
+      },
+      {
+        "year": 1995,
+        "value": -2.35736654973227
+      },
+      {
+        "year": 1996,
+        "value": -2.73368737119507
+      },
+      {
+        "year": 1997,
+        "value": -3.63826290528202
+      },
+      {
+        "year": 1998,
+        "value": -4.05145818781602
+      },
+      {
+        "year": 1999,
+        "value": -4.46660530392098
+      },
+      {
+        "year": 2000,
+        "value": -4.0477413019387
+      },
+      {
+        "year": 2001,
+        "value": -4.44478653179818
+      },
+      {
+        "year": 2002,
+        "value": -1.84525901678299
+      },
+      {
+        "year": 2003,
+        "value": 0.392877183707378
+      },
+      {
+        "year": 2004,
+        "value": 1.33863064799445
+      },
+      {
+        "year": 2005,
+        "value": 1.30988466560485
+      },
+      {
+        "year": 2006,
+        "value": 0.972710523034594
+      },
+      {
+        "year": 2007,
+        "value": -0.19709696108555
+      },
+      {
+        "year": 2008,
+        "value": -2.09933784786717
+      },
+      {
+        "year": 2009,
+        "value": -1.7593578735281
+      },
+      {
+        "year": 2010,
+        "value": -3.92594604454763
+      },
+      {
+        "year": 2011,
+        "value": -3.19461831905473
+      },
+      {
+        "year": 2012,
+        "value": -3.75941611687375
+      },
+      {
+        "year": 2013,
+        "value": -3.57422079622864
+      },
+      {
+        "year": 2014,
+        "value": -4.4988303801852
+      },
+      {
+        "year": 2015,
+        "value": -3.51839166799859
+      },
+      {
+        "year": 2016,
+        "value": -1.700113396765
+      },
+      {
+        "year": 2017,
+        "value": -1.22429925769002
+      },
+      {
+        "year": 2018,
+        "value": -2.80752008594698
+      },
+      {
+        "year": 2019,
+        "value": -3.41429103072781
+      },
+      {
+        "year": 2020,
+        "value": -1.64103541830151
+      },
+      {
+        "year": 2021,
+        "value": -2.35822097223117
+      },
+      {
+        "year": 2022,
+        "value": -2.14967698505073
+      },
+      {
+        "year": 2023,
+        "value": -1.23139445763703
+      },
+      {
+        "year": 2024,
+        "value": -2.98801427062079
+      },
+      {
+        "year": 2025,
+        "value": -2.92630139201733
+      }
+    ],
+    "source": "https://api.worldbank.org/v2/country/BRA/indicator/BN.CAB.XOKA.GD.ZS?format=json&per_page=1000",
+    "metadata": {
+      "id": "BN.CAB.XOKA.GD.ZS",
+      "name": "Current account balance (% of GDP)",
+      "unit": "",
+      "source": {
+        "id": "2",
+        "value": "World Development Indicators"
+      },
+      "sourceNote": "Balance of current transactions (transactions in goods and services, earned income and transfer income) between residents and non-residents. The term current account balance is used in the external accounts and is expressed from the perspective of resident units. The term current external balance is used in the national accounts and is expressed from the perspective of the non-resident units, and therefore with the opposite sign. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period.",
+      "sourceOrganization": "Balance of Payments Statistics Yearbook and data files, International Monetary Fund (IMF);\nWorld Development Indicators Database, World Bank (WB);\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD)",
+      "topics": [
+        {
+          "id": "3",
+          "value": "Economy & Growth"
+        }
+      ]
+    }
+  }
+}

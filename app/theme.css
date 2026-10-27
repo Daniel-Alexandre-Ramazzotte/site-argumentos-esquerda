@@ -1,0 +1,323 @@
+:root {
+  color-scheme: light;
+  --surface: #ffffff;
+  --surface-soft: #f0f4eb;
+}
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  flex-shrink: 0;
+  padding: 10px 12px;
+  min-height: 42px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  color: var(--ink);
+  background: var(--surface);
+  font-size: 11px;
+  font-weight: 600;
+}
+.theme-toggle:hover {
+  border-color: var(--green);
+}
+.menu-button {
+  color: var(--ink);
+}
+.price-display {
+  background: var(--surface-soft);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 22px;
+  margin: 22px 0;
+}
+.price-display-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.price-display-heading > strong {
+  font-size: 13px;
+}
+.price-switch {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  padding: 4px;
+}
+.price-switch button {
+  font: inherit;
+  font-size: 12px;
+  padding: 9px 14px;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--ink);
+}
+.price-switch button[aria-pressed="true"] {
+  background: #1c6348;
+  color: white;
+}
+.price-display p {
+  font-size: 12px;
+  line-height: 1.9;
+  color: var(--muted);
+  margin-top: 13px;
+  max-width: 900px;
+}
+.price-display details {
+  margin-top: 14px;
+  font-size: 12px;
+}
+.price-display summary {
+  color: var(--green);
+  cursor: pointer;
+}
+.price-display details a {
+  color: var(--green);
+  display: inline-block;
+  margin-top: 12px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.prevention-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+.prevention-card {
+  padding: 26px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--surface);
+  min-width: 0;
+}
+.prevention-card h4 {
+  margin: 0 0 16px;
+  font-family: Manrope, Arial, sans-serif;
+  font-size: 19px;
+  line-height: 1.4;
+  letter-spacing: -0.03em;
+}
+.prevention-card p {
+  font-size: 13px;
+  line-height: 1.95;
+  color: var(--muted);
+}
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --ink: #e3eee8;
+  --green: #80d6ad;
+  --soft: #202f28;
+  --muted: #b0bfb5;
+  --line: #35473d;
+  --cream: #111b17;
+  --surface: #1a2720;
+  --surface-soft: #223229;
+}
+html[data-theme="dark"] header {
+  background: #111b17f2;
+}
+html[data-theme="dark"]
+  :is(
+    .article-card,
+    .check-card,
+    .series-card,
+    .record-card,
+    .legal-card,
+    .axis-card,
+    .timeline-panel,
+    .floating-card,
+    .case-search,
+    .skip
+  ) {
+  background: var(--surface);
+  border-color: var(--line);
+}
+html[data-theme="dark"]
+  :is(
+    .dataset-controls,
+    .method-card,
+    .series-readout,
+    .related a,
+    .evidence-types > div,
+    .evidence-video,
+    .context-note,
+    .legal-note,
+    .timeline-limit,
+    .feature-justice,
+    .tiny-icon,
+    .card-top > span,
+    .legal-meta > span:last-child,
+    .verdict > span
+  ) {
+  background: var(--surface-soft);
+  border-color: var(--line);
+  color: var(--ink);
+}
+html[data-theme="dark"]
+  :is(.checks-section, .justice-section, .dossier-section, .rio-section) {
+  background: #17231c;
+}
+html[data-theme="dark"]
+  :is(
+    .dataset-controls select,
+    .dataset-controls input,
+    .year-controls select,
+    .poll-filters select,
+    .poll-filters input,
+    .poll-record-picker select,
+    .frequency-switch button,
+    .period-presets button,
+    .timeline-pagination button,
+    .chart-actions a,
+    .chart-actions button
+  ) {
+  background-color: var(--surface);
+  border-color: var(--line);
+  color: var(--ink);
+}
+html[data-theme="dark"]
+  :is(
+    .dataset-controls label,
+    .year-controls label,
+    .coverage-note,
+    .series-legend,
+    .series-readout,
+    .card-range,
+    .check-meta,
+    .record-meta,
+    .legal-meta,
+    .method-card p,
+    .timeline-limit p,
+    .record-card details p,
+    .legal-note p,
+    .legal-card p,
+    .context-note p,
+    .data-caption,
+    .art-source,
+    .principles p,
+    .art-label
+  ) {
+  color: var(--muted);
+}
+html[data-theme="dark"]
+  :is(
+    .frequency-switch button[aria-pressed="true"],
+    .filters button.active,
+    .price-switch button[aria-pressed="true"],
+    .primary
+  ) {
+  background: #246b4d;
+  border-color: #4c9b75;
+  color: #f3fff7;
+}
+html[data-theme="dark"] .hero-art {
+  background: #21362a;
+  color: #9dcc9b;
+}
+html[data-theme="dark"] .rail-dot {
+  background: #26392d;
+  border-color: #759a74;
+}
+html[data-theme="dark"] .timeline-rail button {
+  color: var(--muted);
+}
+html[data-theme="dark"] .timeline-rail button.selected {
+  color: var(--green);
+}
+html[data-theme="dark"] .timeline-rail button.selected .rail-dot {
+  background: #80d6ad;
+  border-color: #80d6ad;
+  box-shadow: 0 0 0 4px #2d4a37;
+}
+html[data-theme="dark"] .timeline-rail button::before {
+  background: #425d46;
+}
+html[data-theme="dark"] :is(table th, table td) {
+  border-color: var(--line);
+}
+html[data-theme="dark"] :is(table thead, table th) {
+  color: var(--ink);
+}
+html[data-theme="dark"] .series-svg text {
+  fill: #b8cabd;
+}
+html[data-theme="dark"] .series-svg [fill="#deebdc"] {
+  fill: #254535;
+}
+html[data-theme="dark"] .pt-swatch {
+  background: #254535;
+  border-color: #4b7e60;
+}
+html[data-theme="dark"]
+  .series-svg
+  :is([stroke="#dbe3d7"], [stroke="#e2e7df"], [stroke="#e1e7dc"]) {
+  stroke: #3c5043;
+}
+html[data-theme="dark"]
+  .series-svg
+  :is(
+    [stroke="#176c4d"],
+    [stroke="#1b6a4b"],
+    [stroke="#1b6b4b"],
+    [stroke="#1c6d4c"]
+  ) {
+  stroke: #82dbad;
+}
+html[data-theme="dark"]
+  .series-svg
+  :is([fill="#176c4d"], [fill="#1b6a4b"], [fill="#1b6b4b"], [fill="#1c6d4c"]) {
+  fill: #82dbad;
+}
+html[data-theme="dark"]
+  .series-svg
+  :is([stroke="#a46c25"], [stroke="#ac722b"]) {
+  stroke: #e0b273;
+}
+html[data-theme="dark"] .series-svg :is([fill="#a46c25"], [fill="#ac722b"]) {
+  fill: #e0b273;
+}
+html[data-theme="dark"] .series-svg :is([fill="white"], [fill="#fff"]) {
+  fill: #18271e;
+}
+html[data-theme="dark"] .series-svg [stroke="white"] {
+  stroke: #18271e;
+}
+html[data-theme="dark"] input {
+  accent-color: #72c99f;
+}
+@media (max-width: 1100px) {
+  .nav {
+    gap: 14px;
+  }
+  .theme-toggle {
+    padding: 9px;
+  }
+  .theme-toggle span {
+    display: none;
+  }
+}
+@media (max-width: 700px) {
+  .prevention-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .theme-toggle {
+    margin-left: auto;
+  }
+  .price-display {
+    padding: 18px;
+  }
+  .price-switch {
+    width: 100%;
+  }
+  .price-switch button {
+    flex: 1;
+    padding: 10px 8px;
+  }
+}

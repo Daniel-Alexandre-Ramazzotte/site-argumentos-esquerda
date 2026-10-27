@@ -1,0 +1,620 @@
+{
+  "igpdi": {
+    "points": [
+      {
+        "year": 1945,
+        "value": 11.1
+      },
+      {
+        "year": 1946,
+        "value": 22.23
+      },
+      {
+        "year": 1947,
+        "value": 2.74
+      },
+      {
+        "year": 1948,
+        "value": 7.98
+      },
+      {
+        "year": 1949,
+        "value": 12.29
+      },
+      {
+        "year": 1950,
+        "value": 12.41
+      },
+      {
+        "year": 1951,
+        "value": 12.34
+      },
+      {
+        "year": 1952,
+        "value": 12.75
+      },
+      {
+        "year": 1953,
+        "value": 20.51
+      },
+      {
+        "year": 1954,
+        "value": 25.87
+      },
+      {
+        "year": 1955,
+        "value": 12.15
+      },
+      {
+        "year": 1956,
+        "value": 24.56
+      },
+      {
+        "year": 1957,
+        "value": 6.95
+      },
+      {
+        "year": 1958,
+        "value": 24.37
+      },
+      {
+        "year": 1959,
+        "value": 39.44
+      },
+      {
+        "year": 1960,
+        "value": 30.46
+      },
+      {
+        "year": 1961,
+        "value": 47.79
+      },
+      {
+        "year": 1962,
+        "value": 51.61
+      },
+      {
+        "year": 1963,
+        "value": 79.89
+      },
+      {
+        "year": 1964,
+        "value": 92.12
+      },
+      {
+        "year": 1965,
+        "value": 34.23
+      },
+      {
+        "year": 1966,
+        "value": 39.11
+      },
+      {
+        "year": 1967,
+        "value": 25.02
+      },
+      {
+        "year": 1968,
+        "value": 25.5
+      },
+      {
+        "year": 1969,
+        "value": 19.31
+      },
+      {
+        "year": 1970,
+        "value": 19.27
+      },
+      {
+        "year": 1971,
+        "value": 19.48
+      },
+      {
+        "year": 1972,
+        "value": 15.73
+      },
+      {
+        "year": 1973,
+        "value": 15.53
+      },
+      {
+        "year": 1974,
+        "value": 34.56
+      },
+      {
+        "year": 1975,
+        "value": 29.33
+      },
+      {
+        "year": 1976,
+        "value": 46.27
+      },
+      {
+        "year": 1977,
+        "value": 38.79
+      },
+      {
+        "year": 1978,
+        "value": 40.82
+      },
+      {
+        "year": 1979,
+        "value": 77.24
+      },
+      {
+        "year": 1980,
+        "value": 110.23
+      },
+      {
+        "year": 1981,
+        "value": 95.2
+      },
+      {
+        "year": 1982,
+        "value": 99.73
+      },
+      {
+        "year": 1983,
+        "value": 211.02
+      },
+      {
+        "year": 1984,
+        "value": 223.81
+      },
+      {
+        "year": 1985,
+        "value": 235.13
+      },
+      {
+        "year": 1986,
+        "value": 65.04
+      },
+      {
+        "year": 1987,
+        "value": 415.91
+      },
+      {
+        "year": 1988,
+        "value": 1037.53
+      },
+      {
+        "year": 1989,
+        "value": 1782.85
+      },
+      {
+        "year": 1990,
+        "value": 1476.71
+      },
+      {
+        "year": 1991,
+        "value": 480.23
+      },
+      {
+        "year": 1992,
+        "value": 1157.84
+      },
+      {
+        "year": 1993,
+        "value": 2708.39
+      },
+      {
+        "year": 1994,
+        "value": 909.67
+      },
+      {
+        "year": 1995,
+        "value": 14.77
+      },
+      {
+        "year": 1996,
+        "value": 9.33
+      },
+      {
+        "year": 1997,
+        "value": 7.48
+      },
+      {
+        "year": 1998,
+        "value": 1.71
+      },
+      {
+        "year": 1999,
+        "value": 19.99
+      },
+      {
+        "year": 2000,
+        "value": 9.8
+      },
+      {
+        "year": 2001,
+        "value": 10.4
+      },
+      {
+        "year": 2002,
+        "value": 26.41
+      },
+      {
+        "year": 2003,
+        "value": 7.66
+      },
+      {
+        "year": 2004,
+        "value": 12.13
+      },
+      {
+        "year": 2005,
+        "value": 1.23
+      },
+      {
+        "year": 2006,
+        "value": 3.8
+      },
+      {
+        "year": 2007,
+        "value": 7.9
+      },
+      {
+        "year": 2008,
+        "value": 9.11
+      },
+      {
+        "year": 2009,
+        "value": -1.44
+      },
+      {
+        "year": 2010,
+        "value": 11.31
+      },
+      {
+        "year": 2011,
+        "value": 5.01
+      },
+      {
+        "year": 2012,
+        "value": 8.11
+      },
+      {
+        "year": 2013,
+        "value": 5.53
+      },
+      {
+        "year": 2014,
+        "value": 3.78
+      },
+      {
+        "year": 2015,
+        "value": 10.68
+      },
+      {
+        "year": 2016,
+        "value": 7.15
+      },
+      {
+        "year": 2017,
+        "value": -0.42
+      },
+      {
+        "year": 2018,
+        "value": 7.1
+      },
+      {
+        "year": 2019,
+        "value": 7.68
+      },
+      {
+        "year": 2020,
+        "value": 23.07
+      },
+      {
+        "year": 2021,
+        "value": 17.74
+      },
+      {
+        "year": 2022,
+        "value": 5.01
+      },
+      {
+        "year": 2023,
+        "value": -3.28
+      },
+      {
+        "year": 2024,
+        "value": 6.86
+      },
+      {
+        "year": 2025,
+        "value": -1.19
+      }
+    ],
+    "source": "https://www3.bcb.gov.br/sgspub/consultarvalores/consultarValoresSeries.do?method=consultarSeries&series=190",
+    "method": "Taxas mensais FGV, republicadas pelo BCB, série 190. Acumulado anual calculado por multiplicação de 12 fatores mensais publicados; pode diferir por arredondamento."
+  },
+  "povertyHistorical": {
+    "points": [
+      {
+        "year": 1976,
+        "value": 42.1167229089763
+      },
+      {
+        "year": 1977,
+        "value": 39.0632294999594
+      },
+      {
+        "year": 1978,
+        "value": 42.7373321378275
+      },
+      {
+        "year": 1979,
+        "value": 38.7369003586032
+      },
+      {
+        "year": 1981,
+        "value": 40.78639940345
+      },
+      {
+        "year": 1982,
+        "value": 41.0037516344219
+      },
+      {
+        "year": 1983,
+        "value": 48.7335215214752
+      },
+      {
+        "year": 1984,
+        "value": 48.3048353200509
+      },
+      {
+        "year": 1985,
+        "value": 42.0075719474568
+      },
+      {
+        "year": 1986,
+        "value": 26.4111509231732
+      },
+      {
+        "year": 1987,
+        "value": 38.710240907139
+      },
+      {
+        "year": 1988,
+        "value": 43.5729318060916
+      },
+      {
+        "year": 1989,
+        "value": 41.3619770232427
+      },
+      {
+        "year": 1990,
+        "value": 41.9225995885211
+      },
+      {
+        "year": 1992,
+        "value": 42.0924280128688
+      },
+      {
+        "year": 1993,
+        "value": 42.9799209464312
+      },
+      {
+        "year": 1995,
+        "value": 35.0793952349548
+      },
+      {
+        "year": 1996,
+        "value": 34.7289732415829
+      },
+      {
+        "year": 1997,
+        "value": 35.175568555776
+      },
+      {
+        "year": 1998,
+        "value": 33.9746909389369
+      },
+      {
+        "year": 1999,
+        "value": 35.256397545013
+      },
+      {
+        "year": 2001,
+        "value": 35.0875861892043
+      },
+      {
+        "year": 2002,
+        "value": 34.3795326315975
+      },
+      {
+        "year": 2003,
+        "value": 35.7505476188909
+      },
+      {
+        "year": 2004,
+        "value": 33.7124643609299
+      },
+      {
+        "year": 2005,
+        "value": 30.8346965027347
+      },
+      {
+        "year": 2006,
+        "value": 26.7540597717612
+      },
+      {
+        "year": 2007,
+        "value": 25.3593083869705
+      },
+      {
+        "year": 2008,
+        "value": 22.6018304823834
+      },
+      {
+        "year": 2009,
+        "value": 21.4104851420814
+      },
+      {
+        "year": 2011,
+        "value": 18.4248186155223
+      },
+      {
+        "year": 2012,
+        "value": 15.9279205895065
+      },
+      {
+        "year": 2013,
+        "value": 15.0904096939302
+      },
+      {
+        "year": 2014,
+        "value": 13.2876791821472
+      }
+    ],
+    "source": "https://www.ipeadata.gov.br/api/odata4/ValoresSerie(SERCODIGO='DISOC_PPY')",
+    "code": "DISOC_PPY"
+  },
+  "homicideHistorical": {
+    "points": [
+      {
+        "year": 1990,
+        "value": 19.44
+      },
+      {
+        "year": 1991,
+        "value": 18.36
+      },
+      {
+        "year": 1992,
+        "value": 16.66
+      },
+      {
+        "year": 1993,
+        "value": 17.68
+      },
+      {
+        "year": 1994,
+        "value": 18.54
+      },
+      {
+        "year": 1995,
+        "value": 20.79
+      },
+      {
+        "year": 1996,
+        "value": 23.42
+      },
+      {
+        "year": 1997,
+        "value": 24.03
+      },
+      {
+        "year": 1998,
+        "value": 24.53
+      },
+      {
+        "year": 1999,
+        "value": 24.74
+      },
+      {
+        "year": 2000,
+        "value": 26.01
+      },
+      {
+        "year": 2001,
+        "value": 27.14
+      },
+      {
+        "year": 2002,
+        "value": 27.79
+      },
+      {
+        "year": 2003,
+        "value": 28.41
+      },
+      {
+        "year": 2004,
+        "value": 26.66
+      },
+      {
+        "year": 2005,
+        "value": 25.95
+      },
+      {
+        "year": 2006,
+        "value": 26.5
+      },
+      {
+        "year": 2007,
+        "value": 25.45
+      },
+      {
+        "year": 2008,
+        "value": 26.48
+      },
+      {
+        "year": 2009,
+        "value": 26.94
+      },
+      {
+        "year": 2010,
+        "value": 27.22
+      },
+      {
+        "year": 2011,
+        "value": 26.92
+      },
+      {
+        "year": 2012,
+        "value": 28.86
+      },
+      {
+        "year": 2013,
+        "value": 28.81
+      },
+      {
+        "year": 2014,
+        "value": 30.11
+      },
+      {
+        "year": 2015,
+        "value": 29.19
+      },
+      {
+        "year": 2016,
+        "value": 30.66
+      },
+      {
+        "year": 2017,
+        "value": 31.97
+      },
+      {
+        "year": 2018,
+        "value": 28.06
+      },
+      {
+        "year": 2019,
+        "value": 21.89
+      },
+      {
+        "year": 2020,
+        "value": 23.84
+      },
+      {
+        "year": 2021,
+        "value": 22.77
+      },
+      {
+        "year": 2022,
+        "value": 22.01
+      },
+      {
+        "year": 2023,
+        "value": 21.61
+      },
+      {
+        "year": 2024,
+        "value": 20.03
+      }
+    ],
+    "source": "https://www.ipea.gov.br/dados-api/series-values/20/1",
+    "region": 1076
+  }
+}

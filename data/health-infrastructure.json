@@ -1,0 +1,1555 @@
+{
+  "upa": [
+    {
+      "id": "br",
+      "name": "Brasil",
+      "level": "br",
+      "points": [
+        {
+          "year": 2016,
+          "value": 366
+        },
+        {
+          "year": 2017,
+          "value": 424
+        },
+        {
+          "year": 2018,
+          "value": 453
+        },
+        {
+          "year": 2019,
+          "value": 497
+        },
+        {
+          "year": 2020,
+          "value": 539
+        },
+        {
+          "year": 2021,
+          "value": 573
+        },
+        {
+          "year": 2022,
+          "value": 573
+        },
+        {
+          "year": 2023,
+          "value": 598
+        },
+        {
+          "year": 2024,
+          "value": 614
+        },
+        {
+          "year": 2025,
+          "value": 616
+        }
+      ]
+    },
+    {
+      "id": "state-41",
+      "name": "Paraná",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 26
+        },
+        {
+          "year": 2017,
+          "value": 27
+        },
+        {
+          "year": 2018,
+          "value": 28
+        },
+        {
+          "year": 2019,
+          "value": 30
+        },
+        {
+          "year": 2020,
+          "value": 34
+        },
+        {
+          "year": 2021,
+          "value": 35
+        },
+        {
+          "year": 2022,
+          "value": 35
+        },
+        {
+          "year": 2023,
+          "value": 37
+        },
+        {
+          "year": 2024,
+          "value": 37
+        },
+        {
+          "year": 2025,
+          "value": 37
+        }
+      ]
+    },
+    {
+      "id": "region-4",
+      "name": "Sul",
+      "level": "region",
+      "points": [
+        {
+          "year": 2016,
+          "value": 53
+        },
+        {
+          "year": 2017,
+          "value": 61
+        },
+        {
+          "year": 2018,
+          "value": 66
+        },
+        {
+          "year": 2019,
+          "value": 75
+        },
+        {
+          "year": 2020,
+          "value": 85
+        },
+        {
+          "year": 2021,
+          "value": 90
+        },
+        {
+          "year": 2022,
+          "value": 90
+        },
+        {
+          "year": 2023,
+          "value": 96
+        },
+        {
+          "year": 2024,
+          "value": 97
+        },
+        {
+          "year": 2025,
+          "value": 97
+        }
+      ]
+    },
+    {
+      "id": "state-42",
+      "name": "Santa Catarina",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 8
+        },
+        {
+          "year": 2017,
+          "value": 9
+        },
+        {
+          "year": 2018,
+          "value": 11
+        },
+        {
+          "year": 2019,
+          "value": 15
+        },
+        {
+          "year": 2020,
+          "value": 19
+        },
+        {
+          "year": 2021,
+          "value": 20
+        },
+        {
+          "year": 2022,
+          "value": 20
+        },
+        {
+          "year": 2023,
+          "value": 21
+        },
+        {
+          "year": 2024,
+          "value": 22
+        },
+        {
+          "year": 2025,
+          "value": 22
+        }
+      ]
+    },
+    {
+      "id": "state-43",
+      "name": "Rio Grande do Sul",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 19
+        },
+        {
+          "year": 2017,
+          "value": 25
+        },
+        {
+          "year": 2018,
+          "value": 27
+        },
+        {
+          "year": 2019,
+          "value": 30
+        },
+        {
+          "year": 2020,
+          "value": 32
+        },
+        {
+          "year": 2021,
+          "value": 35
+        },
+        {
+          "year": 2022,
+          "value": 35
+        },
+        {
+          "year": 2023,
+          "value": 38
+        },
+        {
+          "year": 2024,
+          "value": 38
+        },
+        {
+          "year": 2025,
+          "value": 38
+        }
+      ]
+    },
+    {
+      "id": "state-50",
+      "name": "Mato Grosso do Sul",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 6
+        },
+        {
+          "year": 2017,
+          "value": 7
+        },
+        {
+          "year": 2018,
+          "value": 7
+        },
+        {
+          "year": 2019,
+          "value": 7
+        },
+        {
+          "year": 2020,
+          "value": 7
+        },
+        {
+          "year": 2021,
+          "value": 7
+        },
+        {
+          "year": 2022,
+          "value": 7
+        },
+        {
+          "year": 2023,
+          "value": 7
+        },
+        {
+          "year": 2024,
+          "value": 7
+        },
+        {
+          "year": 2025,
+          "value": 7
+        }
+      ]
+    },
+    {
+      "id": "region-5",
+      "name": "Centro-Oeste",
+      "level": "region",
+      "points": [
+        {
+          "year": 2016,
+          "value": 32
+        },
+        {
+          "year": 2017,
+          "value": 41
+        },
+        {
+          "year": 2018,
+          "value": 45
+        },
+        {
+          "year": 2019,
+          "value": 48
+        },
+        {
+          "year": 2020,
+          "value": 50
+        },
+        {
+          "year": 2021,
+          "value": 52
+        },
+        {
+          "year": 2022,
+          "value": 52
+        },
+        {
+          "year": 2023,
+          "value": 55
+        },
+        {
+          "year": 2024,
+          "value": 57
+        },
+        {
+          "year": 2025,
+          "value": 57
+        }
+      ]
+    },
+    {
+      "id": "state-51",
+      "name": "Mato Grosso",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 4
+        },
+        {
+          "year": 2017,
+          "value": 9
+        },
+        {
+          "year": 2018,
+          "value": 10
+        },
+        {
+          "year": 2019,
+          "value": 11
+        },
+        {
+          "year": 2020,
+          "value": 12
+        },
+        {
+          "year": 2021,
+          "value": 13
+        },
+        {
+          "year": 2022,
+          "value": 13
+        },
+        {
+          "year": 2023,
+          "value": 15
+        },
+        {
+          "year": 2024,
+          "value": 16
+        },
+        {
+          "year": 2025,
+          "value": 16
+        }
+      ]
+    },
+    {
+      "id": "state-52",
+      "name": "Goiás",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 18
+        },
+        {
+          "year": 2017,
+          "value": 21
+        },
+        {
+          "year": 2018,
+          "value": 24
+        },
+        {
+          "year": 2019,
+          "value": 26
+        },
+        {
+          "year": 2020,
+          "value": 27
+        },
+        {
+          "year": 2021,
+          "value": 28
+        },
+        {
+          "year": 2022,
+          "value": 28
+        },
+        {
+          "year": 2023,
+          "value": 29
+        },
+        {
+          "year": 2024,
+          "value": 30
+        },
+        {
+          "year": 2025,
+          "value": 30
+        }
+      ]
+    },
+    {
+      "id": "state-11",
+      "name": "Rondônia",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 2
+        },
+        {
+          "year": 2017,
+          "value": 3
+        },
+        {
+          "year": 2018,
+          "value": 3
+        },
+        {
+          "year": 2019,
+          "value": 3
+        },
+        {
+          "year": 2020,
+          "value": 3
+        },
+        {
+          "year": 2021,
+          "value": 4
+        },
+        {
+          "year": 2022,
+          "value": 4
+        },
+        {
+          "year": 2023,
+          "value": 6
+        },
+        {
+          "year": 2024,
+          "value": 6
+        },
+        {
+          "year": 2025,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "id": "region-1",
+      "name": "Norte",
+      "level": "region",
+      "points": [
+        {
+          "year": 2016,
+          "value": 22
+        },
+        {
+          "year": 2017,
+          "value": 27
+        },
+        {
+          "year": 2018,
+          "value": 29
+        },
+        {
+          "year": 2019,
+          "value": 33
+        },
+        {
+          "year": 2020,
+          "value": 38
+        },
+        {
+          "year": 2021,
+          "value": 42
+        },
+        {
+          "year": 2022,
+          "value": 42
+        },
+        {
+          "year": 2023,
+          "value": 48
+        },
+        {
+          "year": 2024,
+          "value": 51
+        },
+        {
+          "year": 2025,
+          "value": 51
+        }
+      ]
+    },
+    {
+      "id": "state-12",
+      "name": "Acre",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 2
+        },
+        {
+          "year": 2017,
+          "value": 2
+        },
+        {
+          "year": 2018,
+          "value": 2
+        },
+        {
+          "year": 2019,
+          "value": 2
+        },
+        {
+          "year": 2020,
+          "value": 2
+        },
+        {
+          "year": 2021,
+          "value": 2
+        },
+        {
+          "year": 2022,
+          "value": 2
+        },
+        {
+          "year": 2023,
+          "value": 3
+        },
+        {
+          "year": 2024,
+          "value": 3
+        },
+        {
+          "year": 2025,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "state-13",
+      "name": "Amazonas",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 1
+        },
+        {
+          "year": 2017,
+          "value": 1
+        },
+        {
+          "year": 2018,
+          "value": 1
+        },
+        {
+          "year": 2019,
+          "value": 1
+        },
+        {
+          "year": 2020,
+          "value": 1
+        },
+        {
+          "year": 2021,
+          "value": 3
+        },
+        {
+          "year": 2022,
+          "value": 3
+        },
+        {
+          "year": 2023,
+          "value": 3
+        },
+        {
+          "year": 2024,
+          "value": 3
+        },
+        {
+          "year": 2025,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "state-15",
+      "name": "Pará",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 12
+        },
+        {
+          "year": 2017,
+          "value": 16
+        },
+        {
+          "year": 2018,
+          "value": 18
+        },
+        {
+          "year": 2019,
+          "value": 22
+        },
+        {
+          "year": 2020,
+          "value": 27
+        },
+        {
+          "year": 2021,
+          "value": 28
+        },
+        {
+          "year": 2022,
+          "value": 28
+        },
+        {
+          "year": 2023,
+          "value": 30
+        },
+        {
+          "year": 2024,
+          "value": 30
+        },
+        {
+          "year": 2025,
+          "value": 30
+        }
+      ]
+    },
+    {
+      "id": "state-16",
+      "name": "Amapá",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 0
+        },
+        {
+          "year": 2017,
+          "value": 0
+        },
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 0
+        },
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 3
+        },
+        {
+          "year": 2025,
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "state-17",
+      "name": "Tocantins",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 5
+        },
+        {
+          "year": 2017,
+          "value": 5
+        },
+        {
+          "year": 2018,
+          "value": 5
+        },
+        {
+          "year": 2019,
+          "value": 5
+        },
+        {
+          "year": 2020,
+          "value": 5
+        },
+        {
+          "year": 2021,
+          "value": 5
+        },
+        {
+          "year": 2022,
+          "value": 5
+        },
+        {
+          "year": 2023,
+          "value": 6
+        },
+        {
+          "year": 2024,
+          "value": 6
+        },
+        {
+          "year": 2025,
+          "value": 6
+        }
+      ]
+    },
+    {
+      "id": "state-21",
+      "name": "Maranhão",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 9
+        },
+        {
+          "year": 2017,
+          "value": 12
+        },
+        {
+          "year": 2018,
+          "value": 14
+        },
+        {
+          "year": 2019,
+          "value": 15
+        },
+        {
+          "year": 2020,
+          "value": 16
+        },
+        {
+          "year": 2021,
+          "value": 16
+        },
+        {
+          "year": 2022,
+          "value": 16
+        },
+        {
+          "year": 2023,
+          "value": 17
+        },
+        {
+          "year": 2024,
+          "value": 17
+        },
+        {
+          "year": 2025,
+          "value": 17
+        }
+      ]
+    },
+    {
+      "id": "region-2",
+      "name": "Nordeste",
+      "level": "region",
+      "points": [
+        {
+          "year": 2016,
+          "value": 103
+        },
+        {
+          "year": 2017,
+          "value": 123
+        },
+        {
+          "year": 2018,
+          "value": 133
+        },
+        {
+          "year": 2019,
+          "value": 148
+        },
+        {
+          "year": 2020,
+          "value": 159
+        },
+        {
+          "year": 2021,
+          "value": 167
+        },
+        {
+          "year": 2022,
+          "value": 167
+        },
+        {
+          "year": 2023,
+          "value": 170
+        },
+        {
+          "year": 2024,
+          "value": 175
+        },
+        {
+          "year": 2025,
+          "value": 176
+        }
+      ]
+    },
+    {
+      "id": "state-22",
+      "name": "Piauí",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 2
+        },
+        {
+          "year": 2017,
+          "value": 2
+        },
+        {
+          "year": 2018,
+          "value": 3
+        },
+        {
+          "year": 2019,
+          "value": 3
+        },
+        {
+          "year": 2020,
+          "value": 3
+        },
+        {
+          "year": 2021,
+          "value": 3
+        },
+        {
+          "year": 2022,
+          "value": 3
+        },
+        {
+          "year": 2023,
+          "value": 4
+        },
+        {
+          "year": 2024,
+          "value": 4
+        },
+        {
+          "year": 2025,
+          "value": 5
+        }
+      ]
+    },
+    {
+      "id": "state-23",
+      "name": "Ceará",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 27
+        },
+        {
+          "year": 2017,
+          "value": 29
+        },
+        {
+          "year": 2018,
+          "value": 31
+        },
+        {
+          "year": 2019,
+          "value": 34
+        },
+        {
+          "year": 2020,
+          "value": 39
+        },
+        {
+          "year": 2021,
+          "value": 40
+        },
+        {
+          "year": 2022,
+          "value": 40
+        },
+        {
+          "year": 2023,
+          "value": 40
+        },
+        {
+          "year": 2024,
+          "value": 41
+        },
+        {
+          "year": 2025,
+          "value": 41
+        }
+      ]
+    },
+    {
+      "id": "state-24",
+      "name": "Rio Grande do Norte",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 5
+        },
+        {
+          "year": 2017,
+          "value": 5
+        },
+        {
+          "year": 2018,
+          "value": 8
+        },
+        {
+          "year": 2019,
+          "value": 7
+        },
+        {
+          "year": 2020,
+          "value": 7
+        },
+        {
+          "year": 2021,
+          "value": 8
+        },
+        {
+          "year": 2022,
+          "value": 8
+        },
+        {
+          "year": 2023,
+          "value": 8
+        },
+        {
+          "year": 2024,
+          "value": 8
+        },
+        {
+          "year": 2025,
+          "value": 8
+        }
+      ]
+    },
+    {
+      "id": "state-25",
+      "name": "Paraíba",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 10
+        },
+        {
+          "year": 2017,
+          "value": 14
+        },
+        {
+          "year": 2018,
+          "value": 15
+        },
+        {
+          "year": 2019,
+          "value": 17
+        },
+        {
+          "year": 2020,
+          "value": 17
+        },
+        {
+          "year": 2021,
+          "value": 17
+        },
+        {
+          "year": 2022,
+          "value": 17
+        },
+        {
+          "year": 2023,
+          "value": 17
+        },
+        {
+          "year": 2024,
+          "value": 17
+        },
+        {
+          "year": 2025,
+          "value": 17
+        }
+      ]
+    },
+    {
+      "id": "state-26",
+      "name": "Pernambuco",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 15
+        },
+        {
+          "year": 2017,
+          "value": 16
+        },
+        {
+          "year": 2018,
+          "value": 16
+        },
+        {
+          "year": 2019,
+          "value": 20
+        },
+        {
+          "year": 2020,
+          "value": 22
+        },
+        {
+          "year": 2021,
+          "value": 24
+        },
+        {
+          "year": 2022,
+          "value": 24
+        },
+        {
+          "year": 2023,
+          "value": 25
+        },
+        {
+          "year": 2024,
+          "value": 25
+        },
+        {
+          "year": 2025,
+          "value": 25
+        }
+      ]
+    },
+    {
+      "id": "state-27",
+      "name": "Alagoas",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 7
+        },
+        {
+          "year": 2017,
+          "value": 9
+        },
+        {
+          "year": 2018,
+          "value": 9
+        },
+        {
+          "year": 2019,
+          "value": 9
+        },
+        {
+          "year": 2020,
+          "value": 9
+        },
+        {
+          "year": 2021,
+          "value": 9
+        },
+        {
+          "year": 2022,
+          "value": 9
+        },
+        {
+          "year": 2023,
+          "value": 9
+        },
+        {
+          "year": 2024,
+          "value": 11
+        },
+        {
+          "year": 2025,
+          "value": 11
+        }
+      ]
+    },
+    {
+      "id": "state-28",
+      "name": "Sergipe",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 0
+        },
+        {
+          "year": 2017,
+          "value": 0
+        },
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 0
+        },
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 2
+        },
+        {
+          "year": 2022,
+          "value": 2
+        },
+        {
+          "year": 2023,
+          "value": 2
+        },
+        {
+          "year": 2024,
+          "value": 2
+        },
+        {
+          "year": 2025,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "id": "state-29",
+      "name": "Bahia",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 28
+        },
+        {
+          "year": 2017,
+          "value": 36
+        },
+        {
+          "year": 2018,
+          "value": 37
+        },
+        {
+          "year": 2019,
+          "value": 43
+        },
+        {
+          "year": 2020,
+          "value": 46
+        },
+        {
+          "year": 2021,
+          "value": 48
+        },
+        {
+          "year": 2022,
+          "value": 48
+        },
+        {
+          "year": 2023,
+          "value": 48
+        },
+        {
+          "year": 2024,
+          "value": 50
+        },
+        {
+          "year": 2025,
+          "value": 50
+        }
+      ]
+    },
+    {
+      "id": "state-31",
+      "name": "Minas Gerais",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 24
+        },
+        {
+          "year": 2017,
+          "value": 33
+        },
+        {
+          "year": 2018,
+          "value": 34
+        },
+        {
+          "year": 2019,
+          "value": 36
+        },
+        {
+          "year": 2020,
+          "value": 41
+        },
+        {
+          "year": 2021,
+          "value": 46
+        },
+        {
+          "year": 2022,
+          "value": 46
+        },
+        {
+          "year": 2023,
+          "value": 46
+        },
+        {
+          "year": 2024,
+          "value": 46
+        },
+        {
+          "year": 2025,
+          "value": 46
+        }
+      ]
+    },
+    {
+      "id": "region-3",
+      "name": "Sudeste",
+      "level": "region",
+      "points": [
+        {
+          "year": 2016,
+          "value": 156
+        },
+        {
+          "year": 2017,
+          "value": 172
+        },
+        {
+          "year": 2018,
+          "value": 180
+        },
+        {
+          "year": 2019,
+          "value": 193
+        },
+        {
+          "year": 2020,
+          "value": 207
+        },
+        {
+          "year": 2021,
+          "value": 222
+        },
+        {
+          "year": 2022,
+          "value": 222
+        },
+        {
+          "year": 2023,
+          "value": 229
+        },
+        {
+          "year": 2024,
+          "value": 234
+        },
+        {
+          "year": 2025,
+          "value": 235
+        }
+      ]
+    },
+    {
+      "id": "state-32",
+      "name": "Espírito Santo",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 2
+        },
+        {
+          "year": 2017,
+          "value": 2
+        },
+        {
+          "year": 2018,
+          "value": 3
+        },
+        {
+          "year": 2019,
+          "value": 4
+        },
+        {
+          "year": 2020,
+          "value": 5
+        },
+        {
+          "year": 2021,
+          "value": 6
+        },
+        {
+          "year": 2022,
+          "value": 6
+        },
+        {
+          "year": 2023,
+          "value": 7
+        },
+        {
+          "year": 2024,
+          "value": 7
+        },
+        {
+          "year": 2025,
+          "value": 7
+        }
+      ]
+    },
+    {
+      "id": "state-33",
+      "name": "Rio de Janeiro",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 41
+        },
+        {
+          "year": 2017,
+          "value": 42
+        },
+        {
+          "year": 2018,
+          "value": 43
+        },
+        {
+          "year": 2019,
+          "value": 44
+        },
+        {
+          "year": 2020,
+          "value": 44
+        },
+        {
+          "year": 2021,
+          "value": 46
+        },
+        {
+          "year": 2022,
+          "value": 46
+        },
+        {
+          "year": 2023,
+          "value": 45
+        },
+        {
+          "year": 2024,
+          "value": 45
+        },
+        {
+          "year": 2025,
+          "value": 45
+        }
+      ]
+    },
+    {
+      "id": "state-35",
+      "name": "São Paulo",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 89
+        },
+        {
+          "year": 2017,
+          "value": 95
+        },
+        {
+          "year": 2018,
+          "value": 100
+        },
+        {
+          "year": 2019,
+          "value": 109
+        },
+        {
+          "year": 2020,
+          "value": 117
+        },
+        {
+          "year": 2021,
+          "value": 124
+        },
+        {
+          "year": 2022,
+          "value": 124
+        },
+        {
+          "year": 2023,
+          "value": 131
+        },
+        {
+          "year": 2024,
+          "value": 136
+        },
+        {
+          "year": 2025,
+          "value": 137
+        }
+      ]
+    },
+    {
+      "id": "state-53",
+      "name": "Distrito Federal",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 4
+        },
+        {
+          "year": 2017,
+          "value": 4
+        },
+        {
+          "year": 2018,
+          "value": 4
+        },
+        {
+          "year": 2019,
+          "value": 4
+        },
+        {
+          "year": 2020,
+          "value": 4
+        },
+        {
+          "year": 2021,
+          "value": 4
+        },
+        {
+          "year": 2022,
+          "value": 4
+        },
+        {
+          "year": 2023,
+          "value": 4
+        },
+        {
+          "year": 2024,
+          "value": 4
+        },
+        {
+          "year": 2025,
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": "state-14",
+      "name": "Roraima",
+      "level": "state",
+      "points": [
+        {
+          "year": 2016,
+          "value": 0
+        },
+        {
+          "year": 2017,
+          "value": 0
+        },
+        {
+          "year": 2018,
+          "value": 0
+        },
+        {
+          "year": 2019,
+          "value": 0
+        },
+        {
+          "year": 2020,
+          "value": 0
+        },
+        {
+          "year": 2021,
+          "value": 0
+        },
+        {
+          "year": 2022,
+          "value": 0
+        },
+        {
+          "year": 2023,
+          "value": 0
+        },
+        {
+          "year": 2024,
+          "value": 0
+        },
+        {
+          "year": 2025,
+          "value": 0
+        }
+      ]
+    }
+  ]
+}

@@ -70,7 +70,9 @@ export function TimeSeries({ indicator }: { indicator: Indicator }) {
             {indicator.locationName ?? "Brasil"} · {indicator.unit} ·{" "}
             {indicator.frequency === "cycles"
               ? "edições da avaliação"
-              : "observações anuais"}
+              : indicator.frequency === "irregular"
+                ? "anos disponíveis · lacunas preservadas"
+                : "observações anuais"}
           </p>
         </div>
         <div className="year-controls">

@@ -2,35 +2,36 @@ import Link from "next/link";
 import { ArrowRight, Route, TrainFront, Ship, Plane } from "lucide-react";
 import { SiteHeader, SiteFooter } from "@/components/site-shell";
 import { IndicatorLibrary } from "@/components/indicator-library";
+import { TopicGroups } from "@/components/topic-groups";
 import { InteractiveTimeline } from "@/components/interactive-timeline";
 import { transportEvents } from "@/data/transport-events";
 export const metadata = {
-  title: "Transportes e infraestrutura | Brasil em Evidências",
+  title: "Transporte e infraestrutura | Brasil em Evidências",
 };
 const modes = [
   {
     title: "Rodovias",
     Icon: Route,
     text: "Construção, pavimentação, duplicação, pontes e manutenção: cada intervenção com sua definição.",
-    href: "/indicadores/rodovias",
+    href: "/transportes/rede",
   },
   {
     title: "Ferrovias",
     Icon: TrainFront,
     text: "Novos trechos, concessões, terminais e carga transportada, com a trajetória das obras.",
-    href: "/indicadores/ferrovias",
+    href: "/transportes/movimentacao",
   },
   {
     title: "Portos e hidrovias",
     Icon: Ship,
     text: "Embarcações, contêineres, acessos e navegabilidade, incluindo os requisitos ambientais e sociais.",
-    href: "/indicadores/hidrovias",
+    href: "/transportes/rede",
   },
   {
     title: "Aviação",
     Icon: Plane,
     text: "Ampliação de terminais e utilização do transporte aéreo em uma série que começa em 1970.",
-    href: "/indicadores/aviacao",
+    href: "/transportes/movimentacao",
   },
 ];
 export default function TransportPage() {
@@ -39,7 +40,7 @@ export default function TransportPage() {
       <SiteHeader />
       <main className="wrap section directory-page">
         <div className="eyebrow">INFRAESTRUTURA, CONEXÕES E MOBILIDADE</div>
-        <h1>Transportes.</h1>
+        <h1>Transporte.</h1>
         <p className="page-deck">
           Como o Brasil amplia e utiliza suas conexões? Consulte séries
           históricas e uma cronologia de obras, distinguindo o que foi
@@ -96,7 +97,7 @@ export default function TransportPage() {
             tratados como equivalentes.
           </p>
           <InteractiveTimeline
-            label="Linha do tempo de transportes"
+            label="Linha do tempo de transporte"
             events={transportEvents}
           />
         </section>
@@ -109,7 +110,7 @@ export default function TransportPage() {
             incorporada; isso é diferente dos combustíveis, que já permitem
             estados e regiões.
           </p>
-          <IndicatorLibrary scope="Transportes" />
+          <TopicGroups category="Transporte" />
         </section>
         <div className="related">
           <h2>Transporte também passa pelo custo de energia.</h2>

@@ -3,9 +3,28 @@ import archives from "./archives.json";
 import geo from "./geography.json";
 import mobility from "./mobility.json";
 import { fuelIndicators } from "./mobility-indicators";
+import {
+  budgetIndicator,
+  budgetStages,
+  debtIndicator,
+} from "./fiscal-indicators";
 const national = (key: "poverty" | "industryShare" | "industryGrowth") =>
   geo[key].find((g) => g.id === "br")!.points;
 export function indicatorVariants(base: Indicator): Indicator[] {
+  if (base.slug.startsWith("verbas-")) {
+    const code = base.slug.slice(7);
+    const name =
+      code === "06"
+        ? "Segurança pública"
+        : code === "10"
+          ? "Saúde"
+          : "Educação";
+    return budgetStages.map((stage) =>
+      budgetIndicator(code, name, base.category, stage),
+    );
+  }
+  if (base.slug === "divida-interna" || base.slug === "divida-externa")
+    return [base, debtIndicator(base.slug === "divida-externa", false)];
   if (base.slug === "combustiveis") return fuelIndicators;
   if (base.slug === "dolar")
     return [

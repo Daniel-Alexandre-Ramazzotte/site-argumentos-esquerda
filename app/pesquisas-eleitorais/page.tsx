@@ -1,10 +1,13 @@
+import { getRecords } from "@/lib/repository";
+import type { Poll } from "@/data/polls";
 import { SiteHeader, SiteFooter } from "@/components/site-shell";
 import { PollsDashboard } from "@/components/polls-dashboard";
 export const metadata = {
   title:
     "Pesquisas eleitorais: evolução e fichas técnicas | Brasil em Evidências",
 };
-export default function Polls() {
+export default async function Polls() {
+  const polls = await getRecords<Poll>("polls");
   return (
     <>
       <SiteHeader />
@@ -18,7 +21,7 @@ export default function Polls() {
           amostra, os métodos, os registros informados e as margens declaradas
           de cada levantamento.
         </p>
-        <PollsDashboard />
+        <PollsDashboard polls={polls} />
       </main>
       <SiteFooter />
     </>

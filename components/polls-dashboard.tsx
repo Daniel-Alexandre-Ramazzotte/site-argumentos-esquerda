@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 import { Download, ArrowUpRight } from "lucide-react";
-import { polls, type Poll } from "@/data/polls";
+import { type Poll } from "@/data/polls";
 const date = (s: string) => s.split("-").reverse().join("/");
 const show = (v: string | number | null) =>
   v === null ? "Não informado na fonte consultada" : String(v);
@@ -9,7 +9,7 @@ const colors: Record<string, string> = {
   Lula: "#1c6d4c",
   "Flávio Bolsonaro": "#ac722b",
 };
-export function PollsDashboard() {
+export function PollsDashboard({ polls }: { polls: Poll[] }) {
   const [institute, setInstitute] = useState("Todos"),
     [basis, setBasis] = useState<"totals" | "valid">("totals"),
     [start, setStart] = useState("2026-01-01"),

@@ -1,0 +1,12 @@
+{
+  "baseline": 654572,
+  "periodStart": "2020-03-08",
+  "periodEnd": "2022-06-05",
+  "unit": "mortes",
+  "source": "https://www.scielo.br/j/rbepid/a/Csj3NQBSBj4rqDQ4qSdrNDM/?lang=en",
+  "scenarios": [
+    {"name": "Vacinação antecipada", "avoided": 86639, "remaining": 567933},
+    {"name": "Antecipação + mais doses", "avoided": 266953, "remaining": 387619},
+    {"name": "Antecipação + doses + prevenção", "avoided": 391647, "remaining": 262925}
+  ]
+}

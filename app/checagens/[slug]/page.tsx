@@ -1,18 +1,17 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArrowLeft, ArrowRight, ArrowUpRight } from "lucide-react";
-import { checks } from "@/data/checks";
+import type { Check } from "@/data/checks";
+import { getRecords } from "@/lib/repository";
 import { SiteHeader, SiteFooter } from "@/components/site-shell";
 import { BolsaCalculator } from "@/components/bolsa-calculator";
-export function generateStaticParams() {
-  return checks.map((c) => ({ slug: c.slug }));
-}
 export async function generateMetadata({
   params,
 }: {
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
+  const checks = await getRecords<Check>("checks");
   return {
     title: `${checks.find((c) => c.slug === slug)?.title ?? "Checagem"} | Brasil em Evidências`,
   };
@@ -23,6 +22,7 @@ export default async function CheckPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
+  const checks = await getRecords<Check>("checks");
   const check = checks.find((c) => c.slug === slug);
   if (!check) notFound();
   return (

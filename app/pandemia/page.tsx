@@ -1,5 +1,6 @@
 import { SiteHeader, SiteFooter } from "@/components/site-shell";
 import { PandemicDossier } from "../dossiers";
+import Link from "next/link";
 export const metadata = {
   title: "Pandemia: cronologia e resposta pública | Brasil em Evidências",
 };
@@ -17,6 +18,17 @@ export default function Pandemic() {
             equipamentos, assistência hospitalar, vacinas e comunicação pública.
           </p>
         </div>
+        <section className="wrap research-card">
+          <h2>Mortes evitáveis: o que dizem os estudos?</h2>
+          <p>
+            Pesquisas e depoimentos de epidemiologistas estimam o efeito de
+            respostas alternativas. Compare cenários, períodos e limites, sem
+            somar estimativas que se sobrepõem.
+          </p>
+          <Link href="/pandemia/mortes-evitaveis">
+            Explore os estudos e compare os cenários →
+          </Link>
+        </section>
         <PandemicDossier />
       </main>
       <SiteFooter />

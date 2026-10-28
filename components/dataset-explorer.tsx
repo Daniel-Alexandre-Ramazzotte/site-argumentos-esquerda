@@ -4,8 +4,9 @@ import { ArrowUpRight } from "lucide-react";
 import type { Indicator } from "@/data/historical";
 import { TimeSeries } from "./time-series";
 import { PriceDisplayToggle } from "./price-display-toggle";
-import { realIndicator } from "@/data/price-adjustment";
+import { usePrices } from "./database-data";
 export function DatasetExplorer({ datasets }: { datasets: Indicator[] }) {
+  const { realIndicator } = usePrices();
   const defaultIndex = Math.max(
     0,
     datasets.findIndex(
@@ -162,8 +163,8 @@ export function DatasetExplorer({ datasets }: { datasets: Indicator[] }) {
         <h2>De onde vêm os números</h2>
         <p>
           O conteúdo e os gráficos estão nesta página. Os documentos permitem
-          auditar as séries. Recortes conferidos em 26/10/2026; sem atualização
-          automática.
+          auditar as séries. A cobertura de cada recorte está descrita acima;
+          sem atualização automática.
         </p>
         {data.sources.map((s) => (
           <a href={s.url} key={s.url} target="_blank" rel="noreferrer">

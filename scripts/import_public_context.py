@@ -99,7 +99,7 @@ def budget():
             functions.append({'code':r['conta'][:2],'name':r['conta'][5:],'stage':r['coluna'],'value':r['valor']})
         if not functions: print('SEM DADOS DCA',year,flush=True);return None
         for stage in ('Despesas Pagas','Despesas Liquidadas','Despesas Empenhadas'):
-            checks=[r for r in rows if r['coluna']==stage and r['conta']=='Despesas Exceto Intraorçamentárias']
+            checks=[r for r in rows if r['coluna']==stage and r['conta'].replace('(', '').replace(')', '')=='Despesas Exceto Intraorçamentárias']
             selected=[r for r in functions if r['stage']==stage]
             if len({r['code'] for r in selected})!=len(selected): raise ValueError('Função duplicada')
             if len(checks)!=1 or abs(sum(r['value'] for r in selected)-checks[0]['valor'])>1:

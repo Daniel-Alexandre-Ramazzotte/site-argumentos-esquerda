@@ -3,8 +3,8 @@ import { useId, useState } from "react";
 import { Download, Table2 } from "lucide-react";
 import { DatasetExplorer } from "./dataset-explorer";
 import { type Indicator, governments } from "@/data/historical";
-import mobility from "@/data/mobility.json";
-import { realValue } from "@/data/price-adjustment";
+import { useDatabaseData, usePrices } from "./database-data";
+
 import { PriceDisplayToggle } from "./price-display-toggle";
 
 const monthNumber = (month: string) =>
@@ -64,6 +64,8 @@ export function DollarExplorer({ datasets }: { datasets: Indicator[] }) {
 }
 
 function MonthlyDollar() {
+  const { mobility } = useDatabaseData();
+  const { realValue } = usePrices();
   const id = useId();
   const [real, setReal] = useState(false);
   const convert = (p: { month: string; value: number }) => ({

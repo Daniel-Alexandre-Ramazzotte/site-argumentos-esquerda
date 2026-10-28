@@ -91,7 +91,7 @@ test("transportes oferece análises internas e eventos com estágio e fontes", a
   page,
 }) => {
   await page.goto("http://127.0.0.1:3000/transportes");
-  await expect(page.locator(".article-card")).toHaveCount(5);
+  await expect(page.locator(".transport-indicators .axis-card")).toHaveCount(2);
   await page
     .locator(".transport-history")
     .getByRole("button", { name: "Hidrovias", exact: true })
@@ -125,16 +125,29 @@ test("novos registros distinguem autoria e preservam contexto dos vídeos", asyn
   await expect(page.locator(".check-explanation")).toContainText("China");
 });
 
-test("pandemia documenta desestímulo e respostas institucionais com contexto",async({page})=>{
+test("pandemia documenta desestímulo e respostas institucionais com contexto", async ({
+  page,
+}) => {
   await page.goto("http://127.0.0.1:3000/pandemia");
   await expect(page.locator(".prevention-card")).toHaveCount(4);
-  await page.getByRole("tab",{name:/Live divulga associação falsa/}).click();
-  await expect(page.getByRole("tabpanel")).toContainText("a vacina não transmite HIV");
-  await expect(page.getByRole("tabpanel").getByRole("link",{name:/UNAIDS/})).toHaveAttribute("href",/unaids.org.br/);
-  await page.locator("#linha-do-tempo").getByRole("button",{name:"Máscaras",exact:true}).click();
+  await page
+    .getByRole("tab", { name: /Live divulga associação falsa/ })
+    .click();
+  await expect(page.getByRole("tabpanel")).toContainText(
+    "a vacina não transmite HIV",
+  );
+  await expect(
+    page.getByRole("tabpanel").getByRole("link", { name: /UNAIDS/ }),
+  ).toHaveAttribute("href", /unaids.org.br/);
+  await page
+    .locator("#linha-do-tempo")
+    .getByRole("button", { name: "Máscaras", exact: true })
+    .click();
   await expect(page.locator('#linha-do-tempo [role="tab"]')).toHaveCount(3);
-  await expect(page.getByRole("tabpanel")).toContainText("não proibiu o uso de máscaras");
-  await page.getByRole("tab",{name:/Congresso derruba veto/}).click();
+  await expect(page.getByRole("tabpanel")).toContainText(
+    "não proibiu o uso de máscaras",
+  );
+  await page.getByRole("tab", { name: /Congresso derruba veto/ }).click();
   await expect(page.getByRole("tabpanel")).toContainText("19 AGO 2020");
 });
 

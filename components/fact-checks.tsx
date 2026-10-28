@@ -1,7 +1,9 @@
 import Link from "next/link";
 import { ArrowRight, ShieldCheck } from "lucide-react";
-import { checks } from "@/data/checks";
-export function FactChecks() {
+import type { Check } from "@/data/checks";
+import { getRecords } from "@/lib/repository";
+export async function FactChecks() {
+  const checks = await getRecords<Check>("checks");
   return (
     <div className="check-grid">
       {checks.map((c) => (

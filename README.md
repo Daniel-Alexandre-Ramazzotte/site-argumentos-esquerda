@@ -6,19 +6,22 @@ Portal factual em Next.js, React e TypeScript, com escala visual de 125%, navega
 
 ```sh
 npm install
+npm run db:setup
+npm run db:up
+npm run db:import
 npm run dev
 ```
 
 Abra http://127.0.0.1:3000.
 
-## Verificar e gerar versão estática
+## Verificar e gerar versão de produção
 
 ```sh
 npm run typecheck
 npm run build
 ```
 
-A exportação estática fica em `out/`, com diretórios por rota (`trailingSlash: true`). Pode ser servida em hospedagem estática. O site não usa banco de dados nem recebe informações pessoais.
+O site usa PostgreSQL e Next.js com renderização no servidor (`output: standalone`). Após o build, execute `npm start`. A pasta `out/` de versões antigas não representa a versão atual. Configuração, schemas e exemplos SQL em [database/README.md](database/README.md). O usuário de acesso do site possui somente leitura; credenciais ficam no `.env`, fora do Git.
 
 Com o Google Chrome instalado, execute `npm run test:e2e`. O Playwright inicia o servidor local automaticamente ou reutiliza um servidor existente. Os testes verificam as séries, navegação interna, busca, filtros, tabela, CSV, mandatos e layout a 125% em telas de 320, 390, 768 e 1280 px. Capturas são salvas em `artifacts/`.
 
@@ -66,3 +69,18 @@ Os gráficos monetários nominais em reais (combustíveis e dólar, anual e mens
 `data/price-index.json` preserva os índices e fatores, e `data/price-adjustment.ts` aplica a correção. Para importar o recorte fixado no script: `python scripts/import_mobility.py --inflation-only`. Não há arredondamento de fatores antes do cálculo. A correção do dólar ajusta **apenas seu preço em reais por US$**: não é câmbio real efetivo, que exigiria outra metodologia e inflação externa. Taxas, contagens e séries já expressas em preços constantes não recebem uma segunda correção.
 
 A cronologia da pandemia também inclui manifestações sobre vacinação, minimização da doença, oposição às restrições de circulação, vetos a máscaras e sua derrubada pelo Congresso, com fontes contemporâneas e respostas de entidades científicas. `data/pandemic-communication.ts` contém os oito eventos e os quatro textos explicativos; os eventos são integrados em ordem temporal à cronologia existente. A barra superior chama a biblioteca de **Brasil Em Perspectiva**; Economia e Transportes permanecem acessíveis pelos cards da página inicial.
+
+
+## Novas áreas e agrupamentos
+
+A entrada de `/indicadores` e da página inicial é uma grade de temas com ícones grandes, sem a aba Todos. Economia e Transporte reúnem indicadores relacionados; os gráficos permitem mostrar/ocultar séries e indicam eixos ou base comum quando as unidades diferem. Preferências em `PREFERENCIAS.md`.
+
+Saúde oferece médicos (total, densidade, formação e emprego formal), leitos, prevenção e financiamento. A atuação pública/privada disponível é um retrato de vínculos de 2023; não é uma série de pessoas únicas. Não estimamos autônomos por diferença nem obras concluídas a partir de cadastros de unidades. População cobre crescimento, natalidade, mortalidade, fecundidade e envelhecimento.
+
+Economia inclui PIB, PIB per capita, crescimento, dívidas, juros, endividamento das famílias, orçamento por função e lucro/rentabilidade das instituições financeiras. Bancário e SFN são recortes separados. Emprego e renda inclui CNPJs declarantes por regime, receita bruta e retratos do estoque ativo; receita não é lucro econômico e deltas entre edições não são automaticamente criação líquida de empresas.
+
+`/programas-sociais` reúne Bolsa Família, BPC, Auxílio Emergencial, Pé-de-Meia e Cadastro Único. Os gráficos monetários de referência mensal não são apresentados como gasto anual. `/pandemia/mortes-evitaveis` compara cenários de estudos sem somar mortes sobrepostas ou atribuir uma estimativa inteira automaticamente a uma pessoa.
+
+## Publicação
+
+Após preparar e importar o banco, a versão de produção também pode rodar com `docker compose --profile site up -d --build web`. Porta do site: 127.0.0.1:3000; PostgreSQL: 127.0.0.1:5433. Credenciais não entram na imagem Docker. Para acesso pela rede Tailscale, é necessário instalar o cliente e autenticar: `powershell -File scripts/publish-tailscale.ps1`. A opção `-Public` solicita Funnel, acessível pela internet. O script não substitui publicações Tailscale existentes. Nenhuma publicação externa é presumida como concluída sem confirmação do Tailscale.

@@ -2,6 +2,13 @@ import sidra from "./sidra.json";
 import geography from "./geography.json";
 import { extraIndicators } from "./extra-indicators";
 import { mobilityIndicators } from "./mobility-indicators";
+import { contextIndicators } from "./context-indicators";
+import { fiscalIndicators } from "./fiscal-indicators";
+import { creditIndicators } from "./credit-indicators";
+import { healthIndicators } from "./health-indicators";
+import { businessIndicators } from "./business-indicators";
+import { socialIndicators } from "./social-indicators";
+import { bankIndicators } from "./bank-indicators";
 export type Point = { year: number; value: number };
 export type Geography = {
   id: string;
@@ -11,8 +18,9 @@ export type Geography = {
 };
 export type Indicator = {
   priceBasis?: "nominal-brl" | "constant";
+  priceObservation?: "annual-average";
   geographies?: Geography[];
-  frequency?: "annual" | "cycles";
+  frequency?: "annual" | "cycles" | "irregular";
   locationName?: string;
   slug: string;
   title: string;
@@ -31,6 +39,13 @@ export type Indicator = {
 const points = (first: number, values: number[]): Point[] =>
   values.map((value, i) => ({ year: first + i, value }));
 export const indicators: Indicator[] = [
+  ...contextIndicators,
+  ...fiscalIndicators,
+  ...creditIndicators,
+  ...healthIndicators,
+  ...businessIndicators,
+  ...socialIndicators,
+  ...bankIndicators,
   ...mobilityIndicators,
   {
     slug: "pobreza",

@@ -105,7 +105,7 @@ export const transportIndicators: Indicator[] = [
   {
     slug: "rodovias",
     title: "Como a malha rodoviária federal evoluiu?",
-    category: "Transportes",
+    category: "Transporte",
     description:
       "Extensão pavimentada e não pavimentada das rodovias federais, sem confundir estoque de estradas com obras entregues.",
     unit: "mil km",
@@ -155,7 +155,7 @@ export const transportIndicators: Indicator[] = [
   {
     slug: "ferrovias",
     title: "Como o transporte ferroviário de cargas evoluiu?",
-    category: "Transportes",
+    category: "Transporte",
     description:
       "Carga movimentada por ferrovias e uma cronologia de expansão, concessão e entrada em operação.",
     unit: "milhões de toneladas úteis",
@@ -194,7 +194,7 @@ export const transportIndicators: Indicator[] = [
   {
     slug: "hidrovias",
     title: "Como a navegação interior ampliou sua frota?",
-    category: "Transportes",
+    category: "Transporte",
     description:
       "Embarcações de navegação interior e intervenções para ampliar a capacidade dos corredores hidroviários.",
     unit: "embarcações",
@@ -241,7 +241,7 @@ export const transportIndicators: Indicator[] = [
   {
     slug: "portos",
     title: "Como a movimentação de contêineres nos portos evoluiu?",
-    category: "Transportes",
+    category: "Transporte",
     description:
       "Volume portuário em TEUs, uma medida de utilização que complementa a análise da expansão dos terminais.",
     unit: "milhões de TEUs",
@@ -276,7 +276,7 @@ export const transportIndicators: Indicator[] = [
   {
     slug: "aviacao",
     title: "Como o transporte aéreo de passageiros evoluiu?",
-    category: "Transportes",
+    category: "Transporte",
     description:
       "Série desde 1970, com o recorte padrão a partir de 1985, para acompanhar a utilização do transporte aéreo.",
     unit: "milhões de passageiros",

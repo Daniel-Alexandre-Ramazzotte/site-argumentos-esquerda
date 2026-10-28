@@ -9,3 +9,12 @@ playwright-report/
 
 __pycache__/
 *.py[cod]
+data/social-programs-raw.json
+scripts/resume-codex.ps1
+data/raw/demografia-medica-2025.pdf
+data/raw/demografia-medica-2025.txt
+data/raw/bank-ref-*.pdf
+data/raw/mapa-*.pdf
+data/raw/mapa-*.txt
+data/raw/rfb-*-page.html
+data/raw/social-ipeadata-*.json

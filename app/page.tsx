@@ -8,9 +8,9 @@ import {
   Scale,
 } from "lucide-react";
 import { SiteHeader, SiteFooter } from "@/components/site-shell";
-import { IndicatorLibrary } from "@/components/indicator-library";
+
 import { FactChecks } from "@/components/fact-checks";
-import { NewAxes } from "@/components/new-axes";
+import { ThemeCards } from "@/components/new-axes";
 export default function Home() {
   return (
     <>
@@ -36,7 +36,7 @@ export default function Home() {
             </p>
             <div className="hero-actions">
               <Link className="button primary" href="/indicadores">
-                Entenda os indicadores
+                Brasil em Perspectiva
                 <ArrowRight size={18} />
               </Link>
               <Link className="text-link" href="/checagens">
@@ -115,7 +115,7 @@ export default function Home() {
                 SÉRIES HISTÓRICAS, NÃO APENAS UM RECORTE
               </div>
               <h2>
-                Entenda os indicadores<span className="green">.</span>
+                Brasil em Perspectiva<span className="green">.</span>
               </h2>
             </div>
             <Link className="text-link" href="/indicadores">
@@ -123,7 +123,7 @@ export default function Home() {
               <ArrowRight size={16} />
             </Link>
           </div>
-          <IndicatorLibrary />
+          <ThemeCards />
         </section>
         <section id="checagens" className="checks-section">
           <div className="wrap section">
@@ -178,7 +178,6 @@ export default function Home() {
             </article>
           </div>
         </section>
-        <NewAxes />
         <section id="metodologia" className="section wrap methodology">
           <div>
             <div className="eyebrow">TRANSPARÊNCIA DESDE O COMEÇO</div>

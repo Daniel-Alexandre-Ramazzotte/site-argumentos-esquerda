@@ -5,7 +5,7 @@ test("séries anuais consistentes, sem lacunas ou mistura de unidades", () => {
   for (const i of indicators) {
     expect(i.points.length).toBeGreaterThan(1);
     for (let n = 1; n < i.points.length; n++)
-      if (i.frequency !== "cycles")
+      if (i.frequency !== "cycles" && i.frequency !== "irregular")
         expect(i.points[n].year).toBe(i.points[n - 1].year + 1);
     expect(i.points.every((p) => Number.isFinite(p.value))).toBe(true);
     if (i.secondary)
@@ -24,28 +24,20 @@ test("séries anuais consistentes, sem lacunas ou mistura de unidades", () => {
   ).toBe(-1.87);
 });
 
-test("biblioteca abre análises internas, com busca e filtro", async ({
+test("entrada por temas leva a páginas com indicadores relacionados", async ({
   page,
 }) => {
   await page.goto("http://127.0.0.1:3000");
   await expect(
     page.getByRole("heading", { name: /Menos ruído/ }),
   ).toBeVisible();
-  await expect(page.locator("#dados")).toHaveCount(0);
-  await page.getByRole("button", { name: "Economia", exact: true }).click();
-  await expect(page.locator(".article-card")).toHaveCount(4);
+  await expect(page.locator(".article-card")).toHaveCount(0);
   await page
-    .getByRole("textbox", { name: "Buscar indicadores" })
-    .fill("alimentos");
-  await expect(page.locator(".article-card")).toHaveCount(1);
-  await expect(page.locator('.article-card a[target="_blank"]')).toHaveCount(0);
-  await page.locator(".article-card .source-link").click();
-  await expect(page).toHaveURL(/indicadores\/inflacao-de-alimentos\/?$/);
-  await expect(
-    page.getByRole("heading", {
-      name: "Por que os alimentos pesam tanto no bolso?",
-    }),
-  ).toBeVisible();
+    .locator(".theme-cards")
+    .getByRole("link", { name: /Economia/ })
+    .click();
+  await page.getByRole("link", { name: /Inflação e alimentos/ }).click();
+  await expect(page.locator(".comparison [data-series]")).toHaveCount(2);
 });
 
 test("gráfico filtra período, destaca governos, mostra tabela e exporta CSV", async ({
@@ -139,7 +131,7 @@ test("zoom de 125% e layout sem vazamento horizontal em celular e desktop", asyn
     .getByRole("link", { name: "Brasil Em Perspectiva" })
     .click();
   await expect(
-    page.getByRole("heading", { name: "Entenda os indicadores." }),
+    page.getByRole("heading", { name: "Brasil em Perspectiva." }),
   ).toBeVisible();
   await page.screenshot({ path: "artifacts/mobile-125.png", caret: "initial" });
   expect(errors).toEqual([]);

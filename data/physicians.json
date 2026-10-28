@@ -1,0 +1,277 @@
+{
+  "source": "https://bvsms.saude.gov.br/bvs/publicacoes/demografia_medica_brasil_2025.pdf",
+  "total": [
+    {
+      "year": 1980,
+      "value": 113495
+    },
+    {
+      "year": 1990,
+      "value": 131278
+    },
+    {
+      "year": 2000,
+      "value": 205296
+    },
+    {
+      "year": 2001,
+      "value": 213318
+    },
+    {
+      "year": 2002,
+      "value": 221420
+    },
+    {
+      "year": 2003,
+      "value": 230144
+    },
+    {
+      "year": 2004,
+      "value": 239093
+    },
+    {
+      "year": 2005,
+      "value": 249101
+    },
+    {
+      "year": 2006,
+      "value": 258912
+    },
+    {
+      "year": 2007,
+      "value": 269449
+    },
+    {
+      "year": 2008,
+      "value": 280911
+    },
+    {
+      "year": 2009,
+      "value": 292794
+    },
+    {
+      "year": 2010,
+      "value": 304406
+    },
+    {
+      "year": 2011,
+      "value": 319870
+    },
+    {
+      "year": 2012,
+      "value": 334676
+    },
+    {
+      "year": 2013,
+      "value": 350968
+    },
+    {
+      "year": 2014,
+      "value": 368122
+    },
+    {
+      "year": 2015,
+      "value": 384844
+    },
+    {
+      "year": 2016,
+      "value": 402107
+    },
+    {
+      "year": 2017,
+      "value": 420307
+    },
+    {
+      "year": 2018,
+      "value": 440088
+    },
+    {
+      "year": 2019,
+      "value": 457428
+    },
+    {
+      "year": 2020,
+      "value": 480882
+    },
+    {
+      "year": 2021,
+      "value": 507147
+    },
+    {
+      "year": 2022,
+      "value": 538099
+    },
+    {
+      "year": 2023,
+      "value": 572960
+    },
+    {
+      "year": 2024,
+      "value": 597428
+    }
+  ],
+  "density": [
+    {
+      "year": 1980,
+      "value": 0.9368094363036978
+    },
+    {
+      "year": 1990,
+      "value": 0.8935493500469539
+    },
+    {
+      "year": 2000,
+      "value": 1.1751484068772764
+    },
+    {
+      "year": 2010,
+      "value": 1.5630495870428907
+    },
+    {
+      "year": 2020,
+      "value": 2.299034786616271
+    },
+    {
+      "year": 2024,
+      "value": 2.8103182863224494
+    }
+  ],
+  "formal": [
+    {
+      "year": 2012,
+      "value": 180733
+    },
+    {
+      "year": 2013,
+      "value": 184145
+    },
+    {
+      "year": 2014,
+      "value": 186679
+    },
+    {
+      "year": 2015,
+      "value": 190225
+    },
+    {
+      "year": 2016,
+      "value": 187694
+    },
+    {
+      "year": 2017,
+      "value": 190881
+    },
+    {
+      "year": 2018,
+      "value": 191433
+    },
+    {
+      "year": 2019,
+      "value": 192632
+    },
+    {
+      "year": 2020,
+      "value": 195149
+    },
+    {
+      "year": 2021,
+      "value": 194594
+    },
+    {
+      "year": 2022,
+      "value": 192578
+    },
+    {
+      "year": 2023,
+      "value": 190917
+    }
+  ],
+  "graduates": [
+    {
+      "year": 2010,
+      "value": 12982
+    },
+    {
+      "year": 2011,
+      "value": 14556
+    },
+    {
+      "year": 2012,
+      "value": 16280
+    },
+    {
+      "year": 2013,
+      "value": 16425
+    },
+    {
+      "year": 2014,
+      "value": 16043
+    },
+    {
+      "year": 2015,
+      "value": 17042
+    },
+    {
+      "year": 2016,
+      "value": 16568
+    },
+    {
+      "year": 2017,
+      "value": 17130
+    },
+    {
+      "year": 2018,
+      "value": 19234
+    },
+    {
+      "year": 2019,
+      "value": 20316
+    },
+    {
+      "year": 2020,
+      "value": 25052
+    },
+    {
+      "year": 2021,
+      "value": 23811
+    },
+    {
+      "year": 2022,
+      "value": 25535
+    },
+    {
+      "year": 2023,
+      "value": 32611
+    }
+  ],
+  "employers2023": [
+    {
+      "name": "Público federal",
+      "value": 11678
+    },
+    {
+      "name": "Público estadual",
+      "value": 43404
+    },
+    {
+      "name": "Público municipal",
+      "value": 113506
+    },
+    {
+      "name": "Empresa estatal",
+      "value": 15711
+    },
+    {
+      "name": "Empresa privada",
+      "value": 13057
+    },
+    {
+      "name": "Entidade sem fins lucrativos",
+      "value": 55210
+    },
+    {
+      "name": "Outros empregadores",
+      "value": 2633
+    }
+  ]
+}

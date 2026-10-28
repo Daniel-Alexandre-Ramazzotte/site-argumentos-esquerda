@@ -45,8 +45,10 @@ export function PriceDisplayToggle({
           <summary>Ver cálculo e fonte da correção</summary>
           <p>
             Valor real = valor nominal × número-índice do IPCA de dezembro de
-            2025 ÷ número-índice do mês observado. Nos gráficos anuais de
-            preços, o mês observado é dezembro. Índices mensais são usados sem
+            2025 ÷ número-índice do mês observado. Nos gráficos anuais de preços
+            e estoques, o mês observado é dezembro. Para orçamento anual, usamos
+            a média dos índices dos doze meses, uma aproximação sem a
+            distribuição mensal dos pagamentos. Índices mensais são usados sem
             arredondar os fatores de cálculo; o arredondamento ocorre apenas na
             apresentação.
           </p>

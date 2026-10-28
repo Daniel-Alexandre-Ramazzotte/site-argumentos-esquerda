@@ -69,7 +69,7 @@ export function debtIndicator(external = false, percent = true): Indicator {
     slug: `divida-${name}${percent ? "" : "-reais"}`,
     title: `Dívida ${name} líquida federal`,
     category: "Economia",
-    seriesName: `Dívida ${name} líquida · governo federal e Banco Central · dezembro`,
+    seriesName: `Dívida ${name} líquida · ${percent ? "% do PIB" : "R$ bilhões"} · governo federal e Banco Central · dezembro`,
     unit: percent ? "% do PIB" : "R$ bilhões",
     points: debt[code].points
       .filter((p) => percent || p.year >= 1995)
